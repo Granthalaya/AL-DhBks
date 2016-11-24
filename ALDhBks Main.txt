@@ -210,7 +210,7 @@ Present	Nyanaponika (Thera)			Abhidhamma Studies	Researches in Buddhist Psycholo
 Present	"Odin, Steve"			Process Metaphysics and Hua-Yen Buddhism	A Critical Study of Cumulative Penetration vs Interpenetration	1982	State University of New York Press			Non Triratna authors	GEN	ODI					0-87395-569-2	Paperback book	1
 Present	"Oliver, Ian P."			Buddhism in Britain		1979	Rider & Company	London		Non Triratna authors	GEN	OLI		western; britain; pali text society; buddhist scholars; buddhist society; theravada; tibet; FWBO; triratna; zen	Historical account of the emergence and growth of the various schools of Buddhist thought in Britain		0-09-138161-4	Paperback book	1
 Present	"Tenzin Palmo (Ani)"			Reflections on a Mountain Lake	Teachings on Practical Buddhism	2002				Non Triratna authors	GEN	PAL					1-55939-175-8	Book	1
-	"Pannapadipo, Phra Peter"			One Step at a Time	Buddhist meditation for absolute beginners	1998	Post Books	Bangkok		Meditation Guides (Non-Triratna)	GEN	PAN		meditation; beginners; thai	"Introduction to meditation for beginners including guidance on walking, lying and sitting meditations"		974-202030-2	Paperback book	1
+	"Pannapadipo, Peter (Phra)"			One Step at a Time	Buddhist meditation for absolute beginners	1998	Post Books	Bangkok		Meditation Guides (Non-Triratna)	GEN	PAN		meditation; beginners; thai	"Introduction to meditation for beginners including guidance on walking, lying and sitting meditations"		974-202030-2	Paperback book	1
 Present Sunthorn Plamintr (Phra)			Basic Buddhism Course		1991	The Corporate Body of the Buddha Educational Foundation			Non Triratna authors	GEN	PHR?					974-8358-83-6	Paperback book	2
 Present	Piyadassi			The Spectrum of Buddhism	Writings of Piyadassi	1991	The Corporate Body of the Buddha Educational Foundation			Non Triratna authors	GEN	PIY					955-9098-03-9	Paperback book	1
 Present	"Prebish, Charles S."			A Survey of Vinaya Literature		1994	Jin Luen Publishing House			Non Triratna authors	GEN	PRE					957-99787-0-0	Hardback Book	1
@@ -286,26 +286,26 @@ Present	Analayo			Satipa??h?na	The Direct Path to Realization	2004	Windhorse Pub
 	"Aronson, Harvey B."			Love and Sympathy in Theravada Buddhism		1999	Motilal Banarsidass			Theravada	GEN  	ARO					81-208-1403-7	Paperback book	1
 Present	"Breiter, Paul"			Venerable Father	A Life With Ahjahn Chah	1993	Mrs. Thiwasree Piyaphan			Theravada	GEN  	BRE						Paperback book	1
 Present "Byles, Marie B."			Journey into Burmese Silence		1962	George Allen and Unwin Ltd			Theravada	GEN  	BYL							2
-	"Desaransi, Ven. Acharn Thate"		Jayasaro Bhikku	Only the World Ends		1987	Wat Hin Mark Peng			Theravada	GEN  	DES						Paperback book	1
+	"Desaransi, Ajahn Thate"		Jayasaro Bhikku	Only the World Ends		1987	Wat Hin Mark Peng			Theravada	GEN  	DES						Paperback book	1
 Present	"Dhammadharo, Ajaan Lee"		"Thanissaro, Bhikkhu"	The Skill of Release		1995	Metta Forest Monastry			Theravada	GEN  	DHA						Paperback book	1
 Present	"Gombrich, Richard"			Buddhism Transformed	Religious Change in Sri Lanka	1990	Motilal Banarsidass			Theravada	GEN  	GOM					81-208-0702-2	Hardback book	1
-Present	"Gombrich, Richard, F."			Buddhist Precept and Practice	Traditional Buddhism of the Rural Highlands of Ceylon	1991	Motilal Banarsidass		2	Theravada	GEN  	GOM					81-208-0780-4	Hardback Book	1
+Present	"Gombrich, Richard"			Buddhist Precept and Practice	Traditional Buddhism of the Rural Highlands of Ceylon	1991	Motilal Banarsidass		2	Theravada	GEN  	GOM					81-208-0780-4	Hardback Book	1
 Present	"Gombrich, Richard"			Theravada Buddhism	A Social History from Ancient Benares to Modern Colombo	1991	Routledge			Theravada	GEN  	GOM					0-415-07585-8	Paperback book	1
 Present	"van Gorkom, Nina"			Buddhism in Daily Life		1977	Dharma Study Fund			Theravada	GEN  	GOR						Paperback book	1
-Present 	"Gunaratana, Henepola"			The Path of Serenity and Insight		1996	Motilal Banarsidass			Theravada	GEN  	GUN					81-208-1236-5	Hardback book	3
+Present "Gunaratana, Henepola"			The Path of Serenity and Insight		1996	Motilal Banarsidass			Theravada	GEN  	GUN					81-208-1236-5	Hardback book	3
 Present	"King, Winston L."			In the Hope of Nibbana	The Ethics of Therawada	1964	Open Court Publishing Co.		1	Theravada	GEN  	KIN					0-87548-231-7	Paperback book	1
 Present	"Lancaster, Lewis R."			Assimilation of Buddhism in Korea	Religious Maturity and Innovation in the Silla Dynasty	1991	Asian Humanities Press			Theravada	GEN  	LAN					0-89581-889-2	Paperback book	1
 Present	"Masefield, Peter"			Divine Revelation in Pali Buddhism		1986	George Allen and Unwin Ltd			Theravada	GEN  	MAS						Paperback book	1
-Present	"Nanayon, Upasaka Kee"			An Unentangled Knowing	Lessons in training the mind	1996	Buddhist Publication Society			Theravada	GEN  	NAN					955-24-0145-3	Paperback book	1
-Present	"Nanasampanno, Phra Maha Boowa"			Forest Dhamma	A selection of talks on Buddhist Practice	1973	Sathirakoses-nagapradipa Foundation			Theravada	GEN  	NAN						Paperback book	1
-	Nyanasampanno			The Venerable Phra Acharn Mun Bhuridatta	Meditation Master	1982	Funny Publishing Limited Partnership			Theravada	GEN  	NYA						Paperback book	1
-Present	"Pannapadipo, Phra Peter"			Phra Farang	An English Monk in Thailand	1999	Post Books		3	Theravada	GEN  	PAN					974-202-019-1	Paperback book	1
+Present	"Nanayon, Kee (Upesaka)"			An Unentangled Knowing	Lessons in training the mind	1996	Buddhist Publication Society			Theravada	GEN  	NAN					955-24-0145-3	Paperback book	1
+Present	"Nanasampanno, Boowa (Phra Maha)"			Forest Dhamma	A selection of talks on Buddhist Practice	1973	Sathirakoses-nagapradipa Foundation			Theravada	GEN  	NAN						Paperback book	1
+	Nanasampanno, Boowa (Phra Maha)			The Venerable Phra Acharn Mun Bhuridatta	Meditation Master	1982	Funny Publishing Limited Partnership			Theravada	GEN  	NYA						Paperback book	1
+Present	"Pannapadipo, Peter (Phra)"			Phra Farang	An English Monk in Thailand	1999	Post Books		3	Theravada	GEN  	PAN					974-202-019-1	Paperback book	1
 Present	"Rahula, Walpola"			The Heritage of the Bhikkhu		1974	Grove Press			Theravada	GEN  	RAH					0-8021-0007-4	Paperback book	1
-Present	"Sayadaw, Mahasi"			The Great Discourse on Not Self	(Anattalakkhana Sutta)	1996	The Buddhadhamma Foundation		1	Theravada	GEN  	SAY					974789052-6	Paperback book	1
-	"Sayadaw, Mahasi"		U Aye Maung	The Questions of Sakka		1996	Association for insight meditation		1	Theravada	GEN  	SAY						Paperback book	1
-Present	"Silananda, Venerable U."			The Four Foundations of Mindfulness		2002	Wisdom Publications			Theravada	GEN  	SIL					0-86171-328-1	Paperback book	1
-Present	"Sumedho, Ajahn"			Cittaviveka	Teachings from the silent mind	1983	Funny Press		1	Theravada	GEN  	SUM						Paperback book	1
-Present	"Thanissaro, Bhikkhu"			The Mind Like Fire Unbound		1999	Dhamma Dana Publications		3	Theravada	GEN  	THA?						Paperback book	1
+Present	"Sobhana (Mahasi Sayadaw)"			The Great Discourse on Not Self	(Anattalakkhana Sutta)	1996	The Buddhadhamma Foundation		1	Theravada	GEN  	SAY					974789052-6	Paperback book	1
+	Sobhana (Mahasi Sayadaw)	U Aye Maung	The Questions of Sakka		1996	Association for insight meditation		1	Theravada	GEN  	SAY						Paperback book	1
+Present	"Silananda, (Venerable U.)"			The Four Foundations of Mindfulness		2002	Wisdom Publications			Theravada	GEN  	SIL					0-86171-328-1	Paperback book	1
+Present	"Ajahn Sumedho"			Cittaviveka	Teachings from the silent mind	1983	Funny Press		1	Theravada	GEN  	SUM						Paperback book	1
+Present	"Thanissaro (Bhikkhu)"			The Mind Like Fire Unbound		1999	Dhamma Dana Publications		3	Theravada	GEN  	THA?						Paperback book	1
 	"Tiyavanich, Kamala"			Forest Recollections	Wandering Monks in Twentieth-Century Thailand	1997	University of Hawaii Press			Theravada	GEN  	TIY					0-8248-1781-8	Paperback book	1
 Present	"Tiyavanich, Kamala"			The Buddha in the Jungle		2003	Silkworm Books			Theravada	GEN  	TIY					974-9575-27-x	Paperback book	1
 Present	"Burlingame, Eugene Watson"			A Treasury of Buddhist Stories	From the Dhammapada Commentary	1996	Buddhist Publication Society			Non Triratna authors	GEN?	BUR					955-24-0147-X	Paperback book	1
@@ -315,7 +315,7 @@ Present	"Abe, Masao"			A Study of Dogen	His philosophy and religion	1992	State U
 Present	"Abe, Ryuichi"			The Weaving of Mantra	Kukai and the construction of esoteric Buddhist discourse	1999	Columbia university press	New York		Japanese	JAP	ABE					0-231-11286-6	hardback	1
 Present	"Andreasen, Esben"			Popular Buddhism in Japan	Shin Buddhist religion and culture	1998	Japan Library	Avon		Japanese	JAP	AND					1-873410-77-8	Paperback	1
 Present	"Bancroft, Anne"			Zen	Direct pointing to reality	1987	Thames and Hudson	Singapore	First edition	Japanese	JAP	BAN					0-500-81018-4	Paperback	1
-Present	Basho		"Stryk, Lucien"	Haiku		1995	Penguin books	London		Japanese	JAP	BAS					0-14-600164-8	Paperback	1
+Present	Basho, Matsuo		"Stryk, Lucien"	Haiku		1995	Penguin books	London		Japanese	JAP	BAS					0-14-600164-8	Paperback	1
 Present	"Benoit, Hubert"			Let go!	Theory and practice of detachment according to Zen	1962	George Alan and Unwin ltd.	London	First edition	Japanese	JAP	BEN						hardback	1
 Present	"Benedict, Ruth"			The Chrysanthemum and the Sword	Patterns of Japanese culture	1977	Routledge and Kegan Paul	London		Japanese	JAP	BEN					0-7100-8677-6	Paperback	1
 Present	"Benoit, Hubert"			The Supreme Doctrine	Psychological studies in Zen thought	1955	Routledge and Kegan Paul	London	First edition	Japanese	JAP	BEN						hardback	1
@@ -330,11 +330,11 @@ Present	"Blyth, R. H."			Zen in English Literature and Oriental Classics		1942	T
 Present	Bodhidharma		"Pine, Red"	The Zen Teachings of Bodhidharma		1989	North point press	San Francisco	First edition	Japanese	JAP	BOD					0-86547-399-4	Paperback	1
 Present	"Buswell, Robert E. Jr."			Tracing Back the Radiance	Chinul's korean way of Zen	1991	University of Hawaii Press	Hawaii		Japanese	JAP	BUS					0-8248-1427-4	Paperback	1
 Present	"Causton, Richard"			Nichiren Shosu Buddhism	An introduction	1988	Rider and company	London		Japanese	JAP	CAU					0-7126-2269-1	Paperback	1
-Present	"Chen-Chi, Chang"			The Practice of Zen		1960	Rider and company	London		Japanese	JAP	CHE						Hardback	1
+Present	"Chang Chen-Chi"			The Practice of Zen		1960	Rider and company	London		Japanese	JAP	CHE						Hardback	1
 Present	"Christensen, J.A."			Nicheren	Leader of Buddhist reformation in Japan	2001	Jain Publishing Company	California		Japanese	JAP	CHR					0-87573-086-8	Paperback	1
 Present	"Clearly, Thomas"			Rational Zen	The mind of Dogen Zenji	1993	Shambala Publications	Boston	First edition	Japanese	JAP	CLE					0-87773-689-8	hardback	1
 Present	"Clearly, Thomas"			Zen Antics	100 stories of enightenment	1993	Shambala Publications	Boston	First edition	Japanese	JAP	CLE					0-87773-944-7	paperback	1
-Present	"Clearly, J.C. and Clearly. Thomas"			Zen Letters	Teachings of Yuanwu	1994	Shambala Publications	Boston	First edition	Japanese	JAP	CLE					0-87773-931-5	Paperback	1
+Present	"Clearly, J.C. & Clearly. Thomas"			Zen Letters	Teachings of Yuanwu	1994	Shambala Publications	Boston	First edition	Japanese	JAP	CLE					0-87773-931-5	Paperback	1
 Present	Dogen		"Masunaga, Reiho"	A Primer of Soto Zen	A translation of Dogens Shobogenzo zuimonki	1972	Routledge and Kegan Paul	London	First edition	Japanese	JAP	DOG					0-7100-7227-9	Hardback	1
 Present	Dogen		"Nishijima, Gudo and Cross, Chodo"	Shobogenzo Book 1		1994	Windbell Publications		Surrey	Japanese	JAP	DOG					09523002-1-4	Paperback	1
 Present	Dogen		"Nishijima, Gudo and Cross, Chodo"	Shobogenzo Book 2		1996	Windbell Publications		Surrey	Japanese	JAP	DOG					09523002-2-2	Paperback	1
@@ -349,20 +349,20 @@ Present	"Franck, Frederick"			The Zen of Seeing	Seeing/drawing as meditation	197
 Present	"Gabb, W. J."			The Goose is Out	Going out there is no other. Returning there is no trace	1972	The Buddhist Society	London	Second edition	Japanese	JAP	GAB						Paperback	1
 Present	"Giles, H. A."			The Travels of Fa-Hsien	Or record of the Buddhist kingdoms	1956	Routledge and Kegan Paul	London	First edition	Japanese	JAP	GIL						Hardback	1
 Present	"Groner, Paul"			Saicho	The establishment of the Japanese Tendai school	2000	University of Hawaii Press	Honolulu	First edition	Japanese	JAP	GRO					0-8248-2371-0	Paperback	1
-Present	Hakuin Zenji		"Shaw, RDM"	Selection from the Embossed Tea Kettle		1986	Paul H. Crompton limited	London		Japanese	JAP	HAK					0-901764760	paperback	1
+Present	Hakuin (Zenji)		"Shaw, RDM"	Selection from the Embossed Tea Kettle		1986	Paul H. Crompton limited	London		Japanese	JAP	HAK					0-901764760	paperback	1
 Present	"Hanh, Tich Nhat"			Zen Keys	A Zen monk examines the Vietnamese tradition	1974	Anchor books	New York		Japanese	JAP	HAN					0-385-80866-2	Paperback	1
 Present	"Harrison, E. J."			The Fighting Spirit of Japan			W. Foulsham & Co. Ltd.	New York		Japanese	JAP	HAR						Hardback	1
 Present	"Hearn, Lafcadio"			The Rebirth of Katsugoro		1983	Buddhist publication society	Sri Lanka		Japanese	JAP	HEA						pamphlet	1
-Present	"Heine, Steven and Wright, Dale, eds"			The Koan	Text and Context in Zen Buddhism	2000	Oxford University Press			Japanese	JAP	HEI					0-19-511749-2	Paperback	1
+Present	"Heine, Steven & Wright, Dale, eds"			The Koan	Text and Context in Zen Buddhism	2000	Oxford University Press			Japanese	JAP	HEI					0-19-511749-2	Paperback	1
 Present	"Herrigel, Eugen"		"Hull, R F C"	The Method of Zen		1960	Routledge and Kegan Paul	London		Japanese	JAP	HER						Hardback	1
 Present	"Herrigel, Eugen"		"Hull, R F C"	The Method of Zen		1988	Arkana	London		Japanese	JAP	HER					1-85063-099-2	Paperback	1
 Present	"Herrigel, Eugen"		"Hull, R F C"	Zen in the Art of Archery		1959	Routledge and Kegan Paul	London		Japanese	JAP	HER						Hardback	1
 Present	Honen		Sen Chakushu The English Translation Project	Honen's Senchakushu	Passages of the selection of the Nembutsu in the original vow	1998	University of Hawaii Press	USA		Japanese	JAP	HON					0-8248-2110-6	Paperback	1
 Present	"Hoover, Thomas"			Zen Culture	"How Zen has influenced art, architechture, literature, sports, ceramics, theatre"	1977	Random house	New York		Japanese	JAP	HOO					0-394-41072-6	Hardback	1
-Present	"Humpherey, Christmas"			A Western Approach to the Zen		1985	Unwin paperbacks	London		Japanese	JAP	HUM					0-04-181027-9	Paperback	1
-Present	"Humpherey, Christmas (ed)"		"Mou-Lam, Wong"	The Suttra of Hui Neng	The basic scripture of zen buddhism	1966	The Buddhist Society	London	Fourth edition	Japanese	JAP	HUM						Paperback	1
-Present	"Humpherey, Christmas"			Zen Buddhism		1949	William Heinemann ltd.	London	First edition	Japanese	JAP	HUM						Hardback	1
-Present	"Humphereys, Christmas"			"Zen, a Way of Life"		1962	The English Universities Press			Japanese	JAP	HUM						Hardback	1
+Present	"Humphreys, Christmas"			A Western Approach to the Zen		1985	Unwin paperbacks	London		Japanese	JAP	HUM					0-04-181027-9	Paperback	1
+Present	"Humphreys, Christmas (ed)"		"Mou-Lam, Wong"	The Suttra of Hui Neng	The basic scripture of zen buddhism	1966	The Buddhist Society	London	Fourth edition	Japanese	JAP	HUM						Paperback	1
+Present	"Humphreys, Christmas"			Zen Buddhism		1949	William Heinemann ltd.	London	First edition	Japanese	JAP	HUM						Hardback	1
+Present	"Humphreys, Christmas"			"Zen, a Way of Life"		1962	The English Universities Press			Japanese	JAP	HUM						Hardback	1
 Present	"Inagaki, Zuiken S."			Nembutsu and Zen	Zuiken's sayings	1995	Horai Association	Kyoto	First edition	Japanese	JAP	IAN					4-8162-6957-6	Hardback	1
 Present	Issa		"Stryk, Lucien"	The Dumpling Field	Haiku of Issa	1991	Ohio University Press	Ohio	First edition	Japanese	JAP	ISS					0-8040-0953-8	paperback	1
 Present	"Itsuki, Hiroyuki"		"Roberts, Joseph"	Tariki	"Embracing Despair, Discovering Peace"	2001	Kodansha	Tokyo	First edition	Japanese	JAP	ITS					4-06209-981-0	Hardback	1
