@@ -363,20 +363,20 @@ Present	"Humphreys, Christmas"			A Western Approach to the Zen		1985	Unwin paper
 Present	"Humphreys, Christmas (ed)"		"Mou-Lam, Wong"	The Suttra of Hui Neng	The basic scripture of zen buddhism	1966	The Buddhist Society	London	Fourth edition	Japanese	JAP	HUM						Paperback	1
 Present	"Humphreys, Christmas"			Zen Buddhism		1949	William Heinemann ltd.	London	First edition	Japanese	JAP	HUM						Hardback	1
 Present	"Humphreys, Christmas"			"Zen, a Way of Life"		1962	The English Universities Press			Japanese	JAP	HUM						Hardback	1
-Present	"Inagaki, Zuiken S."			Nembutsu and Zen	Zuiken's sayings	1995	Horai Association	Kyoto	First edition	Japanese	JAP	IAN					4-8162-6957-6	Hardback	1
+Present	"Zuiken Saizo Inagaki"			Nembutsu and Zen	Zuiken's sayings	1995	Horai Association	Kyoto	First edition	Japanese	JAP	IAN					4-8162-6957-6	Hardback	1
 Present	Issa		"Stryk, Lucien"	The Dumpling Field	Haiku of Issa	1991	Ohio University Press	Ohio	First edition	Japanese	JAP	ISS					0-8040-0953-8	paperback	1
 Present	"Itsuki, Hiroyuki"		"Roberts, Joseph"	Tariki	"Embracing Despair, Discovering Peace"	2001	Kodansha	Tokyo	First edition	Japanese	JAP	ITS					4-06209-981-0	Hardback	1
-Present	"Kadowaki SJ, J. K."			Zen and the Bible	A priest's experience	1980	Routledge and Kegan Paul	London		Japanese	JAP	KAD					0-100-0402-8	Paperback	1
+Present	"Kadowaki SJ, J. Kakichi."			Zen and the Bible	A priest's experience	1980	Routledge and Kegan Paul	London		Japanese	JAP	KAD					0-100-0402-8	Paperback	1
 Present	"Kapleau, Philip"			Awakening to Zen	The teachings of Roshi Pilip Kapleau	1997	Shambala Publications	Boston	First edition	Japanese	JAP	KAP					1-57062-806-8	Paperback	1
 Present	"Kapleau, Philip"			Straight to the Heart of Zen	Eleven classic koans and their inner meanings	2001	Shambala Publications	Boston	First edition	Japanese	JAP	KAP					1-57062-593-x	Paperback	1
 Present	"Kapleau, Philip"			The Three Pillars of Zen	"Teaching, practice, and enlightenment"	2000	Anchor books	USA		Japanese	JAP	KAP					978-0-385-26093-0	Paperback	1
 Present	"Kapleau, Philip"			The Three Pillars of Zen	"Teaching, practice, and enlightenment"	1967	"John Weatherhill, inc."	Tokyo		Japanese	JAP	KAP						Hardback	1
 Present	"Kapleau, Philip"			The Wheel of Death	Writings from Zen Buddhists and other sources	1972	George Allen & Unwin ltd.	London	First edition	Japanese	JAP	KAP					0-04-294074-5	Hardback	1
 Present	"Keel, Hee-Sung"			Understanding Shinran	A dialogical approach	1995	Asian humanities press	California	First edition	Japanese	JAP	KEE					0-89581-937-6	Hardback	1
-Present	"Kennett, Roshi Jiyu"			How to Grow a Lotus Blossom	or how a Zen Buddhist prepares for death	1977	Shasta Abbey	California	First edition	Japanese	JAP	KEN					0-930066-01-4	Paperback	1
-Present	"Kennett, Jiyu"			Selling Water by the River	A manual of Zen training	1973	George Allen & Unwin ltd.	London	First edition	Japanese	JAP	KEN					0-04-294078-8	Hardback	1
+Present	"Jiyu-Kennett (Roshi)"			How to Grow a Lotus Blossom	or how a Zen Buddhist prepares for death	1977	Shasta Abbey	California	First edition	Japanese	JAP	KEN					0-930066-01-4	Paperback	1
+Present	"Jiyu-Kennett (Roshi)"			Selling Water by the River	A manual of Zen training	1973	George Allen & Unwin ltd.	London	First edition	Japanese	JAP	KEN					0-04-294078-8	Hardback	1
 Present	"Kenko, Yoshida"		"Kurata, Ryukichi"	The Harvest of Leisure		1948	"John Murray, Albermarle Street."	London		Japanese	JAP	KEN						Hardback	1
-Present	"Kennett, Roshi Jiyu"			Zen is Eternal Life	Formerly published as Selling water by the river	1976	Dharma publishing	California		Japanese	JAP	KEN					0-913546-38-0	Paperback	1
+Present	"Jiyu-Kennett (Roshi)"			Zen is Eternal Life	Formerly published as Selling water by the river	1976	Dharma publishing	California		Japanese	JAP	KEN					0-913546-38-0	Paperback	1
 Present	"LaFleur, William R."			Liquid Life	Abortion and Buddhism in Japan	1994	Princeton University Press	New Jersey		Japanese	JAP	LaF					0-691-02965-2	paperback	1
 Present	"Leggett, Trevor"			The Warrior Koans	Early Zen in Japan	1986	Arkana	London		Japanese	JAP	LEG					0-14-019067-8	paperback	1
 Present	"Linssen, Robert"		"Abrahams-Curiel, D."	Living Zen		1958	George Allen & Unwin ltd.	London	First edition	Japanese	JAP	LIN						Hardback	1
@@ -388,14 +388,14 @@ Present	"Luk, Charles (Lu K'uan Yu)"			Ch'an and Zen Teaching		1987	Century	Lond
 Present	"Luk, Charles (Lu K'uan Yu)"			Practical Buddhism	The Application of Ch'an Teaching to Daily Life	1988	Rider and company	London	Second edition	Japanese	JAP	LUK					0-7126-1735-3	Paperback	2
 Present	"Luk, Charles (Lu K'uan Yu)"			The Secrets of Chinese Meditation		1984	Rider pocket editions	London		Japanese	JAP	LUK					0-09-155091-2	Paperback	1
 Present	"Luk, Charles (Lu K'uan Yu)"			The Transmission of the Mind	Outside the teaching	1974	Rider and company	London	First edition	Japanese	JAP	LUK					00-09-119280-3	Hardback	1
-Present	"Mackennzie, Lewis trans."			The Autumn Wind	A selection of the poems of Issa	1984	Kodansha	London		Japanese	JAP	MAC					0-87011-657-6	Paperback	1
+Present	"Mackennzie, Lewis (trans.)"			The Autumn Wind	A selection of the poems of Issa	1984	Kodansha	London		Japanese	JAP	MAC					0-87011-657-6	Paperback	1
 Present	"Masunaga, Reiho"			The Soto Approach to Zen		1958	Layman Buddhist society press		First edition	Japanese	JAP	MAS						Hardback	1
 Present	"Merton, Thomas"			Thomas Merton on Zen		1983	Sheldon press	London		Japanese	JAP	MER					0-85969-076-8	Paperback	1
 Present	"Merton, Thomas"			Zen and the Birds of Appetite		1968	New directions	New York		Japanese	JAP	MER					0-8112-0104-x	Paperback	1
 Present	P'ang		"Sasaki, Ruth Fuller;  Iriya, Yushitaka and Fraiser, Dana R. trans"	The Recorded Sayings of Layman P'ang	A ninth century Zen classic	1971	"John Weatherhill, inc."	New York	First edition	Japanese	JAP	PAN					0-8348-0057-8	Hardback	1
 Present	"Powell, Robert"			The Great Awakening	Reflections on Zen and reality	1983	The theosophical publishing house	Weaton	First edition	Japanese	JAP	POW					0-8356-0577-9	Paperback	1
 Present	"Rahula, Walpola"			Zen & the Taming of the Bull	Towards the definition of Buddhist thoughts	1978	Gordon Fraiser	London	First edition	Japanese	JAP	RAH					0-900406-69-0	Hardback	1
-Present	"Rajneesh, Bhagwan Shree "			"No Water, No Moon"	Reflections on Zen	1977	Sheldon Press		London	Japanese	JAP	RAJ					0-85969-103-9	Paperback	1
+Present	"Rajneesh (Bhagwan Shree) "			"No Water, No Moon"	Reflections on Zen	1977	Sheldon Press		London	Japanese	JAP	RAJ					0-85969-103-9	Paperback	1
 Present	"Reps, Paul"			"Zen Flesh, Zen Bones"	A collection of Zen and pre-Zen writings	1957	Charles E. Tuttle comany	London	First edition	Japanese	JAP	REP							1
 Present	"Reps, Paul"			"Zen Flesh, Zen Bones"	A collection of Zen and pre-Zen writings	1987	Penguin books	London		Japanese	JAP	REP					0-14-021283-3	Paperback	1
 Present	"Reps, Paul"			Zen Telegrams	79 picture poems	1962	Charles E. Tuttle comany	Tokyo		Japanese	JAP	REP						Paperback	1
@@ -403,15 +403,15 @@ Present	Ryokan		"Stevens, John"	"One Robe, One Bowl"	The Zen poetry of Ryokan	19
 Present	"Schloegl, Irmgard"			The Wisdom of the Zen Masters		1975	Sheldon	London	first edition	Japanese	JAP	SCH					0-85969-033-4	Paperback	1
 Present	"Schloegl, Irmgard"			The Zen Way		1977	Sheldon press books	London	First edition	Japanese	JAP	SCH					0-85969-098-9	Paperback	1
 Present	"Sekida, Katsuki"			Zen Training	Methods and Philosophy	1976	"John Weatherhill, inc."			Japanese	JAP	SEK					0-8348-0114-0	Paperback	1
-Present	Senzaki			101 Zen Stories			Kessinger Publishing			Japanese	JAP	SEN					978-1162735276	Paperback	1
-Present	"Shaku, Soyen, Rev"		"Suzuki, D. T"	Sermons of a Buddhist Abbot	Addresses on Religious Subjects	1971	"Samual Weiser, Inc."			Japanese	JAP	SHA					0-87728-160-2	Paperback	1
+Present	Senzaki, Nyogen			101 Zen Stories			Kessinger Publishing			Japanese	JAP	SEN					978-1162735276	Paperback	1
+Present	"Shaku, Soyen (Rev)"		"Suzuki, D. T"	Sermons of a Buddhist Abbot	Addresses on Religious Subjects	1971	"Samual Weiser, Inc."			Japanese	JAP	SHA					0-87728-160-2	Paperback	1
 Present	"Shaw, R.D.M."			The Blue Cliff Records	The Hekigan roku. Containing 100 stories of Zen masters of ancient China	1961	Michael Joseph ltd.	London	First edition	Japanese	JAP	SHA						Hardback	1
-Present	"Sheng-yen, Ch'an master"			Faith in Mind	A Guide to Ch-an Practice	1987	Dharma Drum Publications			Japanese	JAP	SHE					0-9609854-2-5	paperback	1
-Present	"Sheng-yen, Ch'an master"			Getting the Buddha Mind		1989	Dharma Drum Publications			Japanese	JAP	SHE					0-96-9854-0-9	paperback	1
-Present	"Sheng-yen, Ch'an master"			The Infinite Mirror	Commentaries on Enquiry into Matching Halves and Songs of the Precious Mirror Samadhi	1990	Dharma Drum Publications			Japanese	JAP	SHE					0-960-9854-4-1	paperback	1
-Present	"Sheng-yen, Ch'an master"			The Sword of Wisdom		1990	Dharma Drum Publications	First edition		Japanese	JAP	SHE					0-9609854-5-X	paperback	1
-Present	"Sheng-yen, Ch'an master"			The Sword of Wisdom		2002	North Atlantic Books			Japanese	JAP	SHE					1-55643-428-6	paperback	1
-Present	"Shibayama, Zenkei Abbott"	"Kudo, Sumiko"		A Flower Does Not Talk	Zen Essays	1977	Charles E. Tuttle comany	Tokyo		Japanese	JAP	SHI					0-8048-088408	Paperback	1
+Present	"Sheng-yen (Ch'an Master)"			Faith in Mind	A Guide to Ch-an Practice	1987	Dharma Drum Publications			Japanese	JAP	SHE					0-9609854-2-5	paperback	1
+Present	"Sheng-yen (Ch'an Master)"			Getting the Buddha Mind		1989	Dharma Drum Publications			Japanese	JAP	SHE					0-96-9854-0-9	paperback	1
+Present	"Sheng-yen (Ch'an Master)"			The Infinite Mirror	Commentaries on Enquiry into Matching Halves and Songs of the Precious Mirror Samadhi	1990	Dharma Drum Publications			Japanese	JAP	SHE					0-960-9854-4-1	paperback	1
+Present	"Sheng-yen (Ch'an Master)"			The Sword of Wisdom		1990	Dharma Drum Publications	First edition		Japanese	JAP	SHE					0-9609854-5-X	paperback	1
+Present	"Sheng-yen (Ch'an Master)"			The Sword of Wisdom		2002	North Atlantic Books			Japanese	JAP	SHE					1-55643-428-6	paperback	1
+Present	"Shibayama, Zenkei (Abbott)"	"Kudo, Sumiko"		A Flower Does Not Talk	Zen Essays	1977	Charles E. Tuttle comany	Tokyo		Japanese	JAP	SHI					0-8048-088408	Paperback	1
 Present	Shinran			Collected Works Vols 1 and 2		1997	Jodo Shinshu Hongwanji-ha		First edition	Japanese	JAP	SHI						Hardback	2
 	"Smith, Forrest.G (ed)"			Pure-Land Zen Zen Pure-Land	Letters from Patriarch Yin Kuang	1993	Sutra Translation Committee of the United States and Canada	"New York, San Francisco, Toronto"	2	Buddhist scriptures; anthologies	JAP	SMI		pure land; zen; yin kuang	"This book is a translation of selected passages from the letters of Elder Master Yin Kuang, the Thirteenth Patriarch of Pure Land."			Book	1
 Present	"Spiegelberg, Frederic"			Zen Rocks and Water		1962	George Allen & Unwin ltd.	First edition		Japanese	JAP	SPI						hardback	1
@@ -437,8 +437,8 @@ Present	"Switzer, Irwin A"			D. T. Suzuki: A Biography		1985	The Buddhist Societ
 Present	"Takahashi, Shinkichi"		"Styk, Lucien & Ikemoto, Takashi"	Afterimages 	Zen Poems	1971	London Magazine Editions			Japanese	JAP	TAK					900626-17-8	Hardback	1
 Present	"Takahashi, Shinkichi"	Lok To		Pure Land of the Patriarchs		1993	The Corporate Body of the Buddha Educational Foundation			Japanese	JAP	TAK						Paperback	1
 Present	"Tamura, Yoshiro"			Japanese Buddhism	A Cultural History	2000	Kosei Publishing Company			Japanese	JAP	TAM					4-333-01684-3	paperback	1
-Present	"Tanahashi, Kazuaki ed."			Enlightenment Unfolds	The Essential Teachings of Zen Master Dogen	1998	Shambala Publications			Japanese	JAP	TAN					1-570062-570-0	paperback	1
-Present	"Tang, Lin Yu"			Peace is in the Heart			Peter Huston			Japanese	JAP	TAN						Hardback	1
+Present	"Tanahashi, Kazuaki (ed)"			Enlightenment Unfolds	The Essential Teachings of Zen Master Dogen	1998	Shambala Publications			Japanese	JAP	TAN					1-570062-570-0	paperback	1
+Present	"Lin Yutang"			Peace is in the Heart			Peter Huston			Japanese	JAP	TAN						Hardback	1
 Present	"Unno, Taitetsu"			"River of Fire, River of Water"		1998	Doubleday			Japanese	JAP	UNN					0-385-48511-5	Paperback	1
 Present	"Wadell, Norman"			The Essential Teachings of Zen Master Hakuin		1994	Shambala Publications	Boston	First edition	Japanese	JAP	WAD					0-87773-972-2	paperback	1
 Present	"Watts, Alan"			The Book on the Taboo Against Knowing Who You Are		1969	Jonathan Cape	First edition		Japanese	JAP	WAT					224-61599-8	Hardback	1
@@ -452,32 +452,32 @@ Present	Wei Wu Wei			Fingers Pointing Towards the Moon	Reflections of a Pilgrim 
 Present	Wei Wu Wei			Open Secret		1965	Hong Kong University Press			Japanese	JAP	WEI						Paperback	1
 Present	Wei Wu Wei			The Tenth Man	The Great Joke (which made Lazarus laugh)	1966	Hong Kong University Press			Japanese	JAP	WEI						Paperback	2
 Present	"Yamasaki, Taiko"		"Peterson, Richard & Cynthia"	"Shingon, Japanese Esoteric Buddhism"		1988	Shambhala			Japanese	JAP	YAM					0-87773-443-7	paperback	1
-Present	"Yamada, Koun trans."			The Gateless Gate	The Classic Book on Zen Koans	1990	Wisdom Publications			Japanese	JAP	YAM					0-86171-382-6	paperback	1
+Present	"Yamada, Koun (trans)"			The Gateless Gate	The Classic Book on Zen Koans	1990	Wisdom Publications			Japanese	JAP	YAM					0-86171-382-6	paperback	1
 Present			"Yampolsky, Philip B "	The Platform Sutra of the Sixth Patriarch	The Text of the Tun-Huang Manuscript	1967	Columbia university press			Japanese	JAP	YAM					0231-08361-0	Paperback	2
 Present			"Futaba, K."	Shozomatsu Wasan - Shinran's Hymns on the last age	Ryukoku Translation Series VII	1980	Ryukoku University			Mahayana Sutras	JAP?	SHI?						Paperback book	1
-Present	"Hai, Bhikkshu Jan"			A Pictorial Biography of Sakyamuni Buddha		1998	The Corporate Body of the Buddha Educational Foundation			Books in other languages	LOB	HAI	Ch					Paperback book	1
-Present	Bhikkhu Silacara			A Young People's Life of the Buddha		1953	W. E. Bastian & Co.			Non Triratna authors	LoB	SIL						Paperback book	1
+Present	"Hai, Jan (Bhikkshu)"			A Pictorial Biography of Sakyamuni Buddha		1998	The Corporate Body of the Buddha Educational Foundation			Books in other languages	LOB	HAI	Ch					Paperback book	1
+Present	Silacara (Bhikkhu)			A Young People's Life of the Buddha		1953	W. E. Bastian & Co.			Non Triratna authors	LoB	SIL						Paperback book	1
 Present	"Albers, A. Christina"			The Life of the Buddha			The Maha Bodhi Society of India			Non Triratna authors	LoB?	ALB						Phamphlet	1
 Present	"Carrithers, Michael"			The Buddha	Past Masters	1983	Oxford University Press			Non Triratna authors	LoB?	CAR					0-19-287589-2	Paperback book	3
-Present	"Coomeraswamy, Ananda K., Horner, I.B."			Gotama the Buddha		1948	Cassell			Non Triratna authors	LoB?	COO						Hardback book	1
+Present	"Coomeraswamy, Ananda K. & Horner, I.B."			Gotama the Buddha		1948	Cassell			Non Triratna authors	LoB?	COO						Hardback book	1
 Present	"Kalupahana, David J."			The Way of Siddhartha	A life of the Buddha	1987	University Press of America			Non Triratna authors	LoB?	KAL					0-8191-6066-0	Paperback book	1
 Present	"Landaw, Jonathan"		"Ven. Geshe Lobsang Jordhen, Losang Choephel Ganchenpa and Jeremy Russell"	Story of the Buddha						Non Triratna authors	LoB?	LAN				Needs mending			
 Present	"Saddhatissa, Hammalawa"			The Life of the Buddha		1976	George Allen and Unwin Ltd			Non Triratna authors	LoB?	SAD					0-04-294094-X	Hardback book	1
 Present	Asanga		"Rahula, W., Boin-Webb, S."	Abhidharmasamuccaya	The compendium of the Higher Teaching (Philosophy)	2001	Jain Publishing Company			Madhyamaka and Yogacara	MAH	GEN	ASA				0-89581-941-4	Hardback book	1
 Present	Asanga		"Keenan, J.P."	The Summary of the Great Vehicle		1992	Numata Centre for Buddhist Translation and Research			Madhyamaka and Yogacara	MAH	GEN	ASA				0-9625618-6-X	Hardback book	2
-Present	"Chau, Bhiksu Thich Minh "			The Chinese Madhyama Agama and the Pali Majjhima Nikaya		1991	Motilal Banarsidass			Mahayana Studies	MAH	GEN	CHA				81-208-0794-4	Hardback book	1
-Present	Patriarch Ou-I		"Cleary, J.C."	Mind-Seal of the Buddhas	Patriarch Ou-I's Commentary on th Amitabha Sutra	1997	Sutra Translation Committee of the United States and Canada			Mahayana Studies	MAH	GEN	CLE					Paperback book	2
+Present	"Minh Chau, Thich (Bikshu) "			The Chinese Madhyama Agama and the Pali Majjhima Nikaya		1991	Motilal Banarsidass			Mahayana Studies	MAH	GEN	CHA				81-208-0794-4	Hardback book	1
+Present	Ou-I (Patriarch)		"Cleary, J.C."	Mind-Seal of the Buddhas	Patriarch Ou-I's Commentary on th Amitabha Sutra	1997	Sutra Translation Committee of the United States and Canada			Mahayana Studies	MAH	GEN	CLE					Paperback book	2
 Present	"Hanh, Thich Nhat"			The Heart of Understanding	Commentaries on the prajnaparamita Heart Sutra	1988	Parallax Press			Mahayana Studies	MAH	GEN	HAN				0-938077-11-2	Paperback book	2
 Present	Hsuan Hua		Buddhist Text Translation Society	The Heart of Prajna Paramita Sutra		2002	Buddhist Text Translation Society			Madhyamaka and Yogacara	MAH	GEN	HSU				0-88139-484-X	Hardback book	1
 Present	"Lopez, Donald S Jr"			The Heart Sutra Explained	Indian and Tibetan Commentaries		State University of New York Press			Mahayana Studies	MAH	GEN	LOP				0-88706-590-2	Paperback book	1
-Present	"Maitreya, Arya"		"Martin, M."	Distinguishing the Middle from the Extremes	Chapter Five The Distinctive Path of the Mahayana	1991	Marpa Institute			Madhyamaka and Yogacara	MAH	GEN	MAI					Paperback book	1
+Present	"Arya Maitreya"		"Martin, M."	Distinguishing the Middle from the Extremes	Chapter Five The Distinctive Path of the Mahayana	1991	Marpa Institute			Madhyamaka and Yogacara	MAH	GEN	MAI					Paperback book	1
 Present	"Nattier, Jan"			A Few Good Men	The Bodhisattva Path according to The Inquiry of Ugra (Ugrapariprccha)	2005	University of Hawaii Press			Mahayana Studies	MAH	GEN	NAT				0-8248-3003-2	Paperback book	1
 Present	"Pagel, Ulrich"			The Bodhisattvapitaka	"Its Doctrines, Practices and their position in Mahayana Literature"	1995	The Institute of Buddhist Studies			Mahayana Studies	MAH	GEN	PAG				0-9515424-4-3	Hardback book	1
-Present 	"Park, Sung Bae"			Buddhist Faith and Sudden Enlightenment		1983	State University of New York Press			Mahayana Studies	MAH	GEN	PAR				0-87395-674-5	Paperback book	1
+Present "Park, Sung Bae"			Buddhist Faith and Sudden Enlightenment		1983	State University of New York Press			Mahayana Studies	MAH	GEN	PAR				0-87395-674-5	Paperback book	1
 Present	"Pas, Julian F."			Visions of Sukhavati	Shan-Tao's Commentary on the Kuan Wi-Liang-Shou-Fo Ching	1995	State University of New York Press			Mahayana Studies	MAH	GEN	PAS				0-7914-2520-7	Paperback book	1
-Present	"Pelden, Kunzang"		Padmakara Translation Group	The Nectar of Manjushri's Speech	A detailed Commentary on Shantideva's Way of the Bodhisattva	2007	Shambala Publications			Mahayana Studies	MAH	GEN	PEL				978-1-59030-439-6	Hardback book	2
+Present	"Kunzang Pelden"		Padmakara Translation Group	The Nectar of Manjushri's Speech	A detailed Commentary on Shantideva's Way of the Bodhisattva	2007	Shambala Publications			Mahayana Studies	MAH	GEN	PEL				978-1-59030-439-6	Hardback book	2
 Present	"Suzuki, Beatrice Lane"			Mahayana Buddhism		1948	David Marlowe Limited			Mahayana Studies	MAH	GEN	SUZ					Hardback book	1
-Present 			"Tam, Thich Thien"	Buddhism of Wisdom & Faith	Pureland principles and practice	1994	The Corporate Body of the Buddha Educational Foundation			Mahayana Studies	MAH	GEN	TAM					Paperback book	1
+Present "Tam, Thich Thien"	Buddhism of Wisdom & Faith	Pureland principles and practice	1994	The Corporate Body of the Buddha Educational Foundation			Mahayana Studies	MAH	GEN	TAM					Paperback book	1
 Present	"Tang, Hsuan"		Lok To	The Prajna Paramita Heart Sutra		1995	The Corporate Body of the Buddha Educational Foundation			Mahayana Studies	MAH	GEN	TAN					Paperback book	2
 Present	"Williams, Paul"			Mahayana Buddhism	The Doctrinal Foundations	1989	Routledge			Mahayana Studies	MAH	GEN	WIL				0-415-02537-0	Paperback book	2
 	"Willson, Martin"			In Praise of Tara	Songs to the Saviouress	1986	Wisdom Publications			Mahayana Studies	MAH	GEN	WIL				0-86171-033-9	Paperback book	2
