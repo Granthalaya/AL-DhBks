@@ -1,6 +1,6 @@
 COMMENTS	Author	Alternate name (i.e.  Order Name)	Translator	Title	Sub-title	Year of Publication	Publisher	Place	Edition	Subject	Class 1	Class 2	Class 3	Keywords	Synopsis	Notes	ISBN	Medium	Copies	
 Present	"Ahir, D. C. (ed)"		"Narada, U."	Dr. Ambedkar on Buddhism		1982	People's Education Society	Bombay		Ambedkar	AMB	AHI	DrA					Book	2	
-	"Ambedkar, B R"			Annihilation of Caste	Intro by Arundhati Roy	2014	Verso 				AMB	AMB	ANN				978178168830	Hardback	1	
+	"Ambedkar, B R"			Annihilation of Caste	Intro by Arundhati Roy	2014	Verso 				AMB	AMB	ANN				9.78178E+11	Hardback	1	
 Present	"Ambedkar, B. R. (Dr)"			Buddha and the Future of His Religion		1980	Bheem Patrika Publications	Jullundur	3	Ambedkar	AMB	AMB	BUD					Pamphlet	1	
 Present	"Ambedkar, B. R. (Dr)"		"Fuchs, Rosemarie"	Buddha or Karl Marx			Critical Quest	New Delhi		Ambedkar	AMB	AMB	BUD				81-89524-01-1	Pamphlet		
 Present	"Ambedkar, B. R. (Dr)"		"Sonam, Ruth"	The Buddha and His Dhamma		1997	Buddha Bhoomi Publication	Taipei		Ambedkar	AMB	AMB	BUD					Book	2	
@@ -871,7 +871,7 @@ Present	Sangharakshita			Know Your Mind	The Psychological dimension of ethics in
 Present	Sangharakshita			Learning to Walk		1990				Sangharakshita	SANG	LEA					0-904766-45-4	Book	1	
 Present			"Richards, Michael"	List of Tape Recorded Lectures		1973				Sangharakshita	SANG	LIS??						Pamphlet	1	
 	Sangharakshita			Living with Kindness	The Buddha's Teaching on Metta	2004	Windhorse				SANG	LIV					1899579648	paperback	1	
-	Sangharakshita			Living Ethically	Advice from Nagarguna's Precious Garland	2009	Windhorse				SANG	LIV					9781899579860	Paperback	2	
+	Sangharakshita			Living Ethically	Advice from Nagarguna's Precious Garland	2009	Windhorse				SANG	LIV					9.7819E+12	Paperback	2	
 	Sangharakshita			Living with Awareness	A guide to the Satipatthana Sutta	2003	Windhorse				SANG	LIV					1899579389	paperback	2	
 present	Sangharakshita			The Meaning of Conversion in Buddhism		1994				Sangharakshita	SANG	MEA					0-904766-67-5	Book	1	
 Present	Sangharakshita			The Meaning of Orthodoxy in Buddhism	A Protest	1957				Sangharakshita	SANG	MEA					0-904766-27-6	Booklet	3	
@@ -885,9 +885,9 @@ Present	Sangharakshita			The Path of the Inner Life		1983				Sangharakshita	SANG
 Present	Sangharakshita			The Path of the Inner Life		1983				Sangharakshita	SANG	PAT					0-904766-00-4	Paperback	1	
 Present	Sangharakshita			Peace is a Fire	A Collection of Writings and Sayings	1995			2	Sangharakshita	SANG	PEA					0-904766-84-5	Book	1	
 Present	Sangharakshita			Precepts of  the Gurus	Sangharakshita in Seminar. Fourth Seminar	1983				Sangharakshita	SANG	PRE						Transcription	1	
-	Sangharakshita			Precious Teachers	Indian Memoirs of an English Buddhist	2007	Windhorse				SANG	PRE					9781899579785	Paperback	2	1 signed
+	Sangharakshita			Precious Teachers	Indian Memoirs of an English Buddhist	2007	Windhorse				SANG	PRE					9.7819E+12	Paperback	2	1 signed
 	Sangharakshita			The Priceless Jewel		1993				Sangharakshita	SANG	PRI					0-904766-58-6	Paperback	1	
-	Sangharakshita			The Purpose & Practice of Buddhist Meditation		2012	IBIS				SANG	PUR					9780957470002	paperback	1	
+	Sangharakshita			The Purpose & Practice of Buddhist Meditation		2012	IBIS				SANG	PUR					9.78096E+12	paperback	1	
 Present	Sangharakshita			The Religion of Art		1980				Sangharakshita	SANG	REL				Needs Repair		Booklet	1	
 Present	Sangharakshita			Ritual & Devotion in Buddhism	An introduction	1995				Sangharakshita	SANG	RIT					0-904766-87-x	Book		
 Present	Sangharakshita			Ritual & Devotion in Buddhism	An Introduction	1995				Sangharakshita	SANG	RIT					0-904766-87-x	Paperback	3	
@@ -911,14 +911,14 @@ Present	Sangharakshita			The Three Jewels	An Introduction to Buddhism	1977				Sa
 Present	Sangharakshita			The Three Jewels	An Introduction to Buddhism	1991			2	Sangharakshita	SANG	THR						Paperback book	1	
 	Sangharakshita			The Three Jewels	An Introduction to Buddhism	1991			?	Sangharakshita	SANG	THR					0-904766-49-7	Paperback	1	
 Present	Sangharakshita; Subhuti; Srimali (eds)			The Three Levels of Wisdom	"Listening, Reflecting, Meditating"	1988				Sangharakshita	SANG	THR						Booklet	1	
-Present	Sanghrakshita			The Threefold Refuge		5-Jun				Sangharakshita	SANG	THR							1	
+Present	Sanghrakshita			The Threefold Refuge		05-Jun				Sangharakshita	SANG	THR							1	
 Present	Sanghrakshita			Through Buddhist Eyes		2000				Sangharakshita	SANG	THR								
 Present	Sangharakshita; Subhuti and Srimala			The Three Levels of Wisdom	"Listening, Reflecting, Meditation"	1988	Windhorse Publications	Glasgow		Triratna books	SANG	THR		FWBO; triratna; wisdom; listening; reflection; meditation	Exploration of the three levels of Wisdom within Buddhism: listening to teachings; reflections on own experience; meditate upon them			Booklet	1	
 Present	Sangharakshita			Tibetan Buddhism	An introduction	1996				Sangharakshita	SANG	TIB					0-904766-86-1	Book	2	
 	Sangharakshita			Transforming Self & World	Themes from the Sutra of Golden Light	1995				Sangharakshita	SANG	TRA					0-904766-73-x	Paperback	1	
 Present	Sangharakshita			Travel Letters		1985				Sangharakshita	SANG	TRA					0-904766-17-9	Book	1	
 Present	Sangharakshita			Varpauden Maku		1990	Windhorse Publications			Books in other languages	SANG	VAR	Fi				951-96285-1-7	Paperback book	1	
-Present	Sangharakshita			Vision and Transformation	An Introduction to the Buddha's Noble Eightfold Path	5-Jun				Sangharakshita	SANG	VIS					0-904766-44-6	Paperback book	1	
+Present	Sangharakshita			Vision and Transformation	An Introduction to the Buddha's Noble Eightfold Path	05-Jun				Sangharakshita	SANG	VIS					0-904766-44-6	Paperback book	1	
 Present	Sangharakshita			Was the Buddha a Bhikkhu?		1994				Sangharakshita	SANG	WAS					0-904766-71-3	Paperback	1	
 Present	Sangharakshita			The Way to Wisdom	An Exploration of the Five Spiritual Faculties	1984				Sangharakshita	SANG	WAY						Book	1	
 Present	Sangharakshita			Western Buddhists and Eastern Buddhism	"Dhammamegha, No.45"	Jul-91				Sangharakshita	SANG	WES						Booklet	2	
@@ -1326,7 +1326,7 @@ Present	Padmasuri			But Little Dust	Life amongst the 'ex-untouchable' buddhists 
 Present	Padmavajra			Contemplating the Bodhicitta		1997	Padmaloka Books	Norfolk		Triratna books	TRI	PAD	COM	triratna; fwbo; ordination; men; bodhiccita	Transcription of a talk given in 1997 to men who had asked for ordination into the Western Buddhist Order on the subject of bodhicitta as a collective force that drives us to help others and aligns us to the way things really are			Booklet	1	
 Present	Padmakara (ed)			The Eleven Positive Mental Events	A Seminar Handbook					Triratna books	TRI	PAD	ELE	fwbo; triratna; teaching material; positive mental events; shraddha; hiri; ottappo; adosa; amoha; viriya; passadhi; appamada;  upekkha; avihimsa	"Handbook to facilitate the delivery of seminars on the eleven positive mental events. It contacts extracts from talks,  discussion material, notes and extracts for each of the 11 mental states"			Booklet	1	
 Present	Padmavajra			Going for Refuge and the Liberation of the Heart		1993	Padmaloka Books	Norfolk		Triratna books	TRI	PAD	GOI	triratna; fwbo; going for refuge; meghiya;	Transcription of a talk given in 1993 to men who had asked for ordination into the Western Buddhist Order on the subject of Going for Refuge and the Liberation of the Heart focusing on the conditions required for maintaining Going for Refuge.			Booklet	1	
-present	Padmacandra (Ed)	Pippa Meek		The Heart as Origami		2005	Rising Fire Press	London			TRI	PAD	HEA				9780953126620	paperback	2	
+present	Padmacandra (Ed)	Pippa Meek		The Heart as Origami		2005	Rising Fire Press	London			TRI	PAD	HEA				9.78095E+12	paperback	2	
 Present	Padmavajra			"Listening, Reflecting and Meditation"		1996	Padmaloka Books	Norfolk		Triratna books	TRI	PAD	LIS	triratna; fwbo; men; ordination; six bardos; tibetan	"Transcription of a talk given in 1996 to men who had asked for ordination into the Western Buddhist Order on the subject Listening, Reflecting and Meditating focusing on Root Verses of the Six Bardos. "			Booklet	2	
 Present	Padmaloka Team			Ordination Process for Men: A handbook		2004				Triratna books	TRI	PAD	ORD	triratna; fwbo; men; ordination; padmaloka	Booklet for men who have requested ordination focusing on  the essential elements of ordination training; GFR retreats; GFR groups; kalyana mitra; prostration practice; readiness for ordination; ordination and post ordination			Booklet	1	
 	Padmavajra			Training in the Ten Precepts		1996	Padmaloka Books	Norfolk		Triratna books	TRI	PAD	TRA	triratna; fwbo; ordination; men; precepts; ten pillars;	Transcript of a talk given to men who had asked for ordination into the Western Buddhist Order exploring training in the ten precepts			Booklet	1	
@@ -1392,6 +1392,109 @@ Present	Vidyaraja			Digging for Gold		1989	Vajra Press	Norwich		Triratna poetry	
 Present	Vimalasara	"Mason-John, Valerie"		Broken Voices	Untouchable' Women Speak Out					Triratna books	TRI	VIM	BRO				81-8386-07-37	Paperback book	1	
 Present	Vimalabandhu			The Jewel in the Cabbage	Cooking with Metaphors	2009				Triratna cooking	TRI	VIM	JEW	FWBO; triratna; cooking; work;	An exploration of cooking as a  skilful way to practice the dharma and general principles of cooking creatively.			Paperback book	1	
 Present	Steve Bellingham	Virananda		Senses of Place	Poems					Triratna poetry	TRI	VIR	SEN	FWBO; triratna; poetry; geography	A collection of  poems by Virananda written between 1992-1996			Booklet	1	
-Present	Vishvapani			Introducing the Friends of the Western Buddhist Order		5-Jun	Windhorse Publications	Birmingham		Triratna books	TRI	VIS	INT	FWBO; triratna;  modern world; spiritual community; society; worldwide; movement; practice; sangharakshita	A history and introduction to the FWBO/Triratna at the turn of the Millenium.		0-904766-98-5	Paperback book	3	
+Present	Vishvapani			Introducing the Friends of the Western Buddhist Order		05-Jun	Windhorse Publications	Birmingham		Triratna books	TRI	VIS	INT	FWBO; triratna;  modern world; spiritual community; society; worldwide; movement; practice; sangharakshita	A history and introduction to the FWBO/Triratna at the turn of the Millenium.		0-904766-98-5	Paperback book	3	
 	Lokeshvara			Padmaloka Retreat Centre for Men Programme 2012		2012				Triratna books	TRI			triratna; ordination	Leaflet outlining Padmaloka's programme of retreats in 2012 and also includes articles from a range of order members on topics such as music			Leaflet	1	
 Present	FWBO			An appeal for Bhante						Sangharakshita					Leaflet appealing for donations to help Bhante on the 40th anniversary of the founding of FWBO	To be archived and not for general loan?			2	
+present	"Bluck, Robert"			British Buddhism	"Teachngs, Practice & development"	2006	Routledge				gen						0-415483085	paperback	1	
+	"Batchelor, Stephen"			Alone With Others	An Existential Approach to Buddhism	1983	Grove Press				gen						0-802151272	paperback	1	
+	Bercholz & Kohn (ed)			The Buddha & His Teachings		2003	Shambhala				gen						978-1-57062-960-0	paperback	1	
+	"Bronkhorst, Johannes"			The Two Traditions of Meditation in Ancient India		2000	Motilal Banarsidass				gen						81-208-1643-9	paperback	1	
+	Brahm (Ajahn)			"Mindfulness, Bliss & Beyond"		2006	Wisdom				gen						0-86171-275-7	paperback	1	
+	"Allione, Tsultrim"			Women of Wisdom		1986	Arkana				gen						1-85063-044-5	paperback	1	
+	"Choong, Mun-keat"			The Notion of Emptiness in Early Buddhism		1995	Motilal Banarsidass				gen						81-208-1649-8	hardback	1	
+	"Collins, Steven"			Selfless Persons	Imagery & Thought in Theravada Buddhism	1982	Cambridge University Press				gen						0-521-39726-X	Paperback	1	
+	"Conze, Edward"			Buddhist Thought in India		1996	Munshiram Manoharlal				gen						81-215-0722-7	Hardback	1	
+	"Conze, Edward"			Buddhist Thought in India		1983	George Allen and Unwin Ltd				gen						0-04-294128-8	hardback	1	
+	"Ergardt, Jan T "			Faith & Knowledge in Early Buddhism		1977	E J Brill				gen						90-04-04841-3	Hardback	1	
+	"Dutt, Sukumar"			Buddhist Monks & Monisteries of India		1962	George Allen and Unwin Ltd				gen							hardback	1	
+	"Dutt, Sukumar"			Buddhist Monks & Monisteries of India		1988	Motilal Banarsidass				gen						81-208-0498-8	hardback	1	
+	"Dutt, Nalinaksha"			Early Monastic Buddhism		1980	Firma Klm Private Ltd				gen							hardback	1	
+	"Dutt, Nalinaksha"			Buddhist Sects in India		1998	Motilal Banarsidass				gen						81-208-0427-9	hardback	1	
+	"Govinda, (Lama Anagarika)"			Psycho-cosmic Symbolism of the Buddhist Stupa		1976	Dharma Publishing				gen						0913546-36-4	paperback	1	
+	"Govinda, (Lama Anagarika)"			The Psychological Attitude of Early Buddhist Philosphy		1961	Rider				gen							hardback	1	
+	"Gombrich, Richard"			What the Buddha Thought		2009	Equinox				gen						978-1-84553-641-5	paperback	1	
+	"Gross, Rita M"			Soaring & Settling		1998	Continuum				gen						0-8264-1113-4	paperback	1	
+	"Findley, Ellison Banks"			Women's Buddhism Buddhism's Women		2000	Wisdom				gen						0-86171-165-3	paperback	1	
+	"Jayatilleke, K N"			Early Buddhist Theory of Knowledge		1980	Motilal Banarsidass				gen							Hardback	1	
+	"Jayatilleke, K N"			"Dhamma, Man & Law"			Buddhist Research Society				gen						981-00-0220-3	paperback	1	
+	"Ikeda, Daisaku"			"Buddhism, the first millenium"		1977	Kodansha International Ltd				gen						0-87011-321-6	Hardback	1	
+	"Hamilton, Sue"			Identity & Experience		1996	Luzac Oriental				gen						1-898942-23-4	paperback	1	
+	"Kalupahana, David J "			Ethics in Early Buddhism		1995	University of Hawaii Press				gen						0-8248-1702-8	Hardback	1	
+	"King, Sallie B "			Buddha Nature		1991	Sri Satguru Publications				gen						81-7030-308-9	Hardback	1	
+	"Khosla, Sarla"			History of Buddhism in Kashmir		1972	Sagar Publications				gen							Hardback	1	
+	"Chin, Kung"			Buddhism; The Awakening of Compassion & Wisdom							gen							paperback	3	
+	"Lamotte, E "			History of Indian Buddhism		1988	Peeters press				gen						90-6831-100-X	Paperback	1	
+	"Cook, Elizabeth (ed)"			Light of Liberation	A History of Buddism in India	1992	Dharma Publishing				gen						0-89800-242-7	Paperback	1	
+	"Mackenzie, Vicki"			Cave in the Snow		1998	Bloomsbury Books				gen						0-7475-3330-	hardback	1	
+	"Morrison, Robert G"			Nietzsche & Buddhism		1997	OUP				egn						0-19-823556-9	hardback	1	
+	"Nakamura, Hajime"			Indian Buddhism		1989	Motilal Banarsidass				gen						81-208-0272-1	Hardback	1	
+	"Nisker, Wes"			Buddha's Nature		1998	Rider				gen						0-7126-7066-1	paperback	1	
+	"O'Flaherty, Wendy Doniger (ED)"			Karma & Rebirth in Classical Indian Traditions		1980	Motilal Banarsidass				egen						81-208-0884-3	hardback	1	
+	"Obeyesekere, Ranjini"			Portraits of Buddhist Women		2001	SUNY Press				gen						0-7914-5112-7	paperback	1	
+	"Pottter, Karl H (ed)"			Encyclopedia of Indian Philosophies		1999	Motilal Banarsidass				gen						81-208-1553-x	hardback	1	
+	"Pande, Govind Chandra"			Studies int the Origins of Buddhism		1999	Motilal Banarsidass				gen						81-208-1016-3	hardback	1	
+	"Ray, Reginald A"			Buddhist Saints in India		1994	OUP				gen						0-19-513483-4	paperback	1	
+	"Rahula, Basnagoda (Bhikkhu)"			The Buddhas Teaching on Prosperity		2008	Wisdom				gen						0-86171-547-0	paperback	1	
+	"Queen, Christopher S (ed)"			Engaged Buddhism in the West		2000	Wisdom				gen						0-861710159-9	paperback	1	
+	"Rhys Davids, T W"			Buddhist India		1987	Motilal Banarsidass				gen						81-208-0425-2	paperback	1	
+				Seeing the Way		1989	Amaravati Publications				gen						1-870205-04-9	paperback	1	
+	"Schmidt, Amy"			Dipa Ma	The Life & Legacy of a Buddhist Master	2005	Windhorse				gen						1-899579-73-7	paperback	1	
+	"Pas, Julian F"			Visions of Sukhavati		1995	SUNY Press				chi						0-7914-2520-7	paperback	1	
+	"Chau, Thich Thien (Bikshu)"			The Literature of the Personalist of Early Buddhism		1999	Motilal Banarsidass				gen						81-208-1622-6	Hardback	1	
+	"Pao-Ch'ang, Shih"		"Tsai, Kathryn Ann"	Lives of the Nuns		1995	Sri Satguru Publications				chi						81-7030-465-2	hardback	1	
+	"Yew, Tham Weng"			Sacred relics of the Buddha		1999	Buddhist Research Society				gen							paperback	1	
+	"Wallace, B Alan"			Choosing Reality		2003	Snowlion pub				gen						1-55939-199-5	paperback	1	
+	"Wangchen, Namgyal (Geshe)"			Awakening the Mind		1995	Wisdom				gen						0-86171-102-5	paperback	1	
+	"Warder, A K"			Indian Buddhism		1991	Motilal Banarsidass				gen						81-208-0818-5	hardback	1	
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
