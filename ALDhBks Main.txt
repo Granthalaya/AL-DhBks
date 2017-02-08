@@ -1,9 +1,9 @@
 COMMENTS	Author	Alternate name (i.e.  Order Name)	Translator	Title	Sub-title	Year of Publication	Publisher	Place	Edition	Subject	Class 1	Class 2	Class 3	Keywords	Synopsis	Notes	ISBN	Medium	Copies	
-Present	"Ahir, D. C. (ed)"		"Narada, U."	Dr. Ambedkar on Buddhism		1982	People's Education Society	Bombay		Ambedkar	AMB	AHI	DrA					Book	2	
-	"Ambedkar, B R"			Annihilation of Caste	Intro by Arundhati Roy	2014	Verso 				AMB	AMB	ANN				9.78178E+11	Hardback	1	
+Present	"Ahir, D. C. (ed)"			Dr. Ambedkar on Buddhism		1982	People's Education Society	Bombay		Ambedkar	AMB	AHI	DrA					Book	2	
+	"Ambedkar, B R"			Annihilation of Caste	Intro by Arundhati Roy	2014	Verso 				AMB	AMB	ANN				9.78E+11	Hardback	1	
 Present	"Ambedkar, B. R. (Dr)"			Buddha and the Future of His Religion		1980	Bheem Patrika Publications	Jullundur	3	Ambedkar	AMB	AMB	BUD					Pamphlet	1	
-Present	"Ambedkar, B. R. (Dr)"		"Fuchs, Rosemarie"	Buddha or Karl Marx			Critical Quest	New Delhi		Ambedkar	AMB	AMB	BUD				81-89524-01-1	Pamphlet		
-Present	"Ambedkar, B. R. (Dr)"		"Sonam, Ruth"	The Buddha and His Dhamma		1997	Buddha Bhoomi Publication	Taipei		Ambedkar	AMB	AMB	BUD					Book	2	
+Present	"Ambedkar, B. R. (Dr)"			Buddha or Karl Marx			Critical Quest	New Delhi		Ambedkar	AMB	AMB	BUD				81-89524-01-1	Pamphlet		
+Present	"Ambedkar, B. R. (Dr)"			The Buddha and His Dhamma		1997	Buddha Bhoomi Publication	Taipei		Ambedkar	AMB	AMB	BUD					Book	2	
 Present	"Ambedkar, B. R. (Dr)"			Mr Gandhi & the Emancipation of the Untouchables		2006	Critical Quest	New Delhi	First published 1943	Ambedkar	AMB	AMB	MrG					Pamphlet	1	
 present	"Ambedkar, B. R. (Dr)"			Philosophy of Hinduism		2010	Critical Quest	New Delhi		Ambedkar	AMB	AMB	PHI				978-81-89524-59-3	Pamphlet	1	
 Present	"Ambedkar, B. R. (Dr)"			What the Buddha Taught		2009	Critical Quest	New Delhi		Ambedkar	AMB	AMB	WHA				978-81-89524-43-2	Pamphlet	1	
@@ -65,6 +65,8 @@ Present	I-Ching		"Lahiri, Latika"	Chinese Monks in India	Biography of eminente m
 Present	"Legge, James"		"Legge, James"	A Record of Buddhistic Kingdoms	Being an accont by the Chinese monk Fa-Hien of his travels in India and Ceylon (A.D. 399-414) in search of the Buddhist Books of Disipline	1965	Dover Publication	New York	First edition	Chinese	CHI	LEG					0-486-21344-7	Paperback	1	
 Present	Lin Yutang			Pureland Daily Practice	Under the guidence of the Buddhist Yogi C. M. Chen	1989	Dharma friends of Dr Lin	Taiwan		Chinese	CHI	LIN						Paperback	1	
 Present	Lin Yutang			A Systematised Collection of Chenian booklets nos. 101-149 vol. 7: nos. 147-149	Under guidance of the Buddhist yogi C. M. Chen	1993	Dharma friends of Dr Lin	Taiwan		Chinese	CHI	LIN						Paperback	1	
+	"Pao-Ch'ang, Shih"		"Tsai, Kathryn Ann"	Lives of the Nuns		1995	Sri Satguru Publications				CHI	PAO					81-7030-465-2	hardback	1	
+	"Pas, Julian F"			Visions of Sukhavati		1995	SUNY Press				CHI	PAS					0-7914-2520-7	paperback	1	
 Present	"Pittman, Don A."			Toward a Modern Chinese Buddhism	Taixu's reforms	2001	University of Hawaii Press	Hawaii	First edition	Chinese	CHI	PIT					0-8248-22131-5	hardback	1	
 Present	"Porter, Bill"			Road to Heaven	Encounter s with Chinese hermits	1993	Mercury house	San Francisco	First edition	Chinese	CHI	POR					1-56279-041-2	Paperback	1	
 	"Seaton, J P & Maloney, Dennis"			A Drifting Boat	An anthology of Chinese Zen Poetry	1994	White Pine Press				CHI	SEA						paperback	1	
@@ -72,22 +74,27 @@ Present	"Sheng-yen, (Ch'an Master)"			Complete Enlightenment		1997	Dharma Drum P
 Present	"Swanson, Paul L."			Foundations of T'ien-T'ai Philosophy	The Flowering of the Two Truths Theory in Chinese Buddhism	1989	Asian humanities press			Chinese	CHI	SWA					0-89581-919-8	paperback	2	
 Present	"Tanaka, Kenneth K."			The Dawn of Chinese Pure Land Buddhist Doctrine	Ching-ying Hui-yüan's Commentary on the Visualization Sutra	1990	State University of New York press	New York	First edition	Chinese	CHI	TAN					0-7914-0297-5	paperback	1	
 Present	Tsai Chih Chung (ed)		Koh Koh Kiang	Origins of Zen	Flowering of Zen in China	1990	Asiapac Books			Chinese	CHI	TSA					9971-985-55-1	Paperback	1	
-Present				Vipassana Meditation und Ihre Kenntnis	vom Erhwürdigen Phra Khru  Kraisaravilasa mettha-vihara	1989	The Corporate Body of the Buddha Educational Foundation	Taipei		Meditation Guides (Non-Triratna)	GEN	??	G	meditation; vipass?na;	Introduction to vipassana meditation			Pamplet	1	
 Present	"Albers, A Christina"			Buddhist Tales for Children			The Maha Bodhi Society of India			Non Triratna authors	GEN	ALB						Pamphlet	1	
 	"Allen, Charles"			The Buddha and the Sahibs	The Men Who Discovered India's Lost Religion	2002	John Murray Publications			Non Triratna authors	GEN	ALL					0-7195-5425-X	Hardback book	1	
+	"Allione, Tsultrim"			Women of Wisdom		1986	Arkana				GEN	ALL					1-85063-044-5	paperback	1	
 	"Aronson, Harvey"			Buddhist Practice on Western Ground		2004	Shambala	Boston		General Buddhism	GEN	ARO					1-59030093-9	Paperback book 	1	
 Present	"Balasooriya, Sowatna (ed)"			Buddhist Studies in Honour of Walpola Rahula		1980	Gordon Fraser Gallery Ltd			Non Triratna authors	GEN	BAL					0-86092-030-5	Hardback book	2	
 Present	"Baldoquin, Hilda Gutierrez (ed.)"			"Dharma, Color, and Culture"	New voices in Western Buddhism	2004	Parallax	Berkeley		General	GEN	BAL					9-781888-375428	Book	1	
 Present	"Batchelor, Stephen"			Buddhism Without Beliefs	A contemporary guide to Awakening	1997	Riverhead Books	New York		Non Triratna authors	GEN	BAT		contemporary; zen; tibetan; nondenomenational	Exploration of the practical application of Buddhism to everyday life from an agnostic perspective		1-57322-058-2	Hardback Book	1	
 Present	"Batchelor, Stephen"			Buddhism Without Beliefs	A contemporary guide to Awakening	1998	Riverhead Books	New York		Non Triratna authors	GEN	BAT		contemporary; zen; tibetan; nondenomenational	Exploration of the practical application of Buddhism to everyday life from an agnostic perspective		978-1-57322-656-1	Paperback book	2	
 Present	"Batchelor, Stephen"			The Awakening of the West	The Encounter of Buddhism and Western Culture	1994	Aquarian			Non Triratna authors	GEN	BAT					1-85538-343-8	Paperback book	2	
+	"Batchelor, Stephen"			Alone With Others	An Existential Approach to Buddhism	1983	Grove Press				GEN	BAT					0-802151272	paperback	1	
 Present	"Beal, Samuel"			A Catena of Buddhist Scriptures from the Chinese		1989	Sri Satguru Publications	"Delhi, India"	2	Non Triratna authors	GEN	BEA		china; canon; legend; myth; religion; nirvana; perfection; sakya; nirvana; tian t'ai; mysticism	Collection of translated texts from the Buddhist Canon in China (67 - 1285 AD) focused on legends and myths; Buddhism as a religion; Scholastic Period; Mystic Period; Decline and Fall- Naga worship		81-7030-183-1	Hardback book	1	
 	"Bennett, Allan"			The Wisdom of the Aryas		1923	"Kegan Paul, Trench, Trubner & Co."			Non Triratna authors	GEN	BEN						Hardback book	1	
 Present	"Bercholz, Ed Samuel & Sherab, Chodzin Kohn"		"Norman, K.R."	Entering the Stream	An Introdcution to the Buddha and His Teachings	1993	Shambhala Publications			Non Triratna authors	GEN	BER					0-87773-981-1	Paperback book	2	
+	Bercholz & Kohn (ed)			The Buddha & His Teachings		2003	Shambhala				GEN	BER					978-1-57062-960-0	paperback	1	
 Present	"Beyer, Stephan"			The Cult of Tara	Magic and Ritual in Tibet	1978	University of California Press	Berkeley		General	GEN	BEY					0-520-03635-2	Book	2	
+present	"Bluck, Robert"			British Buddhism	"Teachngs, Practice & development"	2006	Routledge				GEN	BLU					0-415483085	paperback	1	
 Present	Buddhist Missionary Society			Gems of Buddhist Wisdom		1996	The Corporate Body of the Buddha Educational Foundation			Non Triratna authors	GEN	BMS					967-9920-04-6			
 Present	Bodhi (Bhikku)			Noble Eightfold Path						Non Triratna authors	GEN	BOD								
 Present	Bouddhique Linh-Son			Les Bases Fondamentales du Bouddhisma Mahayana	Tome I & Tome II	1997	The Corporate Body of the Buddha Educational Foundation			Books in other languages	GEN	BOU	Fr					Paperback book	1	
+	Brahm (Ajahn)			"Mindfulness, Bliss & Beyond"		2006	Wisdom				GEN	BRA					0-86171-275-7	paperback	1	
+	"Bronkhorst, Johannes"			The Two Traditions of Meditation in Ancient India		2000	Motilal Banarsidass				GEN	BRO					81-208-1643-9	paperback	1	
 Present	"Brust, Harald"	Asokananda	Könghog Tenzin	The Yoga of Mindfulness	A Buddhist Path for Body and Mind	1993	Editions Duang Kamol	Thailand		Non Triratna authors	GEN	BRU		meditation; thailand; vipassana; yoga; pranayamas	"Exploration of the connection between vipassana and yoga, including diagrams and instructions in mindful yoga practices"		974-210-657-6	Paperback book		
 Present	"Buddhadasa, Ajahn (Bhikkhu)"		Santikaro (Bhikkhu)	Mindfulness with Breathing: Unveiling the Secrets of Life	A Manual for Serious Beginners	1989	Evolution/Liberation	Thailand	2	Non Triratna authors	GEN	BUD		meditation; mindfulness; anapanasati; thailand	Collection of lectures given by Ajahn Buddhadasa to Westerners in Thailand as part of a meditation course in 1986. Topics include: Dhamma; posture; calming the kaya; mastering vedana; contemplating citta;impermanence; highest benefits		974-8486-22-2	Paperback book	1	
 Present	Buddhadasa (Bhikkhu)		"Swearer, Donald K."	Dhammic Socialism		1986	Thai Inter-religious commission for development	Bankok		General	GEN	BUD						Book	1	
@@ -96,18 +103,25 @@ Present	"Burlingame, Eugene Watson"			A Treasury of Buddhist Stories	From the Dh
 Present	"Cabezon, Jose Ignacio (ed)"			"Buddhism, Sexuality and Gender"		1992	Sri Satguru Publications			Non Triratna authors	GEN	CAB					81-7030-342-7	Hardback book	1	
 Present	"Carus, Paul"			The Gospel of the Buddha		1915	The Open Court Publishing Company	Chicago and London	1	Buddhist scriptures; anthologies	GEN	CAR		canon; christianity; life of the buddha; parables;	Collection of translated texts from the Buddhist canon themed around Prince Siddhattha; the foundation of the Kingdom of Righteousness; Consolidation of the Buddha's religion; the teacher; parables and stories; the last days		N/A	Book	1	
 Present	"Chang, Garma C.C."			The Buddhist Teaching of Totality	The Philosophy of Hwa Yen Buddhism	1992	Motilal Banarsidass			Non Triratna authors	GEN	CHA					81-208-0822-7	Hardback book	1	
+	"Chau, Thich Thien (Bikshu)"			The Literature of the Personalist of Early Buddhism		1999	Motilal Banarsidass				GEN	CHA					81-208-1622-6	Hardback	1	
 Present	"Chen, C M"		"Kantipalo, Rev B. "	Buddhist Meditation	Systematic and Practical	1980		USA		Non Triratna authors	GEN	CHE		meditation; ch'an; mahayana; yoga; mindfulness	Systematic and practical guide on Buddhist meditation by a Buddhist Yogi. This was written in conjunction with Sangharakshita.			Paperback book	2	
 Present	Chin Kung (Venerable Master) 			Buddhism: The Awakening of Compassion ad Wisdom			Amida Society			Non Triratna authors	GEN	CHI						Paperback book	3	
+	"Chin, Kung"			Buddhism; The Awakening of Compassion & Wisdom							GEN	CHI						paperback	3	
 Present	"Chodron, Thubten"			Buddhism for Beginners		2001	Snow Lion Publications	"Ithaca, New York"		Non Triratna authors	GEN	CHO		contempoary; western; tibetan	Introduction to basic principles of Tibetan Buddhism as applied in the modern Western world		1-55939-153-7	Paperback book	1	
 Present	"Chödrön, Pema"			Start Where You Are	A Guide to Compassionate Living	1994	Shambhala Publications	Boston & London		Non Triratna authors	GEN	CHO		fearlessness; compassion; meta; tibetan; contemporary; meditation	Handbook for cultivating fearlessness and awakening a compassionate heart	Paper insert of a quote from Atisha	0-87773-880-7	Paperback book	1	
 Present	"Chödrön, Pema"			The Wisdom of No Escape and the Path of Loving Kindness		1991	Shambhala Publications	Boston & London		Non Triratna authors	GEN	CHO		trungpa rimpoche; metta; lovingkindness;	Exploration of wholehearted commitment to everyday life and how it can be used as practice		0-87773-632-4	Paperback book	1	
 Present	"Chödrön, Pema"			When Things Fall Apart	Heart Advice for Difficult Times	1997	Shambhala Publications	Boston & London		Non Triratna authors	GEN	CHO		metta; lovingkindness; fear; compassion; trungpa rinpoche	Exploration of how to develop a fearlessly compassionate attitude towards our pain and that of others	some annotations in pencil	1-57062-160-8	Hardback Book	1	
 Present	"Chodron, Thubten"			Working with Anger		2001	Snow Lion Publications			Non Triratna authors	GEN	CHO					1-55939-163-4	Paperback book	1	
 	"Chodron, Pema"			The Places that Scare You		2001	Element Books Ltd	London		General Buddhism	GEN	CHO					0 00 714574 8	Paperback book 	1	
+	"Choong, Mun-keat"			The Notion of Emptiness in Early Buddhism		1995	Motilal Banarsidass				GEN	CHO					81-208-1649-8	hardback	1	
 Present	"Clasquin, M. & Kruger, J. S."			Buddhism and Africa						Non Triratna authors	GEN	CLA								
+	"Collins, Steven"			Selfless Persons	Imagery & Thought in Theravada Buddhism	1982	Cambridge University Press				GEN	COL					0-521-39726-X	Paperback	1	
 Present	"Conze, Edward"			Buddhism	Its Essence and Development	1999	Munshiram Manoharlal Publishers			Non Triratna authors	GEN	CON					81-205-0905-X	Paperback book	1	
 Present	"Conze, Edward"			Buddhism	Its Essence and Development	1999	Windhorse Publications			Non Triratna authors	GEN	CON					1-899579-40-0	Paperback book	2	
 Present	"Conze, Edward"			Buddhist Meditation		1968	George Allen and Unwin Ltd	London	3	Non Triratna authors	GEN	CON		meditation; buddhaghosha; path of purity	"Translation of Pali, sanskrit and tibetan scriptures, mostly taken from Buddhaghosa's Path of Purity.  An introductory essay deals with the meaning of Buddhist meditation, its range and principal divisions, the chief literary documents, and the relationship with psychotherapy"		04-294008-7	Hardback book	1	
+	"Conze, Edward"			Buddhist Thought in India		1996	Munshiram Manoharlal				GEN	CON					81-215-0722-7	Hardback	1	
+	"Conze, Edward"			Buddhist Thought in India		1983	George Allen and Unwin Ltd				GEN	CON					0-04-294128-8	hardback	1	
+	"Cook, Elizabeth (ed)"			Light of Liberation	A History of Buddism in India	1992	Dharma Publishing				GEN	COO					0-89800-242-7	Paperback	1	
 Present	"Das, Surya (Lama)"			Awakening the Buddha Within	Eight Steps to Enlightenment	1998	Bantam Books	London		Non Triratna authors	GEN	DAS		tibetan; contemporary; eightfold  path; virtue; meditation; wisdom	Tibetan approach to Buddhism for those living in the Western World		0-553-50537-8	Paperback book	1	
 Present	"David-Neel, Alexandra"			Buddhism	Its Doctrines and its Methods	1978	Unwin Paperbacks			Non Triratna authors	GEN	DAV					0-04-294103-2	Paperback book	2	
 Present	"Dayal, Har"			Bodhisattva Doctrine in Buddhist Sanskrit Literature		1999	Motilal Banarsidass			Non Triratna authors	GEN	DAY					81-208-1257-3			
@@ -118,12 +132,18 @@ Present	"Dhammananda, K. (Sri)"			What Buddhists believe		1993	The Corporate Bod
 	"Dhammika, Shravasti"			To Eat or Not to Eat Meat		2010	The Buddha Mandala Society	Singapore		General Buddhism	GEN	DHA					978 981 08 6681 5	Paperback book 	1	
 Present	"Dhiravamsa, D. R."		"Oldenberg, H."	The Way of Non-attachment	The practice of insight meditation	1975	Turnstone Books	London		Non Triratna authors	GEN	DHI		meditation; vipassana; insight; thailand	A handbook on the Insight meditation practice		0-85500-046-5	Paperback book	1	
 Present	"Dumoulin, Heinrich & Maraldo, John C"			Buddhism in the Modern World	"The cultural, Political, and Religious Significance of"	1976	Collier Books			Non Triratna authors	GEN	DUM					0-02-084790-4	Paperback book	1	
+	"Dutt, Sukumar"			Buddhist Monks & Monisteries of India		1962	George Allen and Unwin Ltd				GEN	DUT						hardback	1	
+	"Dutt, Sukumar"			Buddhist Monks & Monisteries of India		1988	Motilal Banarsidass				GEN	DUT					81-208-0498-8	hardback	1	
+	"Dutt, Nalinaksha"			Early Monastic Buddhism		1980	Firma Klm Private Ltd				GEN	DUT						hardback	1	
+	"Dutt, Nalinaksha"			Buddhist Sects in India		1998	Motilal Banarsidass				GEN	DUT					81-208-0427-9	hardback	1	
 Present	"Easwaran, Eknath"			Meditation	Commonsense Directions for an Uncommon Life	1979	Arkana	London		Non Triratna authors	GEN	EAS		meditation; one-pointed; friendship	"Guide to meditation, following an eight-point plan"		0-14-019036-8	Paperback book	1	
 Present	"Eckel, M D"			"Buddhism, Part 1"		2001	The Teaching Company			Non Triratna authors	GEN	ECK					1-56585-642-2	Paperback book	1	
 	"Eckel,  M D "			"Buddhism, Part 2"		2001	The Teaching Company			Non Triratna authors	GEN	ECK					1-56585-642-2	Paperback book	1	
 	"Ellis, Robin"	Upeksacitta		A Buddhist Theory of Moral Objectivity		2006				Non Triratna authors	GEN	ELL						Paperback book	1	
+	"Ergardt, Jan T "			Faith & Knowledge in Early Buddhism		1977	E J Brill				GEN	ERG					90-04-04841-3	Hardback	1	
 Present	"Falvey, Lindsay & Siladasa"			Buddhism Briefly Explained		2004	Melbourne Buddhist Centre			Non Triratna authors	GEN	FAL					0-646-42335-5	Paperback book	1	
 Present	"Fields, Rick"			How the Swans Came to the Lake	A Narrative History of Buddhism in America	1992	Shambhala Publications			Non Triratna authors	GEN	FIE					0-87773-631-6	Paperback book	1	
+	"Findley, Ellison Banks"			Women's Buddhism Buddhism's Women		2000	Wisdom				GEN	FIN					0-86171-165-3	paperback	1	
 	"Fischer, Louis"			Gandhi	His Life and Message for the World	1954	The New American Library			Non Triratna authors	GEN	FIS					0-451-62142-5	Paperback book	1	
 Present	"Flores, Ralph"			Buddhist Scriptrures as Literature	Scared Rhetoric and the uses of theory	2008	State University of New York Press			Non Triratna authors	GEN	FLO					978-0-7914-7339-9	Hardback book	1	
 Present	"Fozdar, Jamshed"			The God of Buddha		1973	Asia Publishing House			Non Triratna authors	GEN	FOZ					0-210-22395-2	Hardback book	2	
@@ -134,15 +154,20 @@ Present	"Gethin, Rupert M. L."			The Buddhist Path to Awakening		2001	Oneworld P
 DAMAGED	"Goddard, D."			A Buddhist Bible		1970	Beacon Press			Mahayana Sutras	GEN	GOD				Missing cover	0-8070-5951-x	Paperback book	1	
 Present	"Gombrich, Richard F."			How Buddhism Began	The Conditioned Genesis of the Early Teachings	1996	The Athlone Press			Non Triratna authors	GEN	GOM					0-485-17417-0	Hardback book	1	
 Present	"Gombrich, Richard F."			How Buddhism Began	The Conditioned Genesis of the Early Teachings	2002	Munshiram Manoharlal Publishers			Non Triratna authors	GEN	GOM					81-215-0812-6	Hardback book	1	
+	"Gombrich, Richard"			What the Buddha Thought		2009	Equinox				GEN	GOM					978-1-84553-641-5	paperback	1	
 Present	"Goodard, Dwight (ed)"			A Buddhist Bible		1970	Beacon Press	Boston	1	Buddhist scriptures; anthologies	GEN	GOO		p?li canon; sanskrit; chinese; tibetan; dharma	Book first published in 1938	Front cover missing	0-8070-5951-X	Paperback book	1	
 present	Govinda (Lama Anagarika) 			The Way of the White Clouds		1984	Rider & Co.			Non Triratna authors	GEN	GOV					0-09-155101-3	Paperback book	1	
+	"Govinda, (Lama Anagarika)"			Psycho-cosmic Symbolism of the Buddhist Stupa		1976	Dharma Publishing				GEN	GOV					0913546-36-4	paperback	1	
+	"Govinda, (Lama Anagarika)"			The Psychological Attitude of Early Buddhist Philosphy		1961	Rider				GEN	GOV						hardback	1	
 	"Greenwald, Jeff"			Shopping for Buddhas		1990				Non Triratna authors	GEN	GRE					0-06-250358-8	Paperback book	1	
 Present	"Green, Ronald S. "			Buddhism goes to the Movies	An introduction to Buddhist Thought and Practice	2014	Routledge	New York		General	GEN	GRE					978-0-415-84148-1	Book	1	
 Present	"Grimm, George"			Doctrine of the Buddha						Non Triratna authors	GEN	GRI				Needs mending				
 Present	"Gross, Rita M."			Buddhism after Patriarchy	"A Feminist History, Analysis, and Reconstruction of Buddhism"	1995	Sri Satguru Publications	Delhi		General	GEN	GRO					81-7030-422-9	Book	1	
+	"Gross, Rita M"			Soaring & Settling		1998	Continuum				GEN	GRO					0-8264-1113-4	paperback	1	
 Present	"Guenther, Herbert V."			Philosophy and Psychology in the Abidharma		1991	Motilal Banarsidass			Non Triratna authors	GEN	GUE					81-208-0773-1	Hardback book	1	
 	"Guenther, Herbert V."			The Creative Vision		1987	Lotsawa	USA			GEN	GUE					0-932156-03-7	Paperback book	1	
 Present	"Gunaratana, Henepola (Bhante)"			Eight Mindful Steps to Happiness	Walking the Buddha's Path	2001	Wisdom	Sommerville		General	GEN	GUN					0-86171-176-9	Book	1	
+	"Hamilton, Sue"			Identity & Experience		1996	Luzac Oriental				GEN	HAM					1-898942-23-4	paperback	1	
 Present	"Hanh, Thich Nhat"			The Miracle of Mindfulness!	A Manual on Meditation	1976	Beacon Press	Boston		Meditation Guides (Non-Triratna)	GEN	HAN		meditation; mindfulness; mahayana; theravada;	Introduction to meditation  with 32 practical exerises		0-8070-1119-3	Paperback book	1	
 Present	"Hanh, Thich Nhat"			A Guide to Walking Meditation		1985	Fellowship Publications	New York		Non Triratna authors	GEN	HAN		meditation; walking	Guide to walking meditation			Paperback book	1	
 Present	"Hanh, Thich Nhat"			Being Peace		1987	Parallax Press	"Berkeley, USA"		Non Triratna authors	GEN	HAN		zen; peace	Collection of lectures given by Thich Nhat Hanh to American peace activists and students of meditation discussing the importance of being peace in order to make peace		0-938077-00-7	Paperback book	1	
@@ -164,6 +189,7 @@ Present	"Hubbard, Jamie & Swanson, Paul L. (eds)"			Pruning the Bodhi Tree	The S
 Present	"Humphreys, Christmas"			Concentration and Meditation	A Manual of Mind Development	1987	Element Books Ltd	Great Britain		Non Triratna authors	GEN	HUM		meditation; concentration; buddhist society;	Classic manual of mind development with practical guides to beginner and deeper states of meditation		1-85230-008-6	Paperback book	1	
 Present	"Humphreys, Christmas"			Exploring Buddhism		1974	George Allen and Unwin Ltd			Non Triratna authors	GEN	HUM					0-04-294079-6	Hardback book	1	
 	"Humphreys, Christmas"			The Wisdom of Buddhism		1960	Micheal Joseph			Non Triratna authors	GEN	HUM						Hardback book	1	
+	"Ikeda, Daisaku"			"Buddhism, the first millenium"		1977	Kodansha International Ltd				GEN	IKE					0-87011-321-6	Hardback	1	
 Present	"Ishigami, Zenno"		"Gage, R L. & McCarthy, P"	Disciples of the Buddha		1989	Kosei Publishing Company			Non Triratna authors	GEN	ISH					4-333-01423-9	Paperback book	1	
 Present	"Jackson, Roger & Makranky, John"			Buddhist Theology	Critical Reflections by Contemporary Buddhist Scholars	2000	Curzon Press			Non Triratna authors	GEN	JAC					0-0707-1203-8	Paperback book	1	
 Present	"Jaini, Padmanabh"			Collected Papers on Buddhist Studies		2001	Motilal Banarsidass			Non Triratna authors	GEN	JAI					81-208-1776-1	Hardback book	1	
@@ -172,6 +198,8 @@ Present	"James, Alan & Jacqui"			A Meditation Retreat		1986	Aukana Publishing	Gr
 Present	Janakabhivamsa (Ven.Sayadaw U.)			Vipassana Meditation	Lectures on Insight Meditation	1997	Chammyay Yeiktha Meditation Centre	"Yangon, Mynamar"		Non Triratna authors	GEN	JAN		meditation; vipassana; insight; mindfulness; burma	"Introduction to vipassana meditation, including mindfulness, purification and nine ways to sharpen mental faculties"		974-89288-2-9	Paperback book	1	
 Present	"Jayatilleke, K. N."			The Message of the Buddha		1975	George Allen and Unwin Ltd			Non Triratna authors	GEN	JAY					0-04-294091-5	Hardback Book	1	
 present	"Jayasuriya, W. F. (Dr)"			The Psychology and Philosophy of Buddhism	An introduction to the Abhidhamma	1976	B.M.S. Publication			Non Triratna authors	GEN	JAY						Paperback book	2	
+	"Jayatilleke, K N"			Early Buddhist Theory of Knowledge		1980	Motilal Banarsidass				GEN	JAY						Hardback	1	
+	"Jayatilleke, K N"			"Dhamma, Man & Law"			Buddhist Research Society				GEN	JAY					981-00-0220-3	paperback	1	
 	"Jiang, Tao"			Contexts and Dialogue	Yogacara Buddhism and Modern Psychology on the Subliminal Mind	2006	University of Hawaii Press			Non Triratna authors	GEN	JIA					0-8248-3106-3	Paperback book	1	
 Present	Jiraka (Sramanera)			Growing up into Buddhism						Non Triratna authors	GEN	JIR				Needs mending				
 Present	"Kabat-Zinn, Jon"			Guided Mindfulness Meditation	Series 2	1994	Stress Reduction Tapes and CDS	USA		Non Triratna authors	GEN	KAB		meditation; audio	Collection of guided meditations focused on mindfulness; mountain and the lake meditation and a silent bells practice		8-56180-54722-3	CDs	1	
@@ -180,6 +208,7 @@ Present	"Kabat-Zinn, Jon"			Guided Mindfulness Meditation	Series 1	1994	Stress R
 Present	"Kalupahana, David J."			A History of Buddhist Philosophy	Continuities and Discontinuities	1992	University of Hawaii Press			Non Triratna authors	GEN	KAL					0-8248-1402-9	Paperback book	1	
 	"Kalupahana, David J."			Buddhist Philosophy	A Historical Analysis	1976	University Press of Hawaii			Non Triratna authors	GEN	KAL					0-8248-0392-2	Paperback book	1	
 Present	Kalu Rinpoche			Luminous Mind	The way of the Buddha	1997	Wisdom Publications			Non Triratna authors	GEN	KAL					0-86171-118-1	Paperback book	1	
+	"Kalupahana, David J "			Ethics in Early Buddhism		1995	University of Hawaii Press				GEN	KAL					0-8248-1702-8	Hardback	1	
 Present	"Kashyap, J."			Abidhamma Philosophy		1996	Bharatiya Vidya Prakashan			Non Triratna authors	GEN	KAS								
 Present	Kelsang Gyatso (Geshe)			The Meditation Handbook	"A step-by-step manual, providing a clear, practical guide to Buddhist Meditation"	1995	Tharpa Publications	London		Meditation Guides (Non-Triratna)	GEN	KEL		meditation; tibetan	Introduction to Tibetan system of meditation		0-948006-43-9	Paperback book	1	
 Present	"Keown, Damien"			Buddhism	A Very Short Introduction	1996	Oxford University Press			Non Triratna authors	GEN	KEO					0-19-285329-5	Paperback book	1	
@@ -192,7 +221,9 @@ Present	Khantipalo			Noble Friendship	Travels of a Buddhist Monk	2002	Windhorse	
 Present	"Khema, Ayya"			Who is My Self?	A Guide to Buddhist Meditation	1997	Wisdom Publications	Boston		Non Triratna authors	GEN	KHE		meditation; Po??hap?da	"Interpretation of the Po??hap?da sutta, the Buddha's Words on Self and Consciousness"		0-86171-127-0	Paperback book	1	
 Present	"Khema, Ayya"			Visible Here & Now	The Buddha's Teachings on the Rewards of Spiritual Practice	2001	Shambhala	Boston		General	GEN	KHE					1-57062-492-5	Book	1	
 Present	"Khosla, Sarla"			Asvaghosa and his Times		1986	Intellectual Publishing House			Non Triratna authors	GEN	KHO					81-7076-002-X	Hardback book	2	
+	"Khosla, Sarla"			History of Buddhism in Kashmir		1972	Sagar Publications				GEN	KHO						Hardback	1	
 	"Khyentse, Dzongsar Jamyang "			What Makes You Not a Buddhist		2007	Shambala	Boston		General Buddhism	GEN	KHY					978-1-59030-406-8	Hardback book	1	
+	"King, Sallie B "			Buddha Nature		1991	Sri Satguru Publications				GEN	KIN					81-7030-308-9	Hardback	1	
 Present	"Kiyota, Minoru (ed)"			Mah?y?na Buddhist Meditation	Theory and Practice	1978	The University Press of Hawaii	USA		Non Triratna authors	GEN	KIY		meditation; mahayana;	Collection of essays on the theory and practice of Mah?y?na meditation		0-8248-0094-x	Hardback Book	1	
 Present	"Kloetzli, W. Randolph"			Buddhist Cosmology	Science and Theology in the images of Motion and Light	1989	Motilal Banarsidass			Non Triratna authors	GEN	KLO					81-208-0463-5	Hardback book	2	
 Present	"Kornfield, Jack"			A Path with a Heart	A Guide Through the Perils and Promises of Spiritual Life	1994	Rider Books	"London,  Sydney, Auckland, Johannesburg"		Non Triratna authors	GEN	KOR		meditation;	"Practical guide on meditaiton, the process of inner transformation, and the integration of spiritual practice into our Western way of life. Topics include: compassion, addicition, relationships; sexuality"		0-7126-7430-6	Paperback book	1	
@@ -201,6 +232,7 @@ Present	"Kramer, Gregory"			Insight Dialogue	The Inter personal Path to Freedom	
 	"Kramer, Gregory"			Insight Dialogue		2007	Shambala	Boston		General Buddhism	GEN	KRA					978-1-59030-485-3	Paperback book 	1	
 	"Krishnamurti, J"			Total Freedom	The Essential Krishnamurti	1996	HarpersCollins			Non Triratna authors	GEN	KRI					0-06-064880-5			
 	"Kshirsagar, Jaykumar N."			Kathakaumudi		1942			1	Books in other languages	GEN	KSH	Sp					Hardback book	1	
+	"Lamotte, E "			History of Indian Buddhism		1988	Peeters press				GEN	LAM					90-6831-100-X	Paperback	1	
 Present	"Levine, Stephen"			A Gradual Awakening	A practical introduction to meditation	1987	Century	"London, Melbourne, Auckland, Johannesburg"		Meditation Guides (Non-Triratna)	GEN	LEV		meditation; beginners; vipass?na	Introduction to meditation from a Vipass?na perspective		0-7126-1565-2	Paperback book	1	
 Present	"Lin, Yutang"			A Golden Ring	An Introduction to Buddhist Meditation	1994	Dharma Friends of Dr Lin			Meditation Guides (Non-Triratna)	GEN	LIN		meditation; chinese	Transcription of a series of talks given by Dr Lin on Buddhism and meditation			Pamphlet	1	
 Present	"Ling, Trevor"			Buddhist Revival in India	Aspects of the sociology of Buddhism	1980	Macmillan Press			Non Triratna authors	GEN	LIN					0-333-24533-4	Hardback book	1	
@@ -210,40 +242,52 @@ Present	"Lopez, Donald S. Jr"			Buddhism in Practice		1995	Princeton University 
 Present	"Loundon, Sumi (ed.)"			The Buddha's Apprentices	More voices of young Buddhists	2006	Wisdom	Boston		General	GEN	LOU					0-86171-332-X	Book	1	
 Present	"McDonald, Kathleen"			How to Meditate	A Practical Guide	1985	Wisdom Publications	London	3	Non Triratna authors	GEN	MAC		meditation; mindfulness; visualization; mantra;tibetan; mahayana		Some markings on one copy	0-86171-009-6	Paperback book	2	
 Present	"Macy, Joanna"			Mutual Causality in Buddhism and General Systems Theory	The Dharma of Natural Systems	1991	State University of New York Press			Non-Triratna Authors	GEN	MAC					0-7914-0637-7	Paperback book	1	
+	"Mackenzie, Vicki"			Cave in the Snow		1998	Bloomsbury Books				GEN	MAC					0-7475-3330-	hardback	1	
 	Matara Nanarama Thera (Ven. Sri) 			The Seven Contemplations of Insight	A treatise on Insight Meditation	1997	Buddhist Publication Society			Non Triratna authors	GEN	MAT					955-24-0124-0	Paperback book	1	
 Present	"Misra, G.S.P."			Development of Buddhist Ethics		1984	Munshiram Manoharlal Publishers			Non Triratna authors	GEN	MIS					81-215-0115-6	Hardback book	1	
 Present	"Mitchell, Donald W."			Buddhism	Introducing the Buddhist Experience	2002	Oxford University Press			Non Triratna authors	GEN	MIT					0-19-513952-6	Paperback book	1	
 Present	"Morgan, Kenneth W."			The Path of the Buddha	Buddhism interpreted by Buddhists	1993	Motilal Banarsidass			Non Triratna authors	GEN	MOR					81-208-0030-3	Hardback book	1	
+	"Morrison, Robert G"			Nietzsche & Buddhism		1997	OUP				GEN	MOR					0-19-823556-9	hardback	1	
 Present	"Murti, T.R.V."			The Central Philosophy of Buddhism	A Study of the Madhyamika System	1998	Munshiram Manoharlal Publishers			Non-Triratna Authors	GEN	MUR					81-215-0834-7	Hardback book	1	
 Present	"Murti, T.R.V."			The Central Philosophy of Buddhism	A Study of the Madhyamika System	1974	George Allen and Unwin Ltd			Non-Triratna Authors	GEN	MUR					0-04-29-4033-8	Hardback book	1	
 	Nagyal Wangchen (Geshe)			Awakening the Mind		1995	Wisdom publications	Boston		General Buddhism	GEN	NAG					0- 86171-102-5	Paperback book 	1	
 Present	"Nairn, Rob"			What is Meditation?	Buddhism for Everyone	2000	Shambhala Publications	Boston		Meditation Guides (Non-Triratna)	GEN	NAI		meditation;	Introduction to Meditation and Buddhism		1-57062-715-0	Paperback book	1	
 Present	"Nair, Anita (ed)"			Where the Rain is Born	writings about Kerala	2002	Penguin Books			Non Triratna authors	GEN	NAI					014302919-3	Paperback book	1	
+	"Nakamura, Hajime"			Indian Buddhism		1989	Motilal Banarsidass				GEN	NAK					81-208-0272-1	Hardback	1	
 Present	"Namto, Sobin S. (Achan) (edited by Rev. Martha Dhamap?li)"		"Rothwell, Fred"	Insight Meditation	Practical Steps to Ultimate Truth	1989	Vipass?na Dhurha Meditation Society	USA		Meditation Guides (Non-Triratna)	GEN	NAM		meditation; vipass?na; abhidharma psychology; thailand; burma	Exploration  and introduction to the Vipass?na practice of meditation.		947-8357-85-6	Paperback book	1	
 Present	"Narasu, P.Lakshmi"			The Essence of Buddhism		1993	Asian Educational Services			Non-Triratna Authors	GEN	NAR					81-206-0220-x	Paperback book	1	
 Present	Narada (Mahathera)			Buddhism in a Nutshell			Buddhist Cultural Centre			Non Triratna authors	GEN	NAR						Paperback book	1	
 Present	Narada (Mahathera)			The Buddha and his Teachings		1998	Buddhist Missionary Society			Non Triratna authors	GEN	NAR					976-9920-44-5	Paperback book	2	
 Present	Narada (Mahathera)			The Manual of Abhidhamma	Abhidhammattha-Sangha	1956	Power Press			Non Triratna authors	GEN	NAR						Hardback book	1	
+	"Nisker, Wes"			Buddha's Nature		1998	Rider				GEN	NIS					0-7126-7066-1	paperback	1	
 Present	Nyanaponika (Thera)			Abhidhamma Studies	Buddhist Exploration of Consciousness and Time	1998	Buddhist Publication Society			Non Triratna authors	GEN	NYA					0-86171-135-1	Paperback book	1	
 Present	Nyanaponika (Thera)			Abhidhamma Studies	Researches in Buddhist Psychology	1976	Buddhist Publication Society			Non Triratna authors	GEN	NYA						Paperback book	1	
 Present	Nyanaponika (Thera)		"Nanamoli, Bhikkhu"	The Heart of Buddhist Meditation	A handbook of mental training based on the Buddhist way of Mindfulness	1987	Century Hutchinson Limited	London		Non Triratna authors	GEN	NYA		buddhist publication society; mindfulness; meditation' theravada; satipatthana			0-09-152331-1	Paperback book	1	
 Present	Nyanaponika (Thera)			The Heart of Buddhist Meditation	A handbook of mental training based on the Buddha's way of Mindfulness	1983	Rider and Company	London		Non Triratna authors	GEN	NYA		meditation; theravadin; Satipa??h?na; p?li canon	"Exploration of the Satipa??h?na sutta as taught in the Theravadin tradition, including translation of the sutta and other scriptures relating to Right Mindfulness"		0-09-152331-1	Paperback book	1	
 Present	Nyanasobhano (Bhikkhu)			Landscapes of Wonder	Discovering Buddhist Dhamma in the World Around Us	1998	Wisdom	Boston		General	GEN	NYA					0-86171-142-4	Book	1	
+	"Obeyesekere, Ranjini"			Portraits of Buddhist Women		2001	SUNY Press				GEN	OBE					0-7914-5112-7	paperback	1	
 Present	"Odin, Steve"			Process Metaphysics and Hua-Yen Buddhism	A Critical Study of Cumulative Penetration vs Interpenetration	1982	State University of New York Press			Non Triratna authors	GEN	ODI					0-87395-569-2	Paperback book	1	
+	"O'Flaherty, Wendy Doniger (ED)"			Karma & Rebirth in Classical Indian Traditions		1980	Motilal Banarsidass				GEN	OFL					81-208-0884-3	hardback	1	
 Present	"Oliver, Ian P."			Buddhism in Britain		1979	Rider & Company	London		Non Triratna authors	GEN	OLI		western; britain; pali text society; buddhist scholars; buddhist society; theravada; tibet; FWBO; triratna; zen	Historical account of the emergence and growth of the various schools of Buddhist thought in Britain		0-09-138161-4	Paperback book	1	
 	"Pannapadipo, Peter (Phra)"			One Step at a Time	Buddhist meditation for absolute beginners	1998	Post Books	Bangkok		Meditation Guides (Non-Triratna)	GEN	PAN		meditation; beginners; thai	"Introduction to meditation for beginners including guidance on walking, lying and sitting meditations"		974-202030-2	Paperback book	1	
+	"Pande, Govind Chandra"			Studies int the Origins of Buddhism		1999	Motilal Banarsidass				GEN	PAN					81-208-1016-3	hardback	1	
 Present	"Perera, Lakshman S. (Prof.) (ed.)"			Buddhism for the New Millennium	Sri Saddhatissa International Buddhist Centre 10th Anniversary Celebratory Volume	2000	World Buddhist Foundation	London		General	GEN	PER					0-9518957-1-0	Book	1	
 Present	Piyadassi			The Spectrum of Buddhism	Writings of Piyadassi	1991	The Corporate Body of the Buddha Educational Foundation			Non Triratna authors	GEN	PIY					955-9098-03-9	Paperback book	1	
+	"Potter, Karl H (ed)"			Encyclopedia of Indian Philosophies		1999	Motilal Banarsidass				GEN	POT					81-208-1553-x	hardback	1	
 Present	"Prebish, Charles S."			A Survey of Vinaya Literature		1994	Jin Luen Publishing House			Non Triratna authors	GEN	PRE					957-99787-0-0	Hardback Book	1	
 Present	"Prebish, Charles S."			Buddhist Monastic Discipline	The Sanskrit Pr?timok?a S?tras of the Mah?s?mghikas and M?lasarv?stiv?dins	1996	Motilal Banarsidass	"Delhi, India"	1	Non Triratna authors	GEN	PRE		monasticism; sanskrit; vinaya; Pr?timok?a; Mah?s?mghikas; M?lasarv?stiv?dins	Translation of two monastic disciplinary texts from the 4th century BCE and 7th century BCE		81-208-1339-1	Hardback Book	2	
 Present	"Queen, Christopher S. & King, Sallie B."			Engaged Buddhism	Buddhist Liberation Movements in Asia	1996	State University of New York Press			Non Triratna authors	GEN	QUE					0-7914-2844-3	Paperback book	1	
+	"Queen, Christopher S (ed)"			Engaged Buddhism in the West		2000	Wisdom				GEN	QUE					0-861710159-9	paperback	1	
 Present	"Rahula, Walpola"			What the Buddha Taught		1974	Grove Weidenfeld		Second Edition	Non Triratna authors	GEN	RAH					0-8021-3031-3	Paperback book	1	
 Present	"Rahula, Walpola"			What the Buddha Taught		1985	Gordon Fraser Gallery Ltd			Non Triratna authors	GEN	RAH					0-86092-005-4	Paperback book	1	
+	"Rahula, Basnagoda (Bhikkhu)"			The Buddhas Teaching on Prosperity		2008	Wisdom				GEN	RAH					0-86171-547-0	paperback	1	
 Present	"Rajapaksa, Reginton"			Happiness and the Self			Sri Lanka National Library Services Board			Non Triratna authors	GEN	RAJ						Paperback book	1	
 	"Rawlinson, Andrew"			The Book of Enlightened Masters	Western Teachers in Eastern Traditions	1997	Carus Publishing Company			Non Triratna authors	GEN	RAW					0-8126-9310-8	Paperback book	1	
+	"Ray, Reginald A"			Buddhist Saints in India		1994	OUP				GEN	RAY					0-19-513483-4	paperback	1	
 Present	"Rhys Davids, C. (Mrs)"			Buddhism	A Study of the Buddhist Norm		Williams and Norgate			Non Triratna authors	GEN	RHY						Hardback Book	2	
 	"Rhys Davids, C. (Mrs)"			Outlines of Buddhism		1978	Munshiram Manoharlal Publishers			Non Triratna authors	GEN	RHY						Hardback book	1	
 Present	"Rhys Davids, C. (Mrs)"			What Was the Original Gospel in Buddhism?		1938	The Epworth Press			Non Triratna authors	GEN	RHY								
+	"Rhys Davids, T W"			Buddhist India		1987	Motilal Banarsidass				GEN	RHY					81-208-0425-2	paperback	1	
 Present	"Rieker, Hans-Ulrich"		"Fitzgerald, Edward"	Beggar Among the Dead	Some experiences of a Buddhist Monk in India	1960	Rider and Company			Non Triratna authors	GEN	RIE								
 Present	"Rieker, Hans-Ulrich"		"Pomerans, A. J"	The Secret of Meditation		1974	Rider and Company	London		Non Triratna authors	GEN	RIE		meditation; christianity; tibetan; zen	"Introduction to meditation with a particular focus on preparation and the objects of meditation. Includes appendices on meditation in zen buddhism, tibetan buddhism and christianity"		0-09118841-5	Paperback book	1	
 Present	"Robertson, Alec"			Buddha: The Healer Incomparable		1990	State Printing Corporation			Non Triratna authors	GEN	ROB					955-610-029-6	Paperback book	1	
@@ -261,6 +305,7 @@ Present	"Sarkar, Anil Kumar"			Changing Phases of Buddhist Thought		1961	Bharati
 Present	"Saso, Michael & Chappell, David W. (ed)"			Buddhist and Taoist Studies I		1977	University of Hawaii Press			Non Triratna authors	GEN	SAS					0-8248-0420-1	Paperback book	1	
 Present	Sayadaw Mahasi		Nyanaponika Thera	The Progress of Insight	A Treatise on the Buddhist Satipa??h?na Meditation	1973	Buddhist Publication Society	"Kandy, Sri Lanka"	2	Non Triratna authors	GEN	SAY		meditation; Satipa??h?na; mindfulness;  p?li canon	Exploration of the Satipa??h?na (Mindfulness) practice with a particular focus on the advanced stages of this path			Paperback book	1	
 Present	"Schumann, Hans Wolfgang"		"Feuerstein, Georg"	Buddhism	An Outline of its Teachings and Schools	1993	Theosophical Publishing House			Non Triratna authors	GEN	SCH					0-8356-0452-7	Paperback book	1	
+	"Schmidt, Amy"			Dipa Ma	The Life & Legacy of a Buddhist Master	2005	Windhorse				GEN	SCH					1-899579-73-7	paperback	1	
 Present	"Sen, Amartya"			The Argumentative Indian	"Writings on Indian Culture, History and Identity"	2005	Penguin Books			Non Triratna authors	GEN	SEN					0-141-01211-0	Paperback book	1	
 Present	"Shah, Ramesh Chandra"			Ancestral Voices	Four Lectures Towards a Philosophy of Imagination	2001	The Temenos Academy			Non Triratna authors	GEN	SHA					0-9528910-9-3	Paperback book	1	
 Present	"Shaw, Sarah"			Buddhist Meditation	An anthology of texts from the P?li canon	2006	Routledge	London and New York		Non Triratna authors	GEN	SHA		meditation; scriptures; P?li canon; posture; lay; Upatissa; Buddhaghosa; theravardin	Introductory anthology of various kinds of meditations described in the P?li canon		0-415-48568-1	Paperback book	1	
@@ -292,7 +337,10 @@ Present	"Thomas, Edward J."			The History of Buddhist Thought		1971	Routledge			
 Present	"Trainor, Kevin (ed.)"			Buddhism	The Illustrated Guide	2004	Oxford University Press			Non Triratna authors	GEN	TRA					0-19-517398-8	Paperback book	1	
 Present	"Tucci, Giuseppe"			The Theory and Practice of the Mandala		1974	Rider & Co.			Non Triratna authors	GEN	TUC					0-09-061931-5	Paperback book	1	
 Present	"Upasak, C.S."			History of Buddhism in Afghanistan		1990	Central Institute of Higher Tibetan Studies			Non Triratna authors	GEN	UPA					81-900149-0-0	Hardback book	1	
+	"Wallace, B Alan"			Choosing Reality		2003	Snowlion pub				GEN	WAL					1-55939-199-5	paperback	1	
+	"Wangchen, Namgyal (Geshe)"			Awakening the Mind		1995	Wisdom				GEN	WAN					0-86171-102-5	paperback	1	
 Present	"Ward, Timothy"			What the Buddha Never Taught		1990	Element Books Ltd			Non Triratna authors	GEN	WAR					1-85230-146-5	Paperback book	1	
+	"Warder, A K"			Indian Buddhism		1991	Motilal Banarsidass				GEN	WAR					81-208-0818-5	hardback	1	
 Present	"Watanabe, Fumimaro"			Philosophy and its Development in the Nikayas and Abhidhamma		1983	Motilal Banarsidass			Non Triratna authors	GEN	WAT					0-89581-157	Hardback book	2	
 Present	"Wayman, Alex"			Buddhist Insight		1990	Motilal Banarsidass			Non Triratna authors	GEN	WAY					81-208-0675-1	Hardback book	1	
 	"Wettimuny, Ramsey G. de S."			Buddhism and its Relation to Religion and Science		1962	M.D. Gunasena & Co. Ltd			Non Triratna authors	GEN	WET						Hardback book	1	
@@ -301,7 +349,9 @@ Present	"Williams, Paul"			Buddhist Thought	A complete introduction to the India
 Present	"Willemen, Charles"			The Essence of Scholasticism	Abhidharmahrdaya T1550	2006	Motilal Banarsidass			Non Triratna authors	GEN	WIL					81-208-3094-6	Hardback book	1	
 Present	"Williams, Duncan Ryuken and Queen, Christopher S. (eds.)"			American Buddhism	Methods and Findings in Recent Scholarship	1999	Curzon	Richmond		General	GEN	WIL					0-7007-1204-6	Book	1	
 Present	"Wood, Thomas E."			Mind Only	A Philosophy and Doctrinal Analysis of the Vijnanavada	1991	University of Hawai'I Press			Non Triratna authors	GEN	WOO						Paperback book	1	
+	"Yew, Tham Weng"			Sacred relics of the Buddha		1999	Buddhist Research Society				GEN	YEW						paperback	1	
 Present	"Zelliot, Eleanor"			Gandhi and Ambedkar	A Study in Leadership	1983	Triratna Grantha Mala			Non Triratna authors	GEN	ZEL						Pamphlet	1	
+				Seeing the Way		1989	Amaravati Publications				GEN						1-870205-04-9	paperback	1	
 Present	"Dutt, Sukumar"			Early Buddhist Monachism		1996	Munshiram Manoharlal			General	GEN 	DUT					81-215-0120-2	Book	1	
 Present	"Dutt, Sukumar"			Early Buddhist Monachism		1981	Munshiram Manoharlal			General	GEN 	DUT						Book	1	
 Present	"Stevens, John"			Lust for Enlightenment	Buddhism and Sex	1990	Shambhala	Boston		General	GEN 	STE						Book	1	
@@ -671,14 +721,18 @@ Present			"Conze, Edward"	Buddhist Scriptures		1971	Penguin Books			Suttas not P
 Present	"Thera, N., Hecker, H."			Great Disciples of the Buddha	"Their lives, their works, their legacy"	1997	Buddhist Publication Society			Suttas not PTS	PAL	ANTH	GRE			Split in the middle	0-86171-128-9	Hardback book	1	
 Present	Nyanaponika (Thera)			The Life of Sariputta		1987	Buddhist Publication Society	"Kandy, Sri Lanka"	2	Buddhist scriptures; anthologies	PAL	ANTH	LIF	sutras;sariputta	Translation of the Life of S?riputta		955-24-0015-5	Paperback book	1	
 Present	"Tucci, Giuseppe"			Minor Buddhist Texts	Parts One and Two	1986	Motilal Banarsidass	"Delhi, India"	1	Suttas not PTS	PAL	ANTH	MIN	sanskrit; tibetan; first bh?van?krama; kamala??la	Collection of  Buddhist Sanskrit texts discovered by the author and translated here for the first time.		81-208-0190-3	Hardback Book	1	
+Present	Nyanatiloka (ed)			The Word of the Buddha	An Outline of the teaching of the Buddha in the words of the Pali canon	1979	Buddhist Publication Society	"Kandy, Sri Lanka"	15	Suttas not PTS	PAL	ANTH	MYA	p?li canon; sutta-pi?aka; suffering; dukkha; eightfold path; four noble truths	Translation of the Sutta-Pi?aka			Paperback book	1	
 Present	"Thomas, E.J"		"Tulke, Gonsar"	The Quest of Enlightenment	A selection of the Buddhist Scriptures translated from the Sanskrit	1950	John Murray	London	1	Buddhist scriptures; anthologies	PAL	ANTH	QUE		Collection of 21 suttas from the P?li canon highlighting key doctrines			Hardback book	1	
 Present			"Thomas, E.J"	The Road to Nirv??a		1950	John Murray	London	1	Suttas not PTS	PAL	ANTH	ROA	p?li canon;	Collection of 21 suttas from the P?li canon highlighting the Buddha's life and some of his teaching on ethics			Hardback book	1	
 Present			"Woodward, F.L"	Some Says of the Buddha	according to the P?li Canon	1973	Oxford University Press	London and New York		Suttas not PTS	PAL	ANTH	SOM	buddhist society; p?li canon; christmas humphreys;	"Collection of passages from the Vinaya Pitaka, Digha-Nikaya, Majjhima- Nikaya, Samyutta-nikaya, Anaguttara-nikya, dhammapada, udana and sutta nipata"			Hardback book	1	
 Present			"Schelling, Andrew; Waldman, Anne"	Songs of the Sons and Daughters of Buddha		1996	Shambhala Publications	"Boston, USA"	1	Suttas not PTS	PAL	ANTH	SON	poetry; enlightenment; theragatha; therigatha; p?li canon;	Collection of translated poems from the Theragatha and Therigatha		1-57062-172-1	Book	2	
 			"Thera, N., Bikkhu Bodhi"	Numerical Discourses of the Buddha	An Anthology of Suttas from the Anguttara Nikaya	1999	Altamira Press			Suttas not PTS	PAL	ANTH	THE				0-7425-0404-2	Paperback book	1	
 AUDIO	Manjusura (compiler)		"Oldenberg, H."	The Voice of the Buddha	The Dhammapada and other key Buddhist teachings	2004	NAXO Audio Books Ltd	Germany		Buddhist scriptures; anthologies	PAL	ANTH	VOI	dhammapada; scriptures; three jewels; ananda	"Collection of key buddhist teachings, focusing on the Dhammapada, in three audio books"		9-62634-307-9	Audio book (CD)	1	
+Present				Thus Spake the buddha		1975	The president			Suttas not PTS	PAL	ANTH						Very small book	1	
 Present	Nyanaponika (Thera)			The Five Mental Hindrances and their Conquest	Selected texts from the P?li Canon and the commentaries	2000	Buddhist Publication Society	"Kandy, Sri Lanka"	3	Buddhist scriptures; anthologies	PAL	ANTH 	FIV	hindrances	Text exploring the five hindrances of: sensual desire; ill-will; sloth and torpor; restlessness and remorse; doubt		955-24-0111-9	Book	1	
 			"Horner, I.B."	Minor Anthologies III	Sacred Books of the Buddhists Vol XXXI	1975	Pali Text Society			In English Suttas	PAL	Bv/Cp	HOR				0-7100-8213-4	Hardback book	1	
+present			"Buddharakkhita, A."	The Dhammapada	The Buddhas path of wisdom	1996	Buddhist Publication Society			Suttas not PTS	PAL	Dhp	BUD				955-24-0131-3	Paperback book	1	
+Present			"Easwaran, E."	The Dhammapada		1987	Arkana			Suttas not PTS	PAL	Dhp	EAS				1-85063-068-2	Paperback book	1	
 			"Mascaro, J."	The Dhammapada	The path of perfection	1973	Penguin Books			Suttas not PTS	PAL	Dhp	MAS				0-14-044284-7	Paperback book	4	
 Present			"Thera, N."	The Dhammapada		1954	John Murray Publications			Suttas not PTS	PAL	Dhp	THE					Paperback book	1	
 			Wagiswara WDC & Saunders KJ	The Buddha's 'Way of Virtue'	Trans of Dhammapada1912		John Murray	London		Pali texts in English	PAL	Dhp	WAG				978-0-9566929-0-0	Paperback book	1	
@@ -725,6 +779,7 @@ Present			"Bodhi, Bhikkhu"	The Connected Discourses of the Buddha vol 1		2000	Pa
 Present			"Bodhi, Bhikkhu"	The Connected Discourses of the Buddha vol 2		2000	Pali Text Society			In English Suttas	PAL	SN	BOD				0-86013-381-8	Hardback book	1	
 			"Norman, K"	The Group of Discourses II	Sutta Nipata	1992	Pali Text Society			In English Suttas	PAL	SN	NOR				0-86013-303-6	Hardback book	1	
 Present			"Rhys Davids, T W"	Kindred Sayings I		1989	Pali Text Society			In English Suttas	PAL	SN	RHY				0-86013-004-5	Hardback book	1	
+Present			"Walshe,M."	Samyutta Nikaya	An anthology Part III	1985	Buddhist Publication Society			Suttas not PTS	PAL	SN	WAL				0068-3345	Paperback book	1	
 Present			"Woodward, F L"	Kindred Sayings II		1982	Pali Text Society			In English Suttas	PAL	SN	WOO					Hardback book	1	
 Present			"Woodward, F L"	Kindred Sayings III		1975	Pali Text Society			In English Suttas	PAL	SN	WOO				0-7100-8079-4	Hardback book	1	
 Present			"Woodward, F L"	Kindred Sayings IV		1980	Pali Text Society			In English Suttas	PAL	SN	WOO				0-7100-7513-8	Hardback book	1	
@@ -748,11 +803,6 @@ Present			"Rhys Davids, T.W."	Sacred Books of the East Vol 20	Vinaya Texts Part 
 Present	"Wille, Klaus"			Die Handschriftliche Uberlieferung Des Vinayavastu Der Mulasarvastivadin		1987	Franz Steiner Verlag			?	PAL	VIN	WIL G				3-515-05220-8	Hardback	1	
 Present				A Pratimoksa Sutra for Western Lands						In English Suttas	PAL	VIN						Pamphlet	1	
 Present			"Horner, I.B."	Minor Anthologies IV	Sacred Books of the Buddhists Vol XXX	1998	Pali Text Society			In English Suttas	PAL	Vv/Pv	HOR				086013-073-8	Hardback book	1	
-Present			"Walshe,M."	Samyutta Nikaya	An anthology Part III	1985	Buddhist Publication Society			Suttas not PTS	PAL						0068-3345	Paperback book	1	
-present			"Buddharakkhita, A."	The Dhammapada	The Buddhas path of wisdom	1996	Buddhist Publication Society			Suttas not PTS	PAL						955-24-0131-3	Paperback book	1	
-Present	Nyanatiloka (ed)			The Word of the Buddha	An Outline of the teaching of the Buddha in the words of the Pali canon	1979	Buddhist Publication Society	"Kandy, Sri Lanka"	15	Suttas not PTS	PAL			p?li canon; sutta-pi?aka; suffering; dukkha; eightfold path; four noble truths	Translation of the Sutta-Pi?aka			Paperback book	1	
-Present				Thus Spake the buddha		1975	The president			Suttas not PTS	PAL							Very small book	1	
-Present			"Easwaran, E."	The Dhammapada		1987	Arkana			Suttas not PTS	PAL						1-85063-068-2	Paperback book	1	
 Present				Anguttara-Nikaya Vol 1 			Pali Text Society		2	In Pali	PAL P	AN					0-86013-067-3	Hard Copy	1	
 Present				Anguttara-Nikaya Vol 2			Pali Text Society			In Pali	PAL P	AN					0-7100-8517-6	Hard Copy	1	
 Present				Anguttara-Nikaya Vol 3			Pali Text Society			In Pali	PAL P	AN					0-7100-8515-8	Hard Copy	1	
@@ -871,7 +921,7 @@ Present	Sangharakshita			Know Your Mind	The Psychological dimension of ethics in
 Present	Sangharakshita			Learning to Walk		1990				Sangharakshita	SANG	LEA					0-904766-45-4	Book	1	
 Present			"Richards, Michael"	List of Tape Recorded Lectures		1973				Sangharakshita	SANG	LIS??						Pamphlet	1	
 	Sangharakshita			Living with Kindness	The Buddha's Teaching on Metta	2004	Windhorse				SANG	LIV					1899579648	paperback	1	
-	Sangharakshita			Living Ethically	Advice from Nagarguna's Precious Garland	2009	Windhorse				SANG	LIV					9.7819E+12	Paperback	2	
+	Sangharakshita			Living Ethically	Advice from Nagarguna's Precious Garland	2009	Windhorse				SANG	LIV					9.78E+12	Paperback	2	
 	Sangharakshita			Living with Awareness	A guide to the Satipatthana Sutta	2003	Windhorse				SANG	LIV					1899579389	paperback	2	
 present	Sangharakshita			The Meaning of Conversion in Buddhism		1994				Sangharakshita	SANG	MEA					0-904766-67-5	Book	1	
 Present	Sangharakshita			The Meaning of Orthodoxy in Buddhism	A Protest	1957				Sangharakshita	SANG	MEA					0-904766-27-6	Booklet	3	
@@ -885,9 +935,9 @@ Present	Sangharakshita			The Path of the Inner Life		1983				Sangharakshita	SANG
 Present	Sangharakshita			The Path of the Inner Life		1983				Sangharakshita	SANG	PAT					0-904766-00-4	Paperback	1	
 Present	Sangharakshita			Peace is a Fire	A Collection of Writings and Sayings	1995			2	Sangharakshita	SANG	PEA					0-904766-84-5	Book	1	
 Present	Sangharakshita			Precepts of  the Gurus	Sangharakshita in Seminar. Fourth Seminar	1983				Sangharakshita	SANG	PRE						Transcription	1	
-	Sangharakshita			Precious Teachers	Indian Memoirs of an English Buddhist	2007	Windhorse				SANG	PRE					9.7819E+12	Paperback	2	1 signed
+	Sangharakshita			Precious Teachers	Indian Memoirs of an English Buddhist	2007	Windhorse				SANG	PRE					9.78E+12	Paperback	2	1 signed
 	Sangharakshita			The Priceless Jewel		1993				Sangharakshita	SANG	PRI					0-904766-58-6	Paperback	1	
-	Sangharakshita			The Purpose & Practice of Buddhist Meditation		2012	IBIS				SANG	PUR					9.78096E+12	paperback	1	
+	Sangharakshita			The Purpose & Practice of Buddhist Meditation		2012	IBIS				SANG	PUR					9.78E+12	paperback	1	
 Present	Sangharakshita			The Religion of Art		1980				Sangharakshita	SANG	REL				Needs Repair		Booklet	1	
 Present	Sangharakshita			Ritual & Devotion in Buddhism	An introduction	1995				Sangharakshita	SANG	RIT					0-904766-87-x	Book		
 Present	Sangharakshita			Ritual & Devotion in Buddhism	An Introduction	1995				Sangharakshita	SANG	RIT					0-904766-87-x	Paperback	3	
@@ -911,14 +961,14 @@ Present	Sangharakshita			The Three Jewels	An Introduction to Buddhism	1977				Sa
 Present	Sangharakshita			The Three Jewels	An Introduction to Buddhism	1991			2	Sangharakshita	SANG	THR						Paperback book	1	
 	Sangharakshita			The Three Jewels	An Introduction to Buddhism	1991			?	Sangharakshita	SANG	THR					0-904766-49-7	Paperback	1	
 Present	Sangharakshita; Subhuti; Srimali (eds)			The Three Levels of Wisdom	"Listening, Reflecting, Meditating"	1988				Sangharakshita	SANG	THR						Booklet	1	
-Present	Sanghrakshita			The Threefold Refuge		05-Jun				Sangharakshita	SANG	THR							1	
+Present	Sanghrakshita			The Threefold Refuge		5-Jun				Sangharakshita	SANG	THR							1	
 Present	Sanghrakshita			Through Buddhist Eyes		2000				Sangharakshita	SANG	THR								
 Present	Sangharakshita; Subhuti and Srimala			The Three Levels of Wisdom	"Listening, Reflecting, Meditation"	1988	Windhorse Publications	Glasgow		Triratna books	SANG	THR		FWBO; triratna; wisdom; listening; reflection; meditation	Exploration of the three levels of Wisdom within Buddhism: listening to teachings; reflections on own experience; meditate upon them			Booklet	1	
 Present	Sangharakshita			Tibetan Buddhism	An introduction	1996				Sangharakshita	SANG	TIB					0-904766-86-1	Book	2	
 	Sangharakshita			Transforming Self & World	Themes from the Sutra of Golden Light	1995				Sangharakshita	SANG	TRA					0-904766-73-x	Paperback	1	
 Present	Sangharakshita			Travel Letters		1985				Sangharakshita	SANG	TRA					0-904766-17-9	Book	1	
 Present	Sangharakshita			Varpauden Maku		1990	Windhorse Publications			Books in other languages	SANG	VAR	Fi				951-96285-1-7	Paperback book	1	
-Present	Sangharakshita			Vision and Transformation	An Introduction to the Buddha's Noble Eightfold Path	05-Jun				Sangharakshita	SANG	VIS					0-904766-44-6	Paperback book	1	
+Present	Sangharakshita			Vision and Transformation	An Introduction to the Buddha's Noble Eightfold Path	5-Jun				Sangharakshita	SANG	VIS					0-904766-44-6	Paperback book	1	
 Present	Sangharakshita			Was the Buddha a Bhikkhu?		1994				Sangharakshita	SANG	WAS					0-904766-71-3	Paperback	1	
 Present	Sangharakshita			The Way to Wisdom	An Exploration of the Five Spiritual Faculties	1984				Sangharakshita	SANG	WAY						Book	1	
 Present	Sangharakshita			Western Buddhists and Eastern Buddhism	"Dhammamegha, No.45"	Jul-91				Sangharakshita	SANG	WES						Booklet	2	
@@ -929,39 +979,10 @@ Present	Sangharakshita			What Meditation Really Is	"Lecture at Auckland Town Hal
 Present	Sangharakshita			Who is the Buddha?		1994				Sangharakshita	SANG	WHO					0-904766-24-1		1	
 Present	Sangharakshita			Wisdom Beyond Words	Sense and Non-sense in the Buddhist Prajnaparamita tradition	1993	Windhorse				SANG	WIS					904766616	paper	3	
 Present	Sangharakshita			The Yogi's Joy	The Songs of Milarepa	2006	Windhorse				SANG	YOG					1899579664	paperback	1	
-	"Harvey, Andrew"			A Journey in Ladakh		1983				Tibetan	TIB	GEN	??				0-224-02056-0	Book	1	
-Present	H.H The XIV Dalai Lama			An Introduction to Buddhism & Tantric Meditation		1996	Paljor Publications	"New Delhi, India"	First	Tibetan	TIB	GEN	??	"Tibetan, Tibet, Four noble truths, samsara, the three refuges, karma, bodhichitta,"	"H.H the Dalai writes this for beginners interested in the subject. The first half is an excerpt from his book My Land and My People. Concise notes expouding the significance of the Refuge, the Law of Karma and its fruits, Ttishiksa and Bodhichitta."			Paperback book	1	
-Present	H.H The XIV Dalai Lama		Acharya Nyima Tsering	Commentary on the Thirty Seven Practices of Bodhisattva		2004	The Library of Tibetan Works and Archives	"Dharmasala, USA"	Second	Tibetan	TIB	GEN	??	"Tibetan, Bodhisattva, compassion"	"One of Tibetan Buddhism's most popular texts, incorporated in the Mind training text and also to be explained according to the Lam Rim universal."		81-85102-97-X	Paperback book	1	
-Present				Portrait of a Dalai Lama	The Life and Times of the Great Thirteenth	1987	Wisdom Publications			Tibetan	TIB	GEN	??				0-86171-055-X	Paperback book	1	
-Present	H.H The XIV Dalai Lama			The Art of Happiness	A Handbook for living	1988	Hodder & Stoughton			Tibetan	TIB	GEN	??				0-340-71227-9	Paperback book	1	
-	H.H The XIV Dalai Lama			The Joy of Living and Dying in Peace		1998	Thorsons	"London, UK"	First Revised	Tibetan	TIB	GEN	??	"Tibetan, Dalai Lama, death, compassion, impermanence, patience, self confidence"	"H.H the Dalai Lama offers his thoughts on achieveing a meaningful life and peaceful death with chapters which include; The Awakening Mind, Living with purpose, Patience and Creating Self Confidence"		0-00-220124-0	Paperback book	1	
-Present	HH the XIVth Dalai Lama			The Opening of the Wisdom Eye			Press of Thailand			Tibetan	TIB	GEN	??					Hardback	1	
-Present	"Rt.Hon Lord Ennals and Hyde-Chambers, Fredrick R."			Tibet in China	A Report for International Alert	1988	International Alert			Tibetan	TIB	GEN	??					Pamphlet	1	
-	"Situpa Tai, the XIIth Khentin"		"Holmes, Kenneth"	Tilopa	Some glimpses of his life	1988	Dzalendara Publishing			Tibetan	TIB	GEN	??				0-906181-10-0	Paperback	1	
-Present	H.H The XIV Dalai Lama		"Anderson, Alison"	Beyond Dogma	The challenge of the modern world	1996	Souvenir Press Ltd	"London, UK"	First	Tibetan	TIB	GEN	??				0-285-63318-x	Hardback book	1	
 Present				Ways of work: Dynamic Action	Nyingma in the West	1987	Dharma Publishing			Tibetan	TIB	GEN	??/				0-89800-135-8	Paperback	1	
-Present	H.H The XIV Dalai Lama		"Cabezon, Jose Ignacio "	Answers	Discussions with Western Buddhists	2001	Snow Lion Publications			Tibetan	TIB	GEN	???				1-55939-162-6	Paperback book	1	
-Present	"H.H The XIV Dalai Lama & Rinpoche, Sogyal"			Dzogchen	The Heart Essence of the Great Perfection	2000	Snow Lion Publications	"New York, USA"	First	Tibetan	TIB	GEN	???	"Tibetan, Dzogchen, Dalai Lama, mind, compassion"	"The teachings on Dzogchen, the heart essence of the ancient Njingma is set within the Tibetan Buddhism by the Dalal Lamai. He addresses questions such as why Dzogchen is called ""the pinnacle of all vehicles"" and what are its special features."		1-55939-157-X	Hardback book	1	
-Present	H.H The XIV Dalai Lama			Healing Anger	The Power of Patience from a Buddhist Perspective	1997	Snow Lion Publications	"New York, USA"	First	Tibetan	TIB	GEN	???	"Tibetan, anger, patience, compassion, tolerance, Bodhisattva, peace"	"Through these teachings and by his example, the DalaI Lama shows the power that patience and tolerance have to heal anger and to generate peace in the world."		1-55939-073-5	Paperback book	1	
-Present	H.H The XIV Dalai Lama			His Holiness the Dalai Lama's visit to the United Kingdom		1993	The Office of Tibet	"London, UK"	First	Tibetan	TIB	GEN	???	"Tibetan, world peace, Tibetan negotiations, Tibet, hamanity, humanitarian issues, Dalai Lama"			N/A	Booklet	1	
-Present	H.H The XIV Dalai Lama & Wijers.L			His Holiness the Fourteenth Dalal Lama of Tibet talks to Louwrien Wijers		1982	Kantoor voor cultuur Extracten	Holland	First	Tibetan	TIB	GEN	???	"Tibetan, Dalai Lama, interview, Tibet, social sculpture, ecological issues"	"A transcribed interview with the Dalai Lama, which was recorded in two parts, both in April 1981. As a guide for the conversations a list of nine wordly questions were prepared beforehand."		N/A	Book	1	
-Present	H.H The XIV Dalai Lama & Thurman. A.F			In the Spirit of Manjushri		1998	Tibet House New York & Mystic Fire Video		First	Tibetan	TIB	GEN	???	"Tibetan, wisdom path, Bodhichitta, renunciation, Third noble truth, emptiness, heart sutra, Dalai lama"	"A video document of three days in New York City May 1998, where H.H. the Dalai Lama carried out an unprecendent public dialogue with Venerable Master Sheng Yen of the Ch'an lineage on the three principle element of the wisdom path."		1-56176-427-2	Video	1	
-Present	H.H. The XIV Dalai Lama		"Lopez, Donald S."	Opening the Eye of New Awareness		1999	Wisdom Publications	"Boston, USA"	Seccond / Revised	Tibetan	TIB	GEN	???	"Tibetan, Awareness, Ethics, Buddhahood, Tibet"	"Written in 1963 - just four year safter his escape from Tibet, Opening the Eye of New Awareness is the Dalai Lama's first religious work .Orignally intended for Tibetan lay people, Westerners and ""those who do not have the leisure to study the great texts, this is the Dalai Lama's summation of Buddhist doctrines and practices as they have been pratcised in Tibet for a thousand years."		0-86171-155-6	Paperback book	1	
-Present	H.H The XIV Dalai Lama			Stages of Meditation	Training the Mind for Wisdom	2001	Rider	"London, Sydney, Auckland, Johannesburg"		Tibetan	TIB	GEN	???	meditation; tibetan; kamalashila	Translation of the intermediate Stages of Meditation by Kamalashila with a commentary by His Holiness the Dalai Lama	Some water damage	0-7126-2963-7	Paperback book	1	
-Present	"H.H The Dalai Lama, Tsong-ka-pa, Jeffery Hopkins"			Tantra in Tibet		1987	Snow Lion Publications	"New York, USA"	Second	Tibetan	TIB	GEN	???	"Tibetam, Tantra, Tibet, clear light, Buddhahood, vajra vehicle. Deity yoga, emptiness, transformation"	"Contents include tantra for practice, refuge, the three paths, greatness of mantra, clear light and initiation. The section by Tsong-ka-pa discusses the difference between tantra and sutra as well as paths to Buddhahood, vajra vehicle, deity ypga and method in the four tantras."		0-937938-49-1	Paperback book	1	
-Present	His Holiness The XIV Dalai Lama		"Hopkins, Jeffrey"	Teachings on Je Tsongkhapa's Three Principal Aspects of the Path		2005	Library of Tibetan Works & Archives			Tibetan	TIB	GEN	???				81-86470-42-5	Paperback book	1	
-Present	H.H The XIV Dalai Lama & Jose Ignacio Cabezon			The Bodhgaya Interviews		1988	Snow Lion Publications		First	Tibetan	TIB	GEN	???				0-937938-62-9	Paperback book	2	
-Present	H.H The XIV Dalai Lama & Vaclav Havel			The Buddha Nature	Death and the Eternal Soul in Buddhism	1997	Bluestar Communications	"Boston, USA"	First	Tibetan	TIB	GEN	???	"Tibetan, self, non self, buddhahood, individuality, universality, Dalai Lama"			1-885394-19-5	Paperback book	1	
-Present	H.H The XIV Dalai Lama		"Hopkins, Jeffery"	The Buddhism of Tibet		1975	Snow Lion Publications	"New York, USA"	First	Tibetan	TIB	GEN	???	"Tibetan, The middle way, Bodhisattva, sutra, tantra, deity yoga, emptiness, altruism"	"The Buddhism of Tibet consists of four texts that the Dalai Lama specifically wrote or chose for Western readers: The buddhism of Tibet, The Key to the Middle Way, The Precious Garland by Nagarjana, The Song of the Four Mindfulness by the 7th Damai Lama."		0-937938-48-3	Paperback book	1	
-Present	H.H The XIV Dalai Lama			The Key to Madhyamika		1976	Library of Tibetan Works & Archives	"New Delhi, India"	Second	Tibetan	TIB	GEN	???	"Tibetology, Tibetan, mind, wisdom, Dalai Lama"	"Translated by Gonsar Tulku, a talk entitled The Key to Madhyamika by H.H XIV Dalai Lama"			Pamphlet	1	
 Present				The Nalandakirti Journal	Number One	1989	Library of the Karma Sri Nalanda Institute			Tibetan	TIB	GEN	???			Collection of essays		Paperback	1	
-Present	H.H The XIV Dalai Lama			The Power of Compassion		1981	Thorsons	"San Francisco, USA"	First	Tibetan	TIB	GEN	???	"Tibetan, compassion, prejudice, racism, war, gender, environmental issues, wisdom, Dalai Lama"	A collection of lectures by His Holiness The XIV Dalai Lama where he discusses how compassion is based on a clear acceptance and recognition that others want happiness too and have thr right to overcome suffering.		1-85538-451-5	Paperback book	2	
-Present	His Holiness The Dalai Lama			The Universe in a Single Atom	How Science and Spirituality can serve our world	2006	Abacus			Tibetan	TIB	GEN	???				978-0-349-11736-2	Paperback book	1	
-Present	His Holiness The Dalai Lama			Transforming the Mind	Eight Verses on Generating Compassion and Transforming your Life	2000	Thorsons			Tibetan	TIB	GEN	???				0-7225-3865-0	Paperback book	1	
-Present	His Holiness The Dalai Lama			Transforming the Mind	London May 1999	1999	Tibet House Trust			Tibetan	TIB	GEN	???					Pamphlet	2	
 Present				Wisdom Energy (2)		1979	Wisdom Culture			Tibetan	TIB	GEN	???	Collection of talks from a Us tour		Collection of talks from a US tour of Tibetan lamas	0-86171-001-0	Paperback	1	
 Present				Tibetan Temple of Northwest America	Opening the Odiyan Mandala					Tibetan	TIB	GEN	????					Booklet	1	
-Present	H.H The XIV Dalai Lama			Transforming the Mind		1999	Mystic Fire Video	"New York, USA"	First	Tibetan	TIB	GEN	????	"Tibetan, Mind, Transforming, Positive thinking, Eight verses, Lojong, Dalai Lama"	"The Eight verses on Transforming the Mind written by the eleventh meditator, Geshe Langri Tangpa Dorjey Sengey, inspires and forms the basis of this talk delivered by His Holiness in London, May 1999."		1-56176-5-446-9	Video	1	
 Present	Akong Tulku Rinpoche			Taming the Tiger	Tibetan Teachings for Improving Daily Life	1994	Rider			Tibetan	TIB	GEN	AKO				0-7126-6220-0	Paperback	1	
 Present	"Amipa, Sherab Gyaltsen Lama"			The Opening of the Lotus	Developing clarity & kindness	1987	Wisdom			Tibetan	TIB	GEN	AMI				0-86171-049-5	paperback	1	
 Present	"Aris, Micheal"			Hidden Treasures and Secret Lives	A Study of Pemalingpa (1450-1521) and the Sixth Dalai Lama (1683-1706)	1988	Motilal Banarsidass			Tibetan	TIB	GEN	ARI				81-208-501-1	Hardback book	1	
@@ -1011,6 +1032,7 @@ Present	"Dowman, Keith"			Sky Dancer	The Secret Life and Songs of the Lady Yeshe
 Present	"Dowman, Keith"			The Power-Places of Central Tibet	The Pilgrim's Guide	1988	Routledge & Kegan Paul		First	Tibetan	TIB	GEN	DOW				0-14-019118-6	Paperback	1	
 	"Dummer, Tom"			Vajrayana Student's Notebook		1998	Paljor Publications			Tibetan	TIB	GEN	DUM				81-86230-16-5	Paperback book	1	
 Present	"Edou, Jérôme"		Núria Martí	Machig Labrön and the Foundations of Chöd		1996	Snow Lion Publications			Tibetan	TIB	GEN	EDO				1-55939-039-5	Paperback book	1	
+Present	"Ennals( Rt Hon Lord) & Hyde-Chambers, Fredrick R."			Tibet in China	A Report for International Alert	1988	International Alert			Tibetan	TIB	GEN	ENN					Pamphlet	1	
 Present	"Fader, Louis H."			Called from obscurity: The Life and Times of a True Son of Tibet Gergan Dorje Tharchin	Volume Three	2009	Tibetan Mirror Press			Tibetan	TIB	GEN	FAD				978-9937-1191-8	Hardback book	1	
 Present	"Freke, Timothy"			The Wisdom of the Tibetan Lamas		1999	Godsfield Press Ltd			Tibetan	TIB	GEN	FRE				1-899434-92-5	Hardback book	1	
 Present	"Furer-Haimendorf, Christoph von"			The Sherpas of Nepal	Buddhist Highlanders	1964	John Murray			Tibetan	TIB	GEN	FUR					Hardback book	1	
@@ -1023,15 +1045,40 @@ Present	"Govinda, Lama Anagarika"			Foundations of Tibetan Mysticism	According t
 Present	"Govinda, Lama Anagarika"			Foundations of Tibetan Mysticism		1975	Rider & Company		5	Tibetan	TIB	GEN	GOV				0-09-052041-6	Paperback book	1	
 Present	"Govinda, Lama Anagarika"			Foundations of Tibetan Mysticism		1969	Samuel Weiser		1	Tibetan	TIB	GEN	GOV				0-87728-064-9	Paperback book	1	
 Present	"Govinda, Lama Anagarika"			Insights of a Himalyan Pilgrim		1991	Dharma Publishing			Tibetan	TIB	GEN	GOV				0-89800-204-4	Paperback book	1	
-Present			"Guenther, Herbert V. and Kawamura, Leslie S."	Mind in Buddhist Psychology		1975	Dharma Publishing			Tibetan	TIB	GEN	GUE				0-913546-06-2	Paperback book	1	
+Present	"Guenther, Herbert V. and Kawamura, Leslie S."			Mind in Buddhist Psychology		1975	Dharma Publishing			Tibetan	TIB	GEN	GUE				0-913546-06-2	Paperback book	1	
 Present	"Guenther, Herbert"			The Creative Vision	The Symbolic Recreation of the World According to the Tibetan Buddhist Tradition of Tantric Visualization otherwise known as The Developing Phase	1987	Lotsawa			Tibetan	TIB	GEN	GUE				0-932156-03-7	Paperback book	1	
 	"Guenther, Herbert and Chögyam Trungpa"			The Dawn of Tantra		1975	Shambala			Tibetan	TIB	GEN	GUE				0-87773-059-8	Paperback	1	
-			"Guenther, Herbert V."	The Royal Song of Saraha	A Study in the History of Buddhist Thought	1973	Shambala Publications			Tibetan	TIB	GEN	GUE				0-87773-042-3	Paperback book	1	
+	"Guenther, Herbert V."			The Royal Song of Saraha	A Study in the History of Buddhist Thought	1973	Shambala Publications			Tibetan	TIB	GEN	GUE				0-87773-042-3	Paperback book	1	
 Present	"Guenther, Herbert"			The Tantric View of Life		1972	Shambala Publications			Tibetan	TIB	GEN	GUE				0-87773-028-8	Hardback book	1	
 present	"Guenther, Herbert"			The Tantric View of Life		1976	Shambala Publications			Tibetan	TIB	GEN	GUE				0-87773-088-1	Paperback book	1	
 Present	"Guenther, Herbert"			Treasures on the Tibetan Middle Way		1969	Shambala			Tibetan	TIB	GEN	GUE					Book	1	
 Present	"Guenther, Herbert"			Wholeness Lost and Wholeness Regained	Forgotten Tales of Individuation from Ancient Tibet	1994	State University of New York Press			Tibetan	TIB	GEN	GUE				0-7914-1990-8	Paperback book	1	
 Present	"Guenther, Herbert"			Tibetan Buddhism in Western Perspective		1977	Dharma Publishing			Tibetan	TIB	GEN	GUE				0-913546-50-x	Paperback book	2	
+Present	"Gyatso, Tenzin"	H.H The XIV Dalai Lama		An Introduction to Buddhism & Tantric Meditation		1996	Paljor Publications	"New Delhi, India"	First	Tibetan	TIB	GEN	GYA	"Tibetan, Tibet, Four noble truths, samsara, the three refuges, karma, bodhichitta,"	"H.H the Dalai writes this for beginners interested in the subject. The first half is an excerpt from his book My Land and My People. Concise notes expouding the significance of the Refuge, the Law of Karma and its fruits, Ttishiksa and Bodhichitta."			Paperback book	1	
+Present				Portrait of a Dalai Lama	The Life and Times of the Great Thirteenth	1987	Wisdom Publications			Tibetan	TIB	GEN	GYA				0-86171-055-X	Paperback book	1	
+Present	"Gyatso, Tenzin"	H.H The XIV Dalai Lama		The Art of Happiness	A Handbook for living	1988	Hodder & Stoughton			Tibetan	TIB	GEN	GYA				0-340-71227-9	Paperback book	1	
+	"Gyatso, Tenzin"	H.H The XIV Dalai Lama		The Joy of Living and Dying in Peace		1998	Thorsons	"London, UK"	First Revised	Tibetan	TIB	GEN	GYA	"Tibetan, Dalai Lama, death, compassion, impermanence, patience, self confidence"	"H.H the Dalai Lama offers his thoughts on achieveing a meaningful life and peaceful death with chapters which include; The Awakening Mind, Living with purpose, Patience and Creating Self Confidence"		0-00-220124-0	Paperback book	1	
+Present	"Gyatso, Tenzin"	HH the XIVth Dalai Lama		The Opening of the Wisdom Eye			Press of Thailand			Tibetan	TIB	GEN	GYA					Hardback	1	
+Present	"Gyatso, Tenzin"	H.H The XIV Dalai Lama	"Anderson, Alison"	Beyond Dogma	The challenge of the modern world	1996	Souvenir Press Ltd	"London, UK"	First	Tibetan	TIB	GEN	GYA				0-285-63318-x	Hardback book	1	
+Present	"Gyatso, Tenzin"	H.H The XIV Dalai Lama	"Cabezon, Jose Ignacio "	Answers	Discussions with Western Buddhists	2001	Snow Lion Publications			Tibetan	TIB	GEN	GYA				1-55939-162-6	Paperback book	1	
+Present	"Gyatso, Tenzin & Rinpoche, Sogyal"	"H.H The XIV Dalai Lama & Rinpoche, Sogyal"		Dzogchen	The Heart Essence of the Great Perfection	2000	Snow Lion Publications	"New York, USA"	First	Tibetan	TIB	GEN	GYA	"Tibetan, Dzogchen, Dalai Lama, mind, compassion"	"The teachings on Dzogchen, the heart essence of the ancient Njingma is set within the Tibetan Buddhism by the Dalal Lamai. He addresses questions such as why Dzogchen is called ""the pinnacle of all vehicles"" and what are its special features."		1-55939-157-X	Hardback book	1	
+Present	"Gyatso, Tenzin"	H.H The XIV Dalai Lama 		Healing Anger	The Power of Patience from a Buddhist Perspective	1997	Snow Lion Publications	"New York, USA"	First	Tibetan	TIB	GEN	GYA	"Tibetan, anger, patience, compassion, tolerance, Bodhisattva, peace"	"Through these teachings and by his example, the DalaI Lama shows the power that patience and tolerance have to heal anger and to generate peace in the world."		1-55939-073-5	Paperback book	1	
+Present	"Gyatso, Tenzin"	H.H The XIV Dalai Lama 		His Holiness the Dalai Lama's visit to the United Kingdom		1993	The Office of Tibet	"London, UK"	First	Tibetan	TIB	GEN	GYA	"Tibetan, world peace, Tibetan negotiations, Tibet, hamanity, humanitarian issues, Dalai Lama"			N/A	Booklet	1	
+Present	"Gyatso, Tenzin & Wijers.L"	H.H The XIV Dalai Lama & Wijers.L		His Holiness the Fourteenth Dalal Lama of Tibet talks to Louwrien Wijers		1982	Kantoor voor cultuur Extracten	Holland	First	Tibetan	TIB	GEN	GYA	"Tibetan, Dalai Lama, interview, Tibet, social sculpture, ecological issues"	"A transcribed interview with the Dalai Lama, which was recorded in two parts, both in April 1981. As a guide for the conversations a list of nine wordly questions were prepared beforehand."		N/A	Book	1	
+Present	"Gyatso, Tenzin & Thurman. A.F"	H.H The XIV Dalai Lama & Thurman. A.F		In the Spirit of Manjushri		1998	Tibet House New York & Mystic Fire Video		First	Tibetan	TIB	GEN	GYA	"Tibetan, wisdom path, Bodhichitta, renunciation, Third noble truth, emptiness, heart sutra, Dalai lama"	"A video document of three days in New York City May 1998, where H.H. the Dalai Lama carried out an unprecendent public dialogue with Venerable Master Sheng Yen of the Ch'an lineage on the three principle element of the wisdom path."		1-56176-427-2	Video	1	
+Present	"Gyatso, Tenzin"	H.H. The XIV Dalai Lama	"Lopez, Donald S."	Opening the Eye of New Awareness		1999	Wisdom Publications	"Boston, USA"	Seccond / Revised	Tibetan	TIB	GEN	GYA	"Tibetan, Awareness, Ethics, Buddhahood, Tibet"	"Written in 1963 - just four year safter his escape from Tibet, Opening the Eye of New Awareness is the Dalai Lama's first religious work .Orignally intended for Tibetan lay people, Westerners and ""those who do not have the leisure to study the great texts, this is the Dalai Lama's summation of Buddhist doctrines and practices as they have been pratcised in Tibet for a thousand years."		0-86171-155-6	Paperback book	1	
+Present	"Gyatso, Tenzin"	H.H. The XIV Dalai Lama		Stages of Meditation	Training the Mind for Wisdom	2001	Rider	"London, Sydney, Auckland, Johannesburg"		Tibetan	TIB	GEN	GYA	meditation; tibetan; kamalashila	Translation of the intermediate Stages of Meditation by Kamalashila with a commentary by His Holiness the Dalai Lama	Some water damage	0-7126-2963-7	Paperback book	1	
+Present	"Gyatso, Tenzin, Tsong-ka-pa, Hopkins, Jeffery"	"h h xiv Dalai lama,Tsong-ka-pa, Jeffery Hopkins"		Tantra in Tibet		1987	Snow Lion Publications	"New York, USA"	Second	Tibetan	TIB	GEN	GYA	"Tibetam, Tantra, Tibet, clear light, Buddhahood, vajra vehicle. Deity yoga, emptiness, transformation"	"Contents include tantra for practice, refuge, the three paths, greatness of mantra, clear light and initiation. The section by Tsong-ka-pa discusses the difference between tantra and sutra as well as paths to Buddhahood, vajra vehicle, deity ypga and method in the four tantras."		0-937938-49-1	Paperback book	1	
+Present	"Gyatso, Tenzin"	His Holiness The XIV Dalai Lama	"Hopkins, Jeffrey"	Teachings on Je Tsongkhapa's Three Principal Aspects of the Path		2005	Library of Tibetan Works & Archives			Tibetan	TIB	GEN	GYA				81-86470-42-5	Paperback book	1	
+Present	"Gyatso, Tenzin & Cabezon, Jose Ignacio"	H.H The XIV Dalai Lama & Jose Ignacio Cabezon		The Bodhgaya Interviews		1988	Snow Lion Publications		First	Tibetan	TIB	GEN	GYA				0-937938-62-9	Paperback book	2	
+Present	"Gyatso, Tenzin & Havel, Vaclav"	H.H The XIV Dalai Lama & Vaclav Havel		The Buddha Nature	Death and the Eternal Soul in Buddhism	1997	Bluestar Communications	"Boston, USA"	First	Tibetan	TIB	GEN	GYA	"Tibetan, self, non self, buddhahood, individuality, universality, Dalai Lama"			1-885394-19-5	Paperback book	1	
+Present	"Gyatso, Tenzin"	H.H. The XIV Dalai Lama	"Hopkins, Jeffery"	The Buddhism of Tibet		1975	Snow Lion Publications	"New York, USA"	First	Tibetan	TIB	GEN	GYA	"Tibetan, The middle way, Bodhisattva, sutra, tantra, deity yoga, emptiness, altruism"	"The Buddhism of Tibet consists of four texts that the Dalai Lama specifically wrote or chose for Western readers: The buddhism of Tibet, The Key to the Middle Way, The Precious Garland by Nagarjana, The Song of the Four Mindfulness by the 7th Damai Lama."		0-937938-48-3	Paperback book	1	
+Present	"Gyatso, Tenzin"	H.H. The XIV Dalai Lama		The Key to Madhyamika		1976	Library of Tibetan Works & Archives	"New Delhi, India"	Second	Tibetan	TIB	GEN	GYA	"Tibetology, Tibetan, mind, wisdom, Dalai Lama"	"Translated by Gonsar Tulku, a talk entitled The Key to Madhyamika by H.H XIV Dalai Lama"			Pamphlet	1	
+Present	"Gyatso, Tenzin"	H.H. The XIV Dalai Lama		The Power of Compassion		1981	Thorsons	"San Francisco, USA"	First	Tibetan	TIB	GEN	GYA	"Tibetan, compassion, prejudice, racism, war, gender, environmental issues, wisdom, Dalai Lama"	A collection of lectures by His Holiness The XIV Dalai Lama where he discusses how compassion is based on a clear acceptance and recognition that others want happiness too and have thr right to overcome suffering.		1-85538-451-5	Paperback book	2	
+Present	"Gyatso, Tenzin"	H.H. The XIV Dalai Lama		The Universe in a Single Atom	How Science and Spirituality can serve our world	2006	Abacus			Tibetan	TIB	GEN	GYA				978-0-349-11736-2	Paperback book	1	
+Present	"Gyatso, Tenzin"	H.H. The XIV Dalai Lama		Transforming the Mind	Eight Verses on Generating Compassion and Transforming your Life	2000	Thorsons			Tibetan	TIB	GEN	GYA				0-7225-3865-0	Paperback book	1	
+Present	"Gyatso, Tenzin"	H.H. The XIV Dalai Lama		Transforming the Mind	London May 1999	1999	Tibet House Trust			Tibetan	TIB	GEN	GYA					Pamphlet	2	
+Present	"Gyatso, Tenzin"	H.H. The XIV Dalai Lama		Transforming the Mind		1999	Mystic Fire Video	"New York, USA"	First	Tibetan	TIB	GEN	GYA	"Tibetan, Mind, Transforming, Positive thinking, Eight verses, Lojong, Dalai Lama"	"The Eight verses on Transforming the Mind written by the eleventh meditator, Geshe Langri Tangpa Dorjey Sengey, inspires and forms the basis of this talk delivered by His Holiness in London, May 1999."		1-56176-5-446-9	Video	1	
 Present	"Gyatso, Geshe Kelsang"		"Hoang, Jenny & Nguyen Anh "	A Meditation Handbook		1990				Tibetan	TIB	GEN	GYA				0-948006-12-9	Hardback	1	
 Present	"Gyatso, Geshe Kelsang"		Tenzin Phunrabpa	Buddhism in the Tibetan Tradition: A Guide		1984	Routledge			Tibetan	TIB	GEN	GYA				0-7102-0242-3	Paperback	1	
 Present	"Gyatso, Geshe Kelsang"		Tenzin Norbu	Clear Light of Bliss	Mahamudra in Vajrayana Buddhism	1982				Tibetan	TIB	GEN	GYA				0-86171-005-3	Paperback	1	
@@ -1047,7 +1094,9 @@ Present	"Gyamtso, Khenpo Tsultrim Rimpoche"		"Hookham, Shenpen"	Progressive Stag
 	"Gyatso, Geshe Kelsang"			Universal Compassion	Practical instructions on increasing love and compassion	1997			2	Tibetan	TIB	GEN	GYA				0-948006-58-7	Book	2	
 Present	"Gyatso, Janet"		"Hardy, E."	Apparations of the Self	The Secret Autobiographies of a Tibetan Visionary	1998	Princeton University Press			Tibetan	TIB	GEN	GYA				0-691-01110-9	Paperback	4	
 Present	"Gyatso, Geshe Kelsang"			Tantric Grounds and Paths	"How to enter, progress on, and complete the Vajrayana Path"	1995	Tharpa			Tibetan	TIB	GEN	GYA				0-948006-33-1	Paperback	3	
+Present	"Gyatos,Tenzin"	H.H The XIV Dalai Lama		A Human Approach to World Peace		1988	Wisdom Publications	"London, UK"	Fourth	Tibetan	TIB	GEN	GYA	"Tibetan, World Peace, humanitarian values, Dalai Lama"			0-86171-027-4	Paperback book	2	
 	"Hansard, Christopher"			The Tibetan Art of Living	"Wise Body, Wise Mind, Wise Life"	2001	Hodder and Stoughton			Tibetan	TIB	GEN	HAN				0-340-77123-2	Hardback Book	1	
+	"Harvey, Andrew"			A Journey in Ladakh		1983				Tibetan	TIB	GEN	HAR				0-224-02056-0	Book	1	
 Present	"Harrer, Heinrich"		"Graves, Richard"	Seven Years in Tibet		1983	Grenada			Tibetan	TIB	GEN	HAR				0-246-12061-4	Paperback	1	
 Present	"Harrer, Heinrich"		"Graves, Richard"	Seven Years in Tibet		1974	Pan			Tibetan	TIB	GEN	HAR				00-330-20076-3	Paperback	1	
 Present	"Hayward, Jeremy W. and Varela, Francisco, J."			Gentle Bridges	Conversations with the Dalai Lama on the Sciences of the Mind	1992	Shambala Publications			Tibetan	TIB	GEN	HAY				1-57062-893-9	Paperback	1	
@@ -1088,9 +1137,9 @@ Present	"Mullin, Glenn H"			Meditations to Transform the Mind	The Seventh Dalai 
 Present	"Mullin, Glenn H"			Path of the Bodhisattva Warrior		1988	Snow Lion Publications			Tibetan	TIB	GEN	MUL				0-937938-55-6	Paperback book	1	
 Present	"Mullin, Glenn H."			Selected Works of the Dalai Lama I	Bridging the Sutras and Tantras	1985	Snow Lion Publications		2	Tibetan	TIB	GEN	MUL				0-937938-27-0	Paperback book	1	
 Present	"Mullin, Glenn H."			Selected Works of the Dalai Lama VII	Songs of Spiritual Change	1985	Snow Lion Publications		2	Tibetan	TIB	GEN	MUL				0-937938-30-0	Paperback book	1	
-Present			"Mullin, Glenn H"	Tsongkhapa's Six Yogas of Naropa		1996	Snow Lion Publications			Tibetan	TIB	GEN	MUL				1-55939-058-1	Paperback	1	
+Present	"Mullin, Glenn H"			Tsongkhapa's Six Yogas of Naropa		1996	Snow Lion Publications			Tibetan	TIB	GEN	MUL				1-55939-058-1	Paperback	1	
 Present	"Napper, Elizabeth"			Dependent-Arising and Emptiness		1989	Wisdom Publications			Tibetan	TIB	GEN	NAP				0-86171-057-6	Hardback	1	
-Present				The Life and Teaching of N?ropa	Translated from the original Tibetan with Philosophical Commentary based on the Oral Transmission	1963	Clarendon Press			Tibetan	TIB	GEN	NAR??					Book	1	
+Present	Naropa			The Life and Teaching of Naropa	Translated from the original Tibetan with Philosophical Commentary based on the Oral Transmission	1963	Clarendon Press			Tibetan	TIB	GEN	NAR					Book	1	
 Present	"Nebesky-Wojkowitz, Réne de"			Oracles and Demons of Tibet	The Cult and Iconography of the Tibetan Protective Deities	1996	Book Faith India			Tibetan	TIB	GEN	NEB				81-7303-039-1	Hardback book	1	
 Present	"Nebesky-Wojkowitz, Rene von"		Bullock. Michael	Where the Gods are Mountains	Three Years among the People of the Himalays	1956	Weidenfeld and Nicolson			Tibetan	TIB	GEN	NEB				None	Hardback	1	
 Present	"Newland, Guy (ed)"			Changing Minds	Contributions to the Study of Buddhism and Tibet. In Honor of Jefferey Hopkins	2001	Snow Lion Publications			Tibetan	TIB	GEN	NEW				1-55939-160-x	Hardback	1	
@@ -1129,6 +1178,7 @@ Present	Khunu Rinpoche		"Sparham, Gareth"	"Vast as the Heavens, Deep as the Sea"
 Present	"Roerich, George N."			The Blue Annals	Parts 1 and 2	1995	Motilal Banarsidass		2	Tibetan	TIB	GEN	ROE				81-208-0471-6	Hardback	1	
 Present	"Samuel, Geoffrey"			Civilized Shamans	Buddhism in Tibetan Societies	1993	Smithsonian Institution			Tibetan	TIB	GEN	SAM				1-56098-620-4	Paperback	2	
 Present			Lama Sherab Dorje	The Eighth Situpa on the Third Karmapa's Mahamudra Prayer		2004	Snow Lion Publications		2	Tibetan	TIB	GEN	SHE				1-55939-213-4	Paperback book	1	
+	"Situpa Tai, the XIIth Khentin"		"Holmes, Kenneth"	Tilopa	Some glimpses of his life	1988	Dzalendara Publishing			Tibetan	TIB	GEN	SIT				0-906181-10-0	Paperback	1	
 Present	"Snellgrove, David & Richardson, Hugh"			A Cultural History of Tibet		1995	Shambhala Publications			Tibetan	TIB	GEN	SNE				1-57062-102-0	Paperback	1	
 Present	"Snellgrove, David"			Indo-Tibetan Buddhism	Indian Buddhists and Their Tibetan Successors	1987	Serindia			Tibetan	TIB	GEN	SNE				0-906026-14-8	Hardback	2	
 Present	"Sopa, Geshe Lhundup and Hopkins, Jeffrey"			Cutting Through Appearances	Practice and Theory of Tibetan Buddhism	1989	Snow Lion Publications			Tibetan	TIB	GEN	SOP				0-937938-81-5	Paperback	1	
@@ -1192,7 +1242,7 @@ Present	"Yeshe, Lama Thubten"			Transference of Consciousness at the Time of Dea
 Present	Lama Zopa Rinpoche			Perfect Freedom	The great value of being human	1995	Wisdom Publications			Tibetan	TIB	GEN	ZOP					Paperback	1	
 Present	Lama Zopa Rinpoche			Transforming Problems into Happieness		1993	Wisdom Publications			Tibetan	TIB	GEN	ZOP				0-86171-038-X	Paperback	1	
 Present	Lama Zopa Rinpoche			Virtue and Reality		1998	Lama Yeshe Wisdom Archive			Tibetan	TIB	GEN	ZOP				1-891868-02-0	Paperback	1	
-Present	H.H The XIV Dalai Lama			A Human Approach to World Peace		1988	Wisdom Publications	"London, UK"	Fourth	Tibetan	TIB	GEN		"Tibetan, World Peace, humanitarian values, Dalai Lama"			0-86171-027-4	Paperback book	2	
+Present	"Gyatso, Tenzin"	H.H The XIV Dalai Lama	Acharya Nyima Tsering	Commentary on the Thirty Seven Practices of Bodhisattva		2004	The Library of Tibetan Works and Archives	"Dharmasala, USA"	Second	Tibetan	TIB	GEN		"Tibetan, Bodhisattva, compassion"	"One of Tibetan Buddhism's most popular texts, incorporated in the Mind training text and also to be explained according to the Lam Rim universal."		81-85102-97-X	Paperback book	1	
 	"Hopkins, Jeffrey"		"Hopkins, Jeffrey"	Buddhist Advice for Living & Liberation	N?g?rjuna's Precious Garland	1998	Snow Lion Publications			Tibetan	TIB TXT	??	HOP				1-55939-085-9	Hardback	1	
 Present	"Rabten, Geshe"		"Batchelor, Stephen"	Song of the Profound View		1989	Wisdom			Tibetan	TIB TXT	??	KUN				0-86171-086-x	paperback	1	
 Present	"Khyentse, Dilgo"		Padmakara Translation Group	The Heart Treasure of the Enlightened Ones	"The Practice of View, Meditation and Action. A Discourse Virtuous in the Beginning, Middle and End"	1992	Shambala			Tibetan	TIB TXT	???	KHY				0-87773-493-3	Paperback book	1	
@@ -1289,7 +1339,7 @@ Present	Cittapala			Speakers' Classes		1996		Padmaloka		Triratna books	TRI	CIT	S
 Present	Cittapala			The Supreme Mystery	An Introduction to Shantideva's Bodhicaryavatara	1991		Guhyaloka		Triratna books	TRI	CIT	SUP						1	
 Present	Cittapala			A System of Meditation - Revisited						Triratna books	TRI	CIT	SYS						4	
 Present	Clear Vision			Who are the FWBO? Documentary			Clear Vision Trust	Manchester		Triratna books	TRI	CLE	WHO	FWBO; triratna	"28 minute documentary film looking at some of the FWBO approaches to Buddhsit practice, including meditation, ethical lifestyles and being part of a spiritual community"			DVD	2	
-Present	Dayamati	Richard P Hayes		Land of no Buddha		1998	Windhorse				TRI	DAY	LAN				1899579125	paperback	1	
+Present	Dayamati	Richard P Hayes		Land of no Buddha		1998	Windhorse				TRI	DAY	LAN					paperback	1	
 Present	Devamitra; Padmavajra			The Ideal Student and Talking the Dharma			Padmaloka Books			Triratna books	TRI	DEV	IDE					Transcription of talks	1	
 Present	Dhivan Thomas Jones			Green Eros		2008	Apus			Triratna books	TRI	DHI	GRE				978-0-9558554-0-5	Paperback book	1	
 Present	FWBO			30 Puja Readings		1981				Triratna books	TRI	FWBO	PUJ						1	
@@ -1326,7 +1376,7 @@ Present	Padmasuri			But Little Dust	Life amongst the 'ex-untouchable' buddhists 
 Present	Padmavajra			Contemplating the Bodhicitta		1997	Padmaloka Books	Norfolk		Triratna books	TRI	PAD	COM	triratna; fwbo; ordination; men; bodhiccita	Transcription of a talk given in 1997 to men who had asked for ordination into the Western Buddhist Order on the subject of bodhicitta as a collective force that drives us to help others and aligns us to the way things really are			Booklet	1	
 Present	Padmakara (ed)			The Eleven Positive Mental Events	A Seminar Handbook					Triratna books	TRI	PAD	ELE	fwbo; triratna; teaching material; positive mental events; shraddha; hiri; ottappo; adosa; amoha; viriya; passadhi; appamada;  upekkha; avihimsa	"Handbook to facilitate the delivery of seminars on the eleven positive mental events. It contacts extracts from talks,  discussion material, notes and extracts for each of the 11 mental states"			Booklet	1	
 Present	Padmavajra			Going for Refuge and the Liberation of the Heart		1993	Padmaloka Books	Norfolk		Triratna books	TRI	PAD	GOI	triratna; fwbo; going for refuge; meghiya;	Transcription of a talk given in 1993 to men who had asked for ordination into the Western Buddhist Order on the subject of Going for Refuge and the Liberation of the Heart focusing on the conditions required for maintaining Going for Refuge.			Booklet	1	
-present	Padmacandra (Ed)	Pippa Meek		The Heart as Origami		2005	Rising Fire Press	London			TRI	PAD	HEA				9.78095E+12	paperback	2	
+present	Padmacandra (Ed)	Pippa Meek		The Heart as Origami		2005	Rising Fire Press	London			TRI	PAD	HEA					paperback	2	
 Present	Padmavajra			"Listening, Reflecting and Meditation"		1996	Padmaloka Books	Norfolk		Triratna books	TRI	PAD	LIS	triratna; fwbo; men; ordination; six bardos; tibetan	"Transcription of a talk given in 1996 to men who had asked for ordination into the Western Buddhist Order on the subject Listening, Reflecting and Meditating focusing on Root Verses of the Six Bardos. "			Booklet	2	
 Present	Padmaloka Team			Ordination Process for Men: A handbook		2004				Triratna books	TRI	PAD	ORD	triratna; fwbo; men; ordination; padmaloka	Booklet for men who have requested ordination focusing on  the essential elements of ordination training; GFR retreats; GFR groups; kalyana mitra; prostration practice; readiness for ordination; ordination and post ordination			Booklet	1	
 	Padmavajra			Training in the Ten Precepts		1996	Padmaloka Books	Norfolk		Triratna books	TRI	PAD	TRA	triratna; fwbo; ordination; men; precepts; ten pillars;	Transcript of a talk given to men who had asked for ordination into the Western Buddhist Order exploring training in the ten precepts			Booklet	1	
@@ -1358,8 +1408,8 @@ Present	Subhuti	Alex Kennedy		The Buddhist Vision	An introduction to the theory 
 	Subhuti	Alex Kennedy		The Buddhist Vision	A path to fulfilment	2001	Windhorse Publications	Birmingham	3	Triratna books	TRI	SUB	BUD	FWBO; triratna; britain; wheel of life; spiral path; mandala of the five buddhas; theravada; mahayana; western buddhism;	First Windhorse Edition of The Buddhist Vision first published  in 1985. Chapters on: Everyone has a View;  A Vision of Existence;  the Wheel and the Way; the Roots of Evil;  To be Born Again; the Endless Round; Worlds of Woe; Men and Gods; the Mundane Path; the Transcendental Path; the Mandala of the Five Buddhas; the Bodhisattva and the World		1-899579-36-2	Paperback book	1	
 	Subhuti	Alex Kennedy		The Buddhist Vision	An introduction to the theory and practice	1985	Rider & Co.	London		Triratna books	TRI	SUB	BUD	FWBO; triratna; britain; wheel of life; spiral path; mandala of the five buddhas; theravada; mahayana; western buddhism;	An overview of the Buddhist vision of the existence for Western Buddhists. Chapters on: Everyone has a View;  A Vision of Existence;  the Wheel and the Way; the Roots of Evil;  To be Born Again; the Endless Round; Worlds of Woe; Men and Gods; the Mundane Path; the Transcendental Path; the Mandala of the Five Buddhas; the Bodhisattva and the World	Inscription to Dave from Devamitra; Aryamitra; Pramodava; Ratnagupta	0-7126-1084-7	Paperback book	1	
 Present	Subhuti	Alex Kennedy		The Courage to Build	On the importance of institutions	1998	Kantaka Editions	Cambridge		Triratna books	TRI	SUB	COU	FWBO; triratna; right livelihood; institutions; windhorse trading	Transcript of talk  given by Subhuti at Windhorse Trading on 15 May 1998 on the importance of institutions such as Windhorse Trading.			Booklet	1	
-Present	Subhadassi (ed)			FWBO New Poetry 1997		1997	Rising Fire Press				TRI	SUB	FWB				953126609	paperback	2	
-Present	Subhadramati (ed)			FWBO New Poetry 2000		2000	Rising Fire Press				TRI	SUB	FWB				953126619	paper	1	
+Present	Subhadassi (ed)			FWBO New Poetry 1997		1997	Rising Fire Press				TRI	SUB	FWB					paperback	2	
+Present	Subhadramati (ed)			FWBO New Poetry 2000		2000	Rising Fire Press				TRI	SUB	FWB					paper	1	
 	Subhuti			Going for Refuge		1991				Triratna Authors	TRI	SUB	GOI					Pamphlet	1	
 Present	Subhuti	Alex Kennedy		Kalyana Mitrata		1992	Padmaloka Books	Norfolk		Triratna books	TRI	SUB	KAL	FWBO; triratna; friendship; kalyana mitrata	"Transcript of talk given by Subhuti at Padmaloka in March 1992 on Kalyana Mitrata including: the meaning of Kalyana Mitrata; the Kalyana Mitrata system; the rites of fascination, pacification,  destruction,  prospering"			Booklet	2	
 Present	Subhuti	Alex Kennedy		The Mythic Context		1990	Padmaloka Books	Norfolk		Triratna books	TRI	SUB	MYT	FWBO; triratna;	"Transcript of talk  given by Subhuti at Padmaloka, January 1990 on The Mythic Context including the death of god; to see with angel's eyes; the world in a grain of sand"			Booklet	2	
@@ -1392,109 +1442,5 @@ Present	Vidyaraja			Digging for Gold		1989	Vajra Press	Norwich		Triratna poetry	
 Present	Vimalasara	"Mason-John, Valerie"		Broken Voices	Untouchable' Women Speak Out					Triratna books	TRI	VIM	BRO				81-8386-07-37	Paperback book	1	
 Present	Vimalabandhu			The Jewel in the Cabbage	Cooking with Metaphors	2009				Triratna cooking	TRI	VIM	JEW	FWBO; triratna; cooking; work;	An exploration of cooking as a  skilful way to practice the dharma and general principles of cooking creatively.			Paperback book	1	
 Present	Steve Bellingham	Virananda		Senses of Place	Poems					Triratna poetry	TRI	VIR	SEN	FWBO; triratna; poetry; geography	A collection of  poems by Virananda written between 1992-1996			Booklet	1	
-Present	Vishvapani			Introducing the Friends of the Western Buddhist Order		05-Jun	Windhorse Publications	Birmingham		Triratna books	TRI	VIS	INT	FWBO; triratna;  modern world; spiritual community; society; worldwide; movement; practice; sangharakshita	A history and introduction to the FWBO/Triratna at the turn of the Millenium.		0-904766-98-5	Paperback book	3	
-	Lokeshvara			Padmaloka Retreat Centre for Men Programme 2012		2012				Triratna books	TRI			triratna; ordination	Leaflet outlining Padmaloka's programme of retreats in 2012 and also includes articles from a range of order members on topics such as music			Leaflet	1	
+Present	Vishvapani			Introducing the Friends of the Western Buddhist Order		5-Jun	Windhorse Publications	Birmingham		Triratna books	TRI	VIS	INT	FWBO; triratna;  modern world; spiritual community; society; worldwide; movement; practice; sangharakshita	A history and introduction to the FWBO/Triratna at the turn of the Millenium.		0-904766-98-5	Paperback book	3	
 Present	FWBO			An appeal for Bhante						Sangharakshita					Leaflet appealing for donations to help Bhante on the 40th anniversary of the founding of FWBO	To be archived and not for general loan?			2	
-present	"Bluck, Robert"			British Buddhism	"Teachngs, Practice & development"	2006	Routledge				gen						0-415483085	paperback	1	
-	"Batchelor, Stephen"			Alone With Others	An Existential Approach to Buddhism	1983	Grove Press				gen						0-802151272	paperback	1	
-	Bercholz & Kohn (ed)			The Buddha & His Teachings		2003	Shambhala				gen						978-1-57062-960-0	paperback	1	
-	"Bronkhorst, Johannes"			The Two Traditions of Meditation in Ancient India		2000	Motilal Banarsidass				gen						81-208-1643-9	paperback	1	
-	Brahm (Ajahn)			"Mindfulness, Bliss & Beyond"		2006	Wisdom				gen						0-86171-275-7	paperback	1	
-	"Allione, Tsultrim"			Women of Wisdom		1986	Arkana				gen						1-85063-044-5	paperback	1	
-	"Choong, Mun-keat"			The Notion of Emptiness in Early Buddhism		1995	Motilal Banarsidass				gen						81-208-1649-8	hardback	1	
-	"Collins, Steven"			Selfless Persons	Imagery & Thought in Theravada Buddhism	1982	Cambridge University Press				gen						0-521-39726-X	Paperback	1	
-	"Conze, Edward"			Buddhist Thought in India		1996	Munshiram Manoharlal				gen						81-215-0722-7	Hardback	1	
-	"Conze, Edward"			Buddhist Thought in India		1983	George Allen and Unwin Ltd				gen						0-04-294128-8	hardback	1	
-	"Ergardt, Jan T "			Faith & Knowledge in Early Buddhism		1977	E J Brill				gen						90-04-04841-3	Hardback	1	
-	"Dutt, Sukumar"			Buddhist Monks & Monisteries of India		1962	George Allen and Unwin Ltd				gen							hardback	1	
-	"Dutt, Sukumar"			Buddhist Monks & Monisteries of India		1988	Motilal Banarsidass				gen						81-208-0498-8	hardback	1	
-	"Dutt, Nalinaksha"			Early Monastic Buddhism		1980	Firma Klm Private Ltd				gen							hardback	1	
-	"Dutt, Nalinaksha"			Buddhist Sects in India		1998	Motilal Banarsidass				gen						81-208-0427-9	hardback	1	
-	"Govinda, (Lama Anagarika)"			Psycho-cosmic Symbolism of the Buddhist Stupa		1976	Dharma Publishing				gen						0913546-36-4	paperback	1	
-	"Govinda, (Lama Anagarika)"			The Psychological Attitude of Early Buddhist Philosphy		1961	Rider				gen							hardback	1	
-	"Gombrich, Richard"			What the Buddha Thought		2009	Equinox				gen						978-1-84553-641-5	paperback	1	
-	"Gross, Rita M"			Soaring & Settling		1998	Continuum				gen						0-8264-1113-4	paperback	1	
-	"Findley, Ellison Banks"			Women's Buddhism Buddhism's Women		2000	Wisdom				gen						0-86171-165-3	paperback	1	
-	"Jayatilleke, K N"			Early Buddhist Theory of Knowledge		1980	Motilal Banarsidass				gen							Hardback	1	
-	"Jayatilleke, K N"			"Dhamma, Man & Law"			Buddhist Research Society				gen						981-00-0220-3	paperback	1	
-	"Ikeda, Daisaku"			"Buddhism, the first millenium"		1977	Kodansha International Ltd				gen						0-87011-321-6	Hardback	1	
-	"Hamilton, Sue"			Identity & Experience		1996	Luzac Oriental				gen						1-898942-23-4	paperback	1	
-	"Kalupahana, David J "			Ethics in Early Buddhism		1995	University of Hawaii Press				gen						0-8248-1702-8	Hardback	1	
-	"King, Sallie B "			Buddha Nature		1991	Sri Satguru Publications				gen						81-7030-308-9	Hardback	1	
-	"Khosla, Sarla"			History of Buddhism in Kashmir		1972	Sagar Publications				gen							Hardback	1	
-	"Chin, Kung"			Buddhism; The Awakening of Compassion & Wisdom							gen							paperback	3	
-	"Lamotte, E "			History of Indian Buddhism		1988	Peeters press				gen						90-6831-100-X	Paperback	1	
-	"Cook, Elizabeth (ed)"			Light of Liberation	A History of Buddism in India	1992	Dharma Publishing				gen						0-89800-242-7	Paperback	1	
-	"Mackenzie, Vicki"			Cave in the Snow		1998	Bloomsbury Books				gen						0-7475-3330-	hardback	1	
-	"Morrison, Robert G"			Nietzsche & Buddhism		1997	OUP				egn						0-19-823556-9	hardback	1	
-	"Nakamura, Hajime"			Indian Buddhism		1989	Motilal Banarsidass				gen						81-208-0272-1	Hardback	1	
-	"Nisker, Wes"			Buddha's Nature		1998	Rider				gen						0-7126-7066-1	paperback	1	
-	"O'Flaherty, Wendy Doniger (ED)"			Karma & Rebirth in Classical Indian Traditions		1980	Motilal Banarsidass				egen						81-208-0884-3	hardback	1	
-	"Obeyesekere, Ranjini"			Portraits of Buddhist Women		2001	SUNY Press				gen						0-7914-5112-7	paperback	1	
-	"Pottter, Karl H (ed)"			Encyclopedia of Indian Philosophies		1999	Motilal Banarsidass				gen						81-208-1553-x	hardback	1	
-	"Pande, Govind Chandra"			Studies int the Origins of Buddhism		1999	Motilal Banarsidass				gen						81-208-1016-3	hardback	1	
-	"Ray, Reginald A"			Buddhist Saints in India		1994	OUP				gen						0-19-513483-4	paperback	1	
-	"Rahula, Basnagoda (Bhikkhu)"			The Buddhas Teaching on Prosperity		2008	Wisdom				gen						0-86171-547-0	paperback	1	
-	"Queen, Christopher S (ed)"			Engaged Buddhism in the West		2000	Wisdom				gen						0-861710159-9	paperback	1	
-	"Rhys Davids, T W"			Buddhist India		1987	Motilal Banarsidass				gen						81-208-0425-2	paperback	1	
-				Seeing the Way		1989	Amaravati Publications				gen						1-870205-04-9	paperback	1	
-	"Schmidt, Amy"			Dipa Ma	The Life & Legacy of a Buddhist Master	2005	Windhorse				gen						1-899579-73-7	paperback	1	
-	"Pas, Julian F"			Visions of Sukhavati		1995	SUNY Press				chi						0-7914-2520-7	paperback	1	
-	"Chau, Thich Thien (Bikshu)"			The Literature of the Personalist of Early Buddhism		1999	Motilal Banarsidass				gen						81-208-1622-6	Hardback	1	
-	"Pao-Ch'ang, Shih"		"Tsai, Kathryn Ann"	Lives of the Nuns		1995	Sri Satguru Publications				chi						81-7030-465-2	hardback	1	
-	"Yew, Tham Weng"			Sacred relics of the Buddha		1999	Buddhist Research Society				gen							paperback	1	
-	"Wallace, B Alan"			Choosing Reality		2003	Snowlion pub				gen						1-55939-199-5	paperback	1	
-	"Wangchen, Namgyal (Geshe)"			Awakening the Mind		1995	Wisdom				gen						0-86171-102-5	paperback	1	
-	"Warder, A K"			Indian Buddhism		1991	Motilal Banarsidass				gen						81-208-0818-5	hardback	1	
-																				
-																				
-																				
-																				
-																				
-																				
-																				
-																				
-																				
-																				
-																				
-																				
-																				
-																				
-																				
-																				
-																				
-																				
-																				
-																				
-																				
-																				
-																				
-																				
-																				
-																				
-																				
-																				
-																				
-																				
-																				
-																				
-																				
-																				
-																				
-																				
-																				
-																				
-																				
-																				
-																				
-																				
-																				
-																				
-																				
-																				
-																				
-																				
-																				
-																				
-																				
-																				
