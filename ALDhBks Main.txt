@@ -39,9 +39,11 @@ Present	Hiuen Tsiang		"Beal, Samuel"	Si-Yu-Ki: Buddhist Records of the Western W
 Present	Hiuen Tsiang		"Beal, Samuel"	Si-Yu-Ki: Buddhist Records of the Western World	Translated from the Chinese of Hiuen Tsiang	1981 and 1994	Motilal Banarsidass	Deli	Reprint of frist edition	Chinese	CHI	HIU					81-208-1107-0	Hardback	1	
 Present	"Hwui Li, (Shaman)"		"Beal, Samuel"	The Life of Hiuen-Tsiang		1973	Munshiram Manoharlal Publishers Pvt. Ltd.	Deli	2nd edition	Chinese	CHI	HWU						Hardback	1	
 Present	I-Ching		"Lahiri, Latika"	Chinese Monks in India	Biography of eminente monks who went to the western world in search of the law during the great T'ang dynasty	1998	Motilal Banarsidass	Deli	First edition	Chinese	CHI	ICH					81-208-0062-1	Hardback	1	
+Present	"Inagaki, Hisao &  Steward, Harold"			The Three Pure Land Sutras	A Study and Translation from Chinese	1995	Nagata Bunshodo	Kyoto	2	Mahayana Sutras	CHI	INA		pure land; mahayana; amit?bha sam?dhi; bodhisattva	"General survey of Pure Land Buddhism, including the Amit?bha Sam?dhi. Translation of The Larger Sutra on Amit?yus, The Sutra on Contemplation of Amit?yus and The Smaller Sutra on Amit?yus"		4-8162-0201-3	Hardback Book	1	
 Present	"Legge, James"		"Legge, James"	A Record of Buddhistic Kingdoms	Being an accont by the Chinese monk Fa-Hien of his travels in India and Ceylon (A.D. 399-414) in search of the Buddhist Books of Disipline	1965	Dover Publication	New York	First edition	Chinese	CHI	LEG					0-486-21344-7	Paperback	1	
 Present	Lin Yutang			A Systematised Collection of Chenian booklets nos. 101-149 vol. 7: nos. 147-149	Under guidance of the Buddhist yogi C. M. Chen	1993	Dharma friends of Dr Lin	Taiwan		Chinese	CHI	LIN						Paperback	1	
 Present	Lin Yutang			Pureland Daily Practice	Under the guidence of the Buddhist Yogi C. M. Chen	1989	Dharma friends of Dr Lin	Taiwan		Chinese	CHI	LIN						Paperback	1	
+			"Muller, Charles"	The Sutra of Perfect Enlightenment	Korean Buddhism's Guide to Meditation	1999	State University of New York Press			Mahayana Sutras	CHI	MUL					0-7914-4102-4	Paperback book	1	
 Present	"Pao-Ch'ang, Shih"		"Tsai, Kathryn Ann"	Lives of the Nuns		1995	Sri Satguru Publications				CHI	PAO					81-7030-465-2	hardback	1	
 Present	"Pas, Julian F"			Visions of Sukhavati		1995	SUNY Press				CHI	PAS					0-7914-2520-7	paperback	1	
 Present	"Pittman, Don A."			Toward a Modern Chinese Buddhism	Taixu's reforms	2001	University of Hawaii Press	Hawaii	First edition	Chinese	CHI	PIT					0-8248-22131-5	hardback	1	
@@ -516,6 +518,7 @@ Present	Tun Huang		"Yampolsky, Philip B "	The Platform Sutra of the Sixth Patria
 Present	Tun Huang		"Yampolsky, Philip B "	The Platform Sutra of the Sixth Patriarch	The Text of the Tun-Huang Manuscript	1967	Columbia university press			Japanese	JAP	TUN					0231-08361-0	Paperback	1	
 Present	"Ueda, Yoshifumi & Hirota, Dennis"			Shinran	An introduction to His Thoughts	1989	Hongwanjii International Centre				JAP	UED						paperback	1	
 Present	"Unno, Taitetsu"			"River of Fire, River of Water"		1998	Doubleday			Japanese	JAP	UNN					0-385-48511-5	Paperback	1	
+Present			Upasika Chimann	The Four Buddhist Books in Mahayana			The Corporate Body of the Buddha Educational Foundation			Mahayana Sutras	JAP	UPA						Paperback book	1	
 Present	"Watts, Alan"			The Book on the Taboo Against Knowing Who You Are		1969	Jonathan Cape	First edition		Japanese	JAP	WAT					224-61599-8	Hardback	1	
 Present	"Watts, Alan"			The Spirit of Zen	"A Way of Life, Work and Art in the Far East"	1948	"John Murray, Albermarle Street."			Japanese	JAP	WAT						Hardback	1	
 Present	"Watts, Alan"			The Way of Liberation in Zen Buddhism		1955	The American Academy of Asian Studies			Japanese	JAP	WAT						pamphlet	1	
@@ -529,6 +532,7 @@ Present	Wei Wu Wei			The Tenth Man	The Great Joke (which made Lazarus laugh)	196
 Present	Wei Wu Wei			The Tenth Man	The Great Joke (which made Lazarus laugh)	1966	Hong Kong University Press			Japanese	JAP	WEI						Paperback	1	
 Present	"Yamasaki, Taiko"		"Peterson, Richard & Cynthia"	"Shingon, Japanese Esoteric Buddhism"		1988	Shambhala			Japanese	JAP	YAM					0-87773-443-7	paperback	1	
 Present	"Yamada, Koun (trans)"			The Gateless Gate	The Classic Book on Zen Koans	1990	Wisdom Publications			Japanese	JAP	YAM					0-86171-382-6	paperback	1	
+Present			"Yamada, M."	The Sutra of Contemplation of the Buddha of Immeasurable Life		1984	Ryukoku University			Mahayana Sutras	JAP	YAM						Softback book	2	
 Present	"Yokoi, Yuho"			Zen Master Dogen	An Introduction with selected wrtings	1987	Weatherhill				JAP	YOK						paperback	1	
 Present	Zuiken Saizo Inagaki			Nembutsu and Zen	Zuiken's sayings	1995	Horai Association	Kyoto	First edition	Japanese	JAP	ZUI					4-8162-6957-6	Hardback	1	
 Present	"Albers, A. Christina"			The Life of the Buddha			The Maha Bodhi Society of India			Non Triratna authors	LOB	ALB						Phamphlet	1	
@@ -546,127 +550,118 @@ Present	"Saddhatissa, Hammalawa"			The Life of the Buddha		1976	George Allen and
 Present	Silacara (Bhikkhu)			A Young People's Life of the Buddha		1953	W. E. Bastian & Co.			Non Triratna authors	LOB	SIL						Paperback book	1	
 Present	Asanga		"Rahula, W., Boin-Webb, S."	Abhidharmasamuccaya	The compendium of the Higher Teaching (Philosophy)	2001	Jain Publishing Company			Madhyamaka and Yogacara	MAH	GEN	ASA				0-89581-941-4	Hardback book	1	
 Present	Asanga		"Keenan, J.P."	The Summary of the Great Vehicle		1992	Numata Centre for Buddhist Translation and Research			Madhyamaka and Yogacara	MAH	GEN	ASA				0-9625618-6-X	Hardback book	2	
+	"Brassard, Francis"			The Concept of Bodhicitta in Santideva's Bodhicaryavatara		2000	State University of New York Press			Tibetan	MAH	GEN	BRA				0-7914-4576-3	Paperback book	1	
 Present	"Minh Chau, Thich (Bikshu) "			The Chinese Madhyama Agama and the Pali Majjhima Nikaya		1991	Motilal Banarsidass			Mahayana Studies	MAH	GEN	CHA				81-208-0794-4	Hardback book	1	
+Present	"Cheng, H."			Empty Logic	Madhyamika Buddhism from Chinese Sources	1991	Motilal Banarsidass			Madhyamaka and Yogacara	MAH	GEN	CHE				81-208-0287-x	Hardback book	1	
+Present			"Cleary, Thomas"	Buddhist Yoga	Sandhinirmochana-sutra	1995	Shambhala	Boston			MAH	GEN	CLE					Book	1	
+Present	"Tongxuan, Li"		"Cleary, T."	Entry Into the Realm of Reality	The Guide	1989	Shambala Publications			Mahayana Sutras	MAH	GEN	CLE				0-87773-477-1	Paperback book	1	
 Present	Ou-I (Patriarch)		"Cleary, J.C."	Mind-Seal of the Buddhas	Patriarch Ou-I's Commentary on th Amitabha Sutra	1997	Sutra Translation Committee of the United States and Canada			Mahayana Studies	MAH	GEN	CLE					Paperback book	2	
+Present	"Ganguly, S."			Treatise in Thirty Verses on Mere Consciousness		1992	Motilal Banarsidass			Madhyamaka and Yogacara	MAH	GEN	GAN				81-208-0924-5	Hardback book	2	
+Present			"Gomez, L.O."	The Land of Bliss	The paradise of the Buddha of Measureless Light; Sanskrit and Chinese Versions of the Sukhavatuvyuha sutra	1996	University of Hawaii Press			Mahayana Sutras	MAH	GEN	GOM				0-8248-1760-5	Paperback book	1	
+Present	"Gyatso, Geshe Kelsang"		Tenzin Norbu	Meaningful to Behold	"View, Meditation and Action in Mahayana Buddhism"	1980	Wisdom Publications			Tibetan	MAH	GEN	GYA				0-86171-003-7	Book	1	
+Present	"Gyatso, Geshe Kelsang"			Meaningful to Behold	A commentary on Shantideva's Guide to the Bodhisattva's Way of Life	1989	Tharpa		3	Tibetan	MAH	GEN	GYA				0-948006-11-0	Book	2	
+	"Gyatso, Geshe Kelsang"			The Bodhisattva Vow	The Essential Practices of Mahayana Buddhism	1991	Tharpa			Tibetan	MAH	GEN	GYA				0-948006-14-5	Book	1	
+Present	"Gyatso, Tenzin"		"Wallace, Alan B."	Transcendent  Wisdom	A Commentary on the Ninth Chapter of Shantideva's Guide to the Bodhisattva Way of Life	1988	Snow Lion Publications	"New York, USA"	First	Tibetan	MAH	GEN	GYA	"Tibetan, Centrist View, Self, Mindfulness, Transcendent Wisdom."	"Annoted teaching from the Dalai Lama where he disccusses how the Centrist view differs from Buddhism, whilst discussing points on widsom, realizing emptiness, Refutation of Identity the ansence of True Existance."		0-937938-65-3	Paperback book	1	
 Present	"Hanh, Thich Nhat"			The Heart of Understanding	Commentaries on the prajnaparamita Heart Sutra	1988	Parallax Press			Mahayana Studies	MAH	GEN	HAN				0-938077-11-2	Paperback book	2	
 Present	Hsuan Hua		Buddhist Text Translation Society	The Heart of Prajna Paramita Sutra		2002	Buddhist Text Translation Society			Madhyamaka and Yogacara	MAH	GEN	HSU				0-88139-484-X	Hardback book	1	
+			"Kawamura, L.S."	Madhyamika and Yogacara		1991	State University of New York Press			Madhyamaka and Yogacara	MAH	GEN	KAW				0-7914-0186-3	Hardback book	1	
+Present			"Keenan, J.P."	The Foundational Standpoint of Madhyamika Philosophy		1990	Sri Satguru Publications			Madhyamaka and Yogacara	MAH	GEN	KEE				81-7030-230-1	Hardback book	1	
+Present			"Kochumuttom, T.A"	A Buddhist Doctrine of Experience	A New Translation and interpretation of the Works of Vasabandhu the Yogacarin	1989	Motilal Banarsidass			Madhyamaka and Yogacara	MAH	GEN	KOC				81-208-0662-x	Hardback book	1	
 Present	"Lopez, Donald S Jr"			The Heart Sutra Explained	Indian and Tibetan Commentaries		State University of New York Press			Mahayana Studies	MAH	GEN	LOP				0-88706-590-2	Paperback book	1	
+Present	"Lusthaus, D."			Buddhist Phenomenology	A Philosophical Investigation of Yogacara Buddhism and the Ch'eng Wei-Shih lun	2002	Routledge			Madhyamaka and Yogacara	MAH	GEN	LUS				0-7007-1186-4	Hardback book	1	
+Present	Maitreya (Arya)		"Martin, M."	Distinguishing the Middle from the Extremes	Chapter Five The Distinctive Path of the Mahayana	1991	Marpa Institute			Madhyamaka and Yogacara	MAH	GEN	MAI					Paperback book	1	
+Present	"Murti, T.R.V."			The Central Philosophy of Buddhism	A Study of the Madhyamika System	1998	Munshiram Manoharlal Publishers			Non-Triratna Authors	MAH	GEN	MUR				81-215-0834-7	Hardback book	1	
+Present	"Murti, T.R.V."			The Central Philosophy of Buddhism	A Study of the Madhyamika System	1974	George Allen and Unwin Ltd			Non-Triratna Authors	MAH	GEN	MUR				0-04-29-4033-8	Hardback book	1	
+Present	Nagarjuna		"Kalupahana, D.J."	Nagarjuna The Philosophy of the Middle Way		1986	State University of New York Press			Madhyamaka and Yogacara	MAH	GEN	NAG				0-88706-149-4	Paperback book	1	
+Present	Nagarjuna		"Komito, D.R."	"Nagarjuna's ""Seventy Stanzas"" A Buddhist Psychology of Emptiness"		1987	Snow Lion Publications			Madhyamaka and Yogacara	MAH	GEN	NAG				0-937938-39-4	Paperback book	2	
 Present	"Nattier, Jan"			A Few Good Men	The Bodhisattva Path according to The Inquiry of Ugra (Ugrapariprccha)	2005	University of Hawaii Press			Mahayana Studies	MAH	GEN	NAT				0-8248-3003-2	Paperback book	1	
+	"Niwano, Nikkyo"			A Guide to the Threefold Lotus Sutra		1985	Kosei Publishing Company			Mahayana Studies	MAH	GEN	NIW				4-333-01025-x	Paperback book	1	
 Present	"Pagel, Ulrich"			The Bodhisattvapitaka	"Its Doctrines, Practices and their position in Mahayana Literature"	1995	The Institute of Buddhist Studies			Mahayana Studies	MAH	GEN	PAG				0-9515424-4-3	Hardback book	1	
 Present	"Park, Sung Bae"			Buddhist Faith and Sudden Enlightenment		1983	State University of New York Press			Mahayana Studies	MAH	GEN	PAR				0-87395-674-5	Paperback book	1	
 Present	"Pas, Julian F."			Visions of Sukhavati	Shan-Tao's Commentary on the Kuan Wi-Liang-Shou-Fo Ching	1995	State University of New York Press			Mahayana Studies	MAH	GEN	PAS				0-7914-2520-7	Paperback book	1	
 Present	Kunzang Pelden		Padmakara Translation Group	The Nectar of Manjushri's Speech	A detailed Commentary on Shantideva's Way of the Bodhisattva	2007	Shambala Publications			Mahayana Studies	MAH	GEN	PEL				978-1-59030-439-6	Hardback book	2	
+Present	"Rinchen, Geshe Sonam"		"Sonam, Ruth"	The Bodhisattva Vow		2000	Snow Lion			Tibetan	MAH	GEN	RIN				1-55939-150-2	Paperback	1	
+Present	"Sheng-yen, Ch'an master"			There is No Suffering	A commentary on the Heart Sutra	2001	North Atlantic Books			Japanese	MAH	GEN	SHE				1-55643-385-9	Paperback	1	
 Present	"Suzuki, Beatrice Lane"			Mahayana Buddhism		1948	David Marlowe Limited			Mahayana Studies	MAH	GEN	SUZ					Hardback book	1	
+damaged			"Suzuki, D."	Studies in the Lankavatara Sutra		1957	Routledge			Mahayana Sutras	MAH	GEN	SUZ						2	
 Present	"Tam, Thich Thien"			Buddhism of Wisdom & Faith	Pureland principles and practice	1994	The Corporate Body of the Buddha Educational Foundation			Mahayana Studies	MAH	GEN	TAM					Paperback book	1	
 Present	"Tang, Hsuan"		Lok To	The Prajna Paramita Heart Sutra		1995	The Corporate Body of the Buddha Educational Foundation			Mahayana Studies	MAH	GEN	TAN					Paperback book	2	
-Present	"Willson, Martin"			In Praise of Tara	Songs to the Saviouress	1986	Wisdom Publications			Mahayana Studies	MAH	GEN	WIL				0-86171-033-9	Paperback book	2	
 	"Williams, Paul"			Mahayana Buddhism	The Doctrinal Foundations	1989	Routledge			Mahayana Studies	MAH	GEN	WIL				0-415-02537-0	Paperback book	2	
 Present	Yeshe (Lama)			Manjushri	A Commentary on the Kriyatantra Yoga Method of Divine Wisdom Manjushri	1984	Wisdom Publications			Mahayana Studies	MAH	GEN	YES					Paperback book	1	
-Present			"Bhattacharya, K."	The Dialectical Method of Nagarjuna	Vigrahavyavartani	1990	Motilal Banarsidass			Madhyamaka and Yogacara	MAH SCH	MAD	BHA				81-208-0176-8	Hardback book	1	
-Present	"Cheng, H."			Empty Logic	Madhyamika Buddhism from Chinese Sources	1991	Motilal Banarsidass			Madhyamaka and Yogacara	MAH SCH	MAD	CHE				81-208-0287-x	Hardback book	1	
-	Nagarjuna		"Frye, S."	Nagarjuna's A Drop of Nourishment for people	The Jewel Ornament: A Commentary	1981	Library of Tibetan Works & Archives			Madhyamaka and Yogacara	MAH SCH	MAD	FRY					Paperback book	2	
-Present			"Garfield, Jay. L"	The Fundamental Wisdom of the Middle Way		1995	Oxford University Press			Madhyamaka and Yogacara	MAH SCH	MAD	GAR				0-19-509336-4	Paperback	2	
-			"Jamieson, R.C."	A Study of Nagarjuna's Twenty Verses on the Great Vehicle and His verses on the Heart of Dependent Origination with the Interpretation of the Heart of Dependent Origination		2002	Peter Lang Publishing			Madhyamaka and Yogacara	MAH SCH	MAD	JAM??				0-8204-6706-5	Hardback book	1	
-Present			"Kalupahana, D.J."	Nagarjuna The Philosophy of the Middle Way		1986	State University of New York Press			Madhyamaka and Yogacara	MAH SCH	MAD	KAL				0-88706-149-4	Paperback book	1	
-Present			"Keenan, J.P."	The Foundational Standpoint of Madhyamika Philosophy		1990	Sri Satguru Publications			Madhyamaka and Yogacara	MAH SCH	MAD	KEE				81-7030-230-1	Hardback book	1	
-Present			"Komito, D.R."	"Nagarjuna's ""Seventy Stanzas"" A Buddhist Psychology of Emptiness"		1987	Snow Lion Publications			Madhyamaka and Yogacara	MAH SCH	MAD	KOM				0-937938-39-4	Paperback book	2	
-Present	"Murti, T.R.V."			The Central Philosophy of Buddhism	A Study of the Madhyamika System	1998	Munshiram Manoharlal Publishers			Non-Triratna Authors	MAH SCH	MAD	MUR				81-215-0834-7	Hardback book	1	
-Present	"Murti, T.R.V."			The Central Philosophy of Buddhism	A Study of the Madhyamika System	1974	George Allen and Unwin Ltd			Non-Triratna Authors	MAH SCH	MAD	MUR				0-04-29-4033-8	Hardback book	1	
-Present	"Nagarjuna and Pandit, Sakya"		"Olivé, Montse Castellá"	Elegant Sayings	The Staff of Wisdom; A Precious Treasury of Elegant Sayings	1977	Dharma Publishing	United States	1	Madhyamaka and Yogacara	MAH SCH	MAD	OLI	tibetan; philosophy; sayings; mah?y?na; mañju?r?	Collection of extracts of sayings from Sakya Pandita and N?g?rjuna		0-913546-13-5	Paperback book	3	
-Present			"Tharchin, L., Engle, A.B."	Nagarjuna's Letter	"Nagarjuna's ""Letter to a Friend"""	1979	Library of Tibetan Works & Archives			Madhyamaka and Yogacara	MAH SCH	MAD	THA					Hardback book	1	
-Present			"Tharchin, L., Engle, A.B."	Nagarjuna's Letter	"Nagarjuna's ""Letter to a Friend"""	1995	Library of Tibetan Works & Archives			Madhyamaka and Yogacara	MAH SCH	MAD	THA				81-85102-20-1	Paperback book	1	
-			"Kawamura, L.S."	Madhyamika and Yogacara		1991	State University of New York Press			Madhyamaka and Yogacara	MAH SCH	MAD/YOG	KAW				0-7914-0186-3	Hardback book	1	
-Present	"Ganguly, S."			Treatise in Thirty Verses on Mere Consciousness		1992	Motilal Banarsidass			Madhyamaka and Yogacara	MAH SCH	YOG	GAN				81-208-0924-5	Hardback book	2	
-Present			"Kochumuttom, T.A"	A Buddhist Doctrine of Experience	A New Translation and interpretation of the Works of Vasabandhu the Yogacarin	1989	Motilal Banarsidass			Madhyamaka and Yogacara	MAH SCH	YOG	KOC				81-208-0662-x	Hardback book	1	
-Present	"Lusthaus, D."			Buddhist Phenomenology	A Philosophical Investigation of Yogacara Buddhism and the Ch'eng Wei-Shih lun	2002	Routledge			Madhyamaka and Yogacara	MAH SCH	YOG	LUS				0-7007-1186-4	Hardback book	1	
-Present	Maitreya (Arya)		"Martin, M."	Distinguishing the Middle from the Extremes	Chapter Five The Distinctive Path of the Mahayana	1991	Marpa Institute			Madhyamaka and Yogacara	MAH SCH	YOG	MAI					Paperback book	1	
-Present			"Willemen, C., Keisho, T."	The Treatise on the Elucidation of the Knowable	The Cycle of the Formation of the schismatic Doctrines	2004	Numata Centre for Buddhist Translation and Research			Mahayana Sutras	MAH TXT	??	WIL				1-886439-30-3	Hardback book	1	
-Present			"Hakeda, Y.S."	The Awakening of Faith	Attributed to Asvaghosha	2006	Columbia University Press			Mahayana Sutras	MAH TXT	AoF	HAK				0-231-13157-7	Paperback book	1	
-Present			"Hakeda, Y.S."	The Awakening of Faith	Attributed to Asvaghosha	1967	Columbia University Press			Mahayana Sutras	MAH TXT	AoF	HAK				0-231-08336-x	Paperback book	1	
-Present	Ashvagosha		"Richard, T."	The Awakening of Faith		1961	Messrs			Mahayana Sutras	MAH TXT	AoF	RIC					Hardback book	1	
-Present			Udaya Meddegama	Anagatavamsa Desana	The Sermon of the Chronicle-to-be	1993	Motilal Banarsidass			Mahayana Sutras	MAH TXT	AVD					81-208-1133-x	Hardback book	1	
-Present			"Cleary, T."	The Flower Ornament Scripture	A translation of the Avatamsaka Sutra	1984	Shambala Publications			Mahayana Sutras	MAH TXT	AVT	CLE				0-87773-767-3	Hardback book	2	
-Present			"Johnston, E.H."	The Buddhacarita or Acts of the Buddha		1992	Motilal Banarsidass			Mahayana Sutras	MAH TXT	BC 	JOH				81-208-1029-5	Hardback book	1	
-Present	H.H The XIV Dalai Lama		"Wallace, Alan B."	Transcendent  Wisdom	A Commentary on the Ninth Chapter of Shantideva's Guide to the Bodhisattva Way of Life	1988	Snow Lion Publications	"New York, USA"	First	Tibetan	MAH TXT	BCS	WAL	"Tibetan, Centrist View, Self, Mindfulness, Transcendent Wisdom."	"Annoted teaching from the Dalai Lama where he disccusses how the Centrist view differs from Buddhism, whilst discussing points on widsom, realizing emptiness, Refutation of Identity the ansence of True Existance."		0-937938-65-3	Paperback book	1	
-			Paramananda Sharma	Santideva's Bodhicharyavatara Volume I		1990	Aditya Prakashan			Mahayana Sutras	MAH TXT	BCV	PAR				81-85179-14-X	Hardback book	1	
-Present			Paramananda Sharma	Santideva's Bodhicharyavatara Volume II		1990	Aditya Prakashan			Mahayana Sutras	MAH TXT	BCV	PAR				81-85179-15-8	Hardback book	1	
-Present	"Gyatso, Geshe Kelsang"		Tenzin Norbu	Meaningful to Behold	"View, Meditation and Action in Mahayana Buddhism"	1980	Wisdom Publications			Tibetan	MAH TXT	BCV?	??				0-86171-003-7	Book	1	
-Present	"Gyatso, Geshe Kelsang"			Meaningful to Behold	A commentary on Shantideva's Guide to the Bodhisattva's Way of Life	1989	Tharpa		3	Tibetan	MAH TXT	BCV?	??				0-948006-11-0	Book	2	
-	"Brassard, Francis"			The Concept of Bodhicitta in Santideva's Bodhicaryavatara		2000	State University of New York Press			Tibetan	MAH TXT	BCV?	BRA				0-7914-4576-3	Paperback book	1	
-	"Gyatso, Geshe Kelsang"			The Bodhisattva Vow	The Essential Practices of Mahayana Buddhism	1991	Tharpa			Tibetan	MAH TXT	BCV?	GYA				0-948006-14-5	Book	1	
-Present	"Rinchen, Geshe Sonam"		"Sonam, Ruth"	The Bodhisattva Vow		2000	Snow Lion			Tibetan	MAH TXT	BCV?	SON				1-55939-150-2	Paperback	1	
-	Alex Wayman (ed)		"Regamey, K."	The Bhadramayakaravyakarana		1990	Motilal Banarsidass			Mahayana Sutras	MAH TXT	BMK	REG				81-208-0761-8	Hardback book	1	
+Present			"Hakeda, Y.S."	The Awakening of Faith	Attributed to Asvaghosha	2006	Columbia University Press			Mahayana Sutras	MAH TXT	AFM	HAK				0-231-13157-7	Paperback book	1	
+Present			"Hakeda, Y.S."	The Awakening of Faith	Attributed to Asvaghosha	1967	Columbia University Press			Mahayana Sutras	MAH TXT	AFM	HAK				0-231-08336-x	Paperback book	1	
+Present	Ashvagosha		"Richard, T."	The Awakening of Faith		1961	Messrs			Mahayana Sutras	MAH TXT	AFM	RIC					Hardback book	1	
+Present			Udaya Meddegama	Anagatavamsa Desana	The Sermon of the Chronicle-to-be	1993	Motilal Banarsidass			Mahayana Sutras	MAH TXT	ANA	UDA				81-208-1133-x	Hardback book	1	
+Present			"Cleary, T."	The Flower Ornament Scripture	A translation of the Avatamsaka Sutra	1984	Shambala Publications			Mahayana Sutras	MAH TXT	AVA	CLE				0-87773-767-3	Hardback book	2	
 Present			Sutra Translation Committee of the United States and Canada	Brahma Net Sutra	Moral Code of the Bodhisattvas	1998	Corporate Body of the Buddha Educational Foundation			Mahayana Sutras	MAH TXT	BNS	STCUS&C					Paperback book	1	
+			Paramananda Sharma	Santideva's Bodhicharyavatara Volume I		1990	Aditya Prakashan			Mahayana Sutras	MAH TXT	BOD	PAR				81-85179-14-X	Hardback book	1	
+Present			Paramananda Sharma	Santideva's Bodhicharyavatara Volume II		1990	Aditya Prakashan			Mahayana Sutras	MAH TXT	BOD	PAR				81-85179-15-8	Hardback book	1	
+Present			"Johnston, E.H."	The Buddhacarita or Acts of the Buddha		1992	Motilal Banarsidass			Mahayana Sutras	MAH TXT	BUD	JOH				81-208-1029-5	Hardback book	1	
+	Nagarjuna		"Frye, S."	Nagarjuna's A Drop of Nourishment for people	The Jewel Ornament: A Commentary	1981	Library of Tibetan Works & Archives			Madhyamaka and Yogacara	MAH TXT	DN/JO	NAG					Paperback book	2	
 Present			"Pine, R."	The Diamond Sutra	The perfection of wisdom	2001	Counterpoint			Mahayana Sutras	MAH TXT	DS	PIN				1-58243-256-2	Paperback book	1	
 Present			"Price, A.F."	The Jewel of Transcendental Wisdom (The Diamond Sutra)		1947	"The Buddhist Society, London"			Mahayana Sutras	MAH TXT	DS	PRI					Paperback book	1	
 Present			"Soeng, M."	The Diamond Sutra	Transforming the way we perceive the world	2000	Wisdom Publications			Mahayana Sutras	MAH TXT	DS	SOE				0-86171-160-2	Paperback book	1	
 Present			"Price, A.F., Mou-lam, W."	The Diamond Sutra & the Sutra of Hui-Neng		1990	Shambala Publications			Mahayana Sutras	MAH TXT	DS/SHN	PRI				0-87773-005-9	Paperback book	1	
 Present			"Price, A.F. and Wong, Mou-Lam"	The Diamond Sutra and The Sutra of Hui Neng		1969	Shambhala	Boulder			MAH TXT	DS/SHN	PRI				0-394-73019-4	Book	1	
-Present			"Hanh, Thich Nhat"	The Sutra on the Eight Realizations of the Great Beings	"A Buddhist Scripture on simplicity, Generosity and Compassion"	1987	Parallax Press			Mahayana Sutras	MAH TXT	ERGB	HAN				0-938077-07-4	Pamphlet	1	
-Present	"Tongxuan, Li"		"Cleary, T."	Entry Into the Realm of Reality	The Guide	1989	Shambala Publications			Mahayana Sutras	MAH TXT	GDH	CLE				0-87773-477-1	Paperback book	1	
-Present	"Sheng-yen, Ch'an master"			There is No Suffering	A commentary on the Heart Sutra	2001	North Atlantic Books			Japanese	MAH TXT	HS C	SHE				1-55643-385-9	Paperback	1	
-Present			Upasika Chimann	The Four Buddhist Books in Mahayana			The Corporate Body of the Buddha Educational Foundation			Mahayana Sutras	MAH TXT	ISE	CHI					Paperback book	1	
-Present			"Conze, Edward"	The Buddhas Law Among the Birds		1974	Cassirer			Mahayana Sutras	MAH TXT	LAB	CON				0-85181-033-0	Paperback book	1	
-damaged			"Suzuki, D."	Studies in the Lankavatara Sutra		1957	Routledge			Mahayana Sutras	MAH TXT	LKVS	SUZ						2	
+Present			"Willemen, C., Keisho, T."	The Treatise on the Elucidation of the Knowable	The Cycle of the Formation of the schismatic Doctrines	2004	Numata Centre for Buddhist Translation and Research			Mahayana Sutras	MAH TXT	EK	WIL				1-886439-30-3	Hardback book	1	
+	Nagarjuna		"Jamieson, R.C."	A Study of Nagarjuna's Twenty Verses on the Great Vehicle and His verses on the Heart of Dependent Origination with the Interpretation of the Heart of Dependent Origination		2002	Peter Lang Publishing			Madhyamaka and Yogacara	MAH TXT	GV/HDO	NAG				0-8204-6706-5	Hardback book	1	
+Present	"Willson, Martin"			In Praise of Tara	Songs to the Saviouress	1986	Wisdom Publications			Mahayana Studies	MAH TXT	IPT	WIL				0-86171-033-9	Paperback book	2	
+			"Bays, G."	The Lalitavistara - The Voice of the Buddha Volume 1	The Beauty of Compassion	1983	Dharma Publishing			Mahayana Sutras	MAH TXT	LAL	BAY			Box set with Vol 1 and 2 - INCORRECT	0-913546-84-4	Hardback book	1	
+			"Bays, G."	The Lalitavistara - The Voice of the Buddha Volume 1	The Beauty of Compassion	1983	Dharma Publishing			Mahayana Sutras	MAH TXT	LAL	BAY			Box set with Vol 1 and 2 - INCORRECT	0-913546-84-4	paperback	1	
+Present			"Bays, G."	The Lalitavistara - The Voice of the Buddha Volume 2	The Beauty of Compassion	1983	Dharma Publishing			Mahayana Sutras	MAH TXT	LAL	BAY			Box set with Vol 1 and 2 - INCORRECT	0-913546-85-2	Hardback book	1	
+Present	Nagarjuna		"Tharchin, L., Engle, A.B."	Nagarjuna's Letter	"Nagarjuna's ""Letter to a Friend"""	1979	Library of Tibetan Works & Archives			Madhyamaka and Yogacara	MAH TXT	LF	NAG					Hardback book	1	
+Present	Nagarjuna		"Tharchin, L., Engle, A.B."	Nagarjuna's Letter	"Nagarjuna's ""Letter to a Friend"""	1995	Library of Tibetan Works & Archives			Madhyamaka and Yogacara	MAH TXT	LF	NAG				81-85102-20-1	Paperback book	1	
 Present			"Wayman, A."	The Lion's Roar of Queen Srimala	A Buddhist Scripture on the Tathagatagarbha Theory	1974	Columbia University Press			Mahayana Sutras	MAH TXT	LRQS	WAY				81-208-0731-6	Hardback book	1	
-MISSING			"Bays, G."	The Lalitavistara - The Voice of the Buddha Volume 1	The Beauty of Compassion	1983	Dharma Publishing			Mahayana Sutras	MAH TXT	LVS	BAY			Box set with Vol 1 and 2 - INCORRECT	0-913546-84-4	Hardback book	1	
-Present			"Bays, G."	The Lalitavistara - The Voice of the Buddha Volume 2	The Beauty of Compassion	1983	Dharma Publishing			Mahayana Sutras	MAH TXT	LVS	BAY			Box set with Vol 1 and 2 - INCORRECT	0-913546-85-2	Hardback book	1	
-Present	Nagarjuna		"Inada, K.K."	A Translation of his Mulamadhyamakakarika with an introductory Essay		1993	Sri Satguru Publications			Madhyamaka and Yogacara	MAH TXT	MAD	INA??				81-7030-385-0	Hardback book	1	
-present			"Yamoto, K."	The Mahayana Mahaparinirvana Sutra Volume Eight	A complete translation from the classical chinese	1999	Nirvana Publications			Mahayana Sutras	MAH TXT	MPN	YAM				1-903036-07-0	Pamphlet - A5	1	
-Present			"Yamoto, K."	The Mahayana Mahaparinirvana Sutra Volume Eleven	A complete translation from the classical chinese	1999	Nirvana Publications			Mahayana Sutras	MAH TXT	MPN	YAM				1-903036-10-0	Pamphlet - A5	1	
-Present			"Yamoto, K."	The Mahayana Mahaparinirvana Sutra Volume Five	A complete translation from the classical chinese	1999	Nirvana Publications			Mahayana Sutras	MAH TXT	MPN	YAM				1-903036-04-6	Pamphlet - A5	1	
-Present			"Yamoto, K."	The Mahayana Mahaparinirvana Sutra Volume Four	A complete translation from the classical chinese	1999	Nirvana Publications			Mahayana Sutras	MAH TXT	MPN	YAM				1-903036-03-8	Pamphlet - A5	1	
-Present			"Yamoto, K."	The Mahayana Mahaparinirvana Sutra Volume Nine	A complete translation from the classical chinese	1999	Nirvana Publications			Mahayana Sutras	MAH TXT	MPN	YAM				1-903036-08-9	Pamphlet - A5	1	
-Present			"Yamoto, K."	The Mahayana Mahaparinirvana Sutra Volume One	A complete translation from the classical chinese	1999	Nirvana Publications			Mahayana Sutras	MAH TXT	MPN	YAM				1-903036-00-3	Pamphlet - A5	1	
-Present			"Yamoto, K."	The Mahayana Mahaparinirvana Sutra Volume Seven	A complete translation from the classical chinese	1999	Nirvana Publications			Mahayana Sutras	MAH TXT	MPN	YAM				1-903036-06-2	Pamphlet - A5	1	
-Present			"Yamoto, K."	The Mahayana Mahaparinirvana Sutra Volume Six	A complete translation from the classical chinese	1999	Nirvana Publications			Mahayana Sutras	MAH TXT	MPN	YAM				1-903036-05-4	Pamphlet - A5	1	
-Present			"Yamoto, K."	The Mahayana Mahaparinirvana Sutra Volume Ten	A complete translation from the classical chinese	1999	Nirvana Publications			Mahayana Sutras	MAH TXT	MPN	YAM				1-903036-09-7	Pamphlet - A5	1	
-			"Yamoto, K."	The Mahayana Mahaparinirvana Sutra Volume Three	A complete translation from the classical chinese	1999	Nirvana Publications			Mahayana Sutras	MAH TXT	MPN	YAM				1-903036-02-X	Pamphlet - A5	1	
-present			"Yamoto, K."	The Mahayana Mahaparinirvana Sutra Volume Twelve	A complete translation from the classical chinese	1999	Nirvana Publications			Mahayana Sutras	MAH TXT	MPN	YAM				1-903036-11-9	Pamphlet - A5	1	
-Present			"Yamoto, K."	The Mahayana Mahaparinirvana Sutra Volume Two	A complete translation from the classical chinese	1999	Nirvana Publications			Mahayana Sutras	MAH TXT	MPN	YAM				1-903036-01-1	Pamphlet - A5	1	
-Present			"Conze, Edward"	Selected Sayings from the Perfection of Wisdom		1978	Prajna Press			Mahayana Sutras	MAH TXT	POW	CON				0-87773-709-6	Paperback book	2	
-Present			"Conze, Edward"	The Perfection of Wisdom	in eight thousand lines & its verse summary	1973	City Lights			Mahayana Sutras	MAH TXT	POW	CON				0-87704-049-4	Paperback book	1	
-Present			"Conze, Edward"	The Perfection of Wisdom in Eight Thousand Lines & its verse summary		1995	Four seasons			Mahayana Sutras	MAH TXT	POW	CON				0-87704-049-4	Paperback book	1	
-Present			"Conze, Edward"	The Perfection of Wisdom in Eight Thousand Lines & its verse summary		1973	Four seasons			Mahayana Sutras	MAH TXT	POW	CON				0-87704-049-4	Paperback book	1	
-Present			"Thomas, E.J."	The Perfection of Wisdom	The Career of the Predestined Buddhas	1992	John Murray Publications			Mahayana Sutras	MAH TXT	POW	THO				0-7195-5142-0	Hardback book	1	
-Present			"Conze, Edward"	The Large Sutra on Perfect Wisdom	With the divisions of abhisamayalankara	1979	Indological Publishers			Mahayana Sutras	MAH TXT	POW?	CON					Hardback book	1	
-			"Lokaksema, Kumarajiva"	The Pratyutpanna Samadhi Sutra	The Surangama Samadhi Sutra	1998	Numata Centre for Buddhist Translation and Research			Mahayana Sutras	MAH TXT	PPSS/SGSS	LOK				1-886439-06-0		1	
+present			"Yamoto, K."	The Mahayana Mahaparinirvana Sutra Volume Eight	A complete translation from the classical chinese	1999	Nirvana Publications			Mahayana Sutras	MAH TXT	MAH	YAM				1-903036-07-0	Pamphlet - A5	1	
+Present			"Yamoto, K."	The Mahayana Mahaparinirvana Sutra Volume Eleven	A complete translation from the classical chinese	1999	Nirvana Publications			Mahayana Sutras	MAH TXT	MAH	YAM				1-903036-10-0	Pamphlet - A5	1	
+Present			"Yamoto, K."	The Mahayana Mahaparinirvana Sutra Volume Five	A complete translation from the classical chinese	1999	Nirvana Publications			Mahayana Sutras	MAH TXT	MAH	YAM				1-903036-04-6	Pamphlet - A5	1	
+Present			"Yamoto, K."	The Mahayana Mahaparinirvana Sutra Volume Four	A complete translation from the classical chinese	1999	Nirvana Publications			Mahayana Sutras	MAH TXT	MAH	YAM				1-903036-03-8	Pamphlet - A5	1	
+Present			"Yamoto, K."	The Mahayana Mahaparinirvana Sutra Volume Nine	A complete translation from the classical chinese	1999	Nirvana Publications			Mahayana Sutras	MAH TXT	MAH	YAM				1-903036-08-9	Pamphlet - A5	1	
+Present			"Yamoto, K."	The Mahayana Mahaparinirvana Sutra Volume One	A complete translation from the classical chinese	1999	Nirvana Publications			Mahayana Sutras	MAH TXT	MAH	YAM				1-903036-00-3	Pamphlet - A5	1	
+Present			"Yamoto, K."	The Mahayana Mahaparinirvana Sutra Volume Seven	A complete translation from the classical chinese	1999	Nirvana Publications			Mahayana Sutras	MAH TXT	MAH	YAM				1-903036-06-2	Pamphlet - A5	1	
+Present			"Yamoto, K."	The Mahayana Mahaparinirvana Sutra Volume Six	A complete translation from the classical chinese	1999	Nirvana Publications			Mahayana Sutras	MAH TXT	MAH	YAM				1-903036-05-4	Pamphlet - A5	1	
+Present			"Yamoto, K."	The Mahayana Mahaparinirvana Sutra Volume Ten	A complete translation from the classical chinese	1999	Nirvana Publications			Mahayana Sutras	MAH TXT	MAH	YAM				1-903036-09-7	Pamphlet - A5	1	
+			"Yamoto, K."	The Mahayana Mahaparinirvana Sutra Volume Three	A complete translation from the classical chinese	1999	Nirvana Publications			Mahayana Sutras	MAH TXT	MAH	YAM				1-903036-02-X	Pamphlet - A5	1	
+present			"Yamoto, K."	The Mahayana Mahaparinirvana Sutra Volume Twelve	A complete translation from the classical chinese	1999	Nirvana Publications			Mahayana Sutras	MAH TXT	MAH	YAM				1-903036-11-9	Pamphlet - A5	1	
+Present			"Yamoto, K."	The Mahayana Mahaparinirvana Sutra Volume Two	A complete translation from the classical chinese	1999	Nirvana Publications			Mahayana Sutras	MAH TXT	MAH	YAM				1-903036-01-1	Pamphlet - A5	1	
+Present	"Chang, C.C. (Ed)"		The Buddhist Association of the United States	A Treasury of Mahayana Sutras	Selections from the Maharatnakuta Sutra	1991	Motilal Banarsidass			Mahayana Sutras	MAH TXT	MRAT	BAUS				81-208-0936-x	Hardback book	1	
+			"Regamey, K."	The Bhadramayakaravyakarana		1990	Motilal Banarsidass			Mahayana Sutras	MAH TXT	MRAT	REG				81-208-0761-8	Hardback book	1	
+Present			"Garfield, Jay. L"	The Fundamental Wisdom of the Middle Way		1995	Oxford University Press			Madhyamaka and Yogacara	MAH TXT	MUL	GAR				0-19-509336-4	Paperback	2	
+Present			"Inada, K.K."	A Translation of his Mulamadhyamakakarika with an introductory Essay		1993	Sri Satguru Publications			Madhyamaka and Yogacara	MAH TXT	MUL	INA				81-7030-385-0	Hardback book	1	
+			"Lokaksema, Kumarajiva"	The Pratyutpanna Samadhi Sutra	The Surangama Samadhi Sutra	1998	Numata Centre for Buddhist Translation and Research			Mahayana Sutras	MAH TXT	PRA/SUR	LOK				1-886439-06-0		1	
+Present			"Conze, Edward"	Selected Sayings from the Perfection of Wisdom		1978	Prajna Press			Mahayana Sutras	MAH TXT	PW/ANTH	CON				0-87773-709-6	Paperback book	2	
+Present			"Thomas, E.J."	The Perfection of Wisdom	The Career of the Predestined Buddhas	1992	John Murray Publications			Mahayana Sutras	MAH TXT	PW/ANTH	THO				0-7195-5142-0	Hardback book	1	
+Present			"Conze, Edward"	The Perfection of Wisdom	in eight thousand lines & its verse summary	1973	City Lights			Mahayana Sutras	MAH TXT	PW8	CON				0-87704-049-4	Paperback book	1	
+Present			"Conze, Edward"	The Perfection of Wisdom in Eight Thousand Lines & its verse summary		1995	Four seasons			Mahayana Sutras	MAH TXT	PW8	CON				0-87704-049-4	Paperback book	1	
+Present			"Conze, Edward"	The Perfection of Wisdom in Eight Thousand Lines & its verse summary		1973	Four seasons			Mahayana Sutras	MAH TXT	PW8	CON				0-87704-049-4	Paperback book	1	
+Present			"Conze, Edward"	The Large Sutra on Perfect Wisdom	With the divisions of abhisamayalankara	1979	Indological Publishers			Mahayana Sutras	MAH TXT	PWL	CON					Hardback book	1	
+Present			"Hanh, Thich Nhat"	The Sutra on the Eight Realizations of the Great Beings	"A Buddhist Scripture on simplicity, Generosity and Compassion"	1987	Parallax Press			Mahayana Sutras	MAH TXT	RGB	HAN				0-938077-07-4	Pamphlet	1	
+Present			"Ross Reat, N."	The Salistamba Sutra		1993	Motilal Banarsidass			Mahayana Sutras	MAH TXT	SAL	ROS				81-208-1135-6		1	
+Present			"Power, J."	Jnanagarbha's Commentary on just the Maitreya Chapter from the Samdhinirmocana-Sutra	"Study, Translation and Tibetan text"	1998	Indian Council of Philosophical Research			Mahayana Sutras	MAH TXT	SAM	POW				81-85636-37-0	Hardback book	1	
+Present			"Power, J."	Wisdom of Buddha	The Samdhinirmocana Mahayana Sutra	1995	Dharma Publishing			Mahayana Sutras	MAH TXT	SAM	POW				0-89800-246-x	Hardback book	1	
+			"Regamey, K."	Philosophy in the Samadhirajasutra		1990	Motilal Banarsidass			Mahayana Sutras	MAH TXT	SAM	REG				81-208-0763-4	Hardback book	1	
 Present			"Emmerick, R.E."	The Sutra of Golden Light	Being a translation of Survarnabhasottamasutra	1979	Pali Text Society			Mahayana Sutras	MAH TXT	SGL	EMM				0-7100-0332-3	Hardback book	1	
 Present			"Emmerick, R.E."	The Sutra of Golden Light	Being a translation of Survarnabhasottamasutra	1996	Pali Text Society			Mahayana Sutras	MAH TXT	SGL	EMM				0-86013-348-6	Hardback book	1	
-Present			"Emmerick, R.E."	The Khotanse Surangamasamadhisutra	London Oriental Series Volume 23	1970	Oxford University Press			Mahayana Sutras	MAH TXT	SGSS	EMM				19-713562-5	Hardback book	1	
-Present			"Lamotte, E."	Suramgamasamadhisutra	The Concentration of the Heroic Way	1965	Fondation Universitaire de Belgique			Mahayana Sutras	MAH TXT	SGSS	LAM					A4 Spiral bound	2	
-Present			"Lamotte, E."	Suramgamasamadhisutra	The Concentration of Heroic Progress	1998	Curzon Press			Mahayana Sutras	MAH TXT	SGSS	LAM				0-7007-1024-8	Hardback book	1	
-Present			"Luk, C."	The Surangama Sutra		1966	Rider & Company			Mahayana Sutras	MAH TXT	SGSS?	LUK					Hardback book	1	
-Present			"Power, J."	Jnanagarbha's Commentary on just the Maitreya Chapter from the Samdhinirmocana-Sutra	"Study, Translation and Tibetan text"	1998	Indian Council of Philosophical Research			Mahayana Sutras	MAH TXT	SNCS	POW				81-85636-37-0	Hardback book	1	
-Present			"Power, J."	Wisdom of Buddha	The Samdhinirmocana Mahayana Sutra	1995	Dharma Publishing			Mahayana Sutras	MAH TXT	SNCS	POW				0-89800-246-x	Hardback book	1	
-Present			"Cleary, Thomas"	Buddhist Yoga	Sandhinirmochana-sutra	1995	Shambhala	Boston			MAH TXT	SNS	CLE					Book	1	
-			"Muller, Charles"	The Sutra of Perfect Enlightenment	Korean Buddhism's Guide to Meditation	1999	State University of New York Press			Mahayana Sutras	MAH TXT	SPE	MUL				0-7914-4102-4	Paperback book	1	
-			"Regamey, K."	Philosophy in the Samadhirajasutra		1990	Motilal Banarsidass			Mahayana Sutras	MAH TXT	SRS	REG				81-208-0763-4	Hardback book	1	
-Present			"Ross Reat, N."	The Salistamba Sutra		1993	Motilal Banarsidass			Mahayana Sutras	MAH TXT	SSS	ROS				81-208-1135-6		1	
-Present	"Chang, C.C. (Ed)"		The Buddhist Association of the United States	A Treasury of Mahayana Sutras	Selections from the Maharatnakuta Sutra	1991	Motilal Banarsidass			Mahayana Sutras	MAH TXT	TS	BAUS				81-208-0936-x	Hardback book	1	
+Present			"Emmerick, R.E."	The Khotanse Surangamasamadhisutra	London Oriental Series Volume 23	1970	Oxford University Press			Mahayana Sutras	MAH TXT	SUR	EMM				19-713562-5	Hardback book	1	
+Present			"Lamotte, E."	Suramgamasamadhisutra	The Concentration of the Heroic Way	1965	Fondation Universitaire de Belgique			Mahayana Sutras	MAH TXT	SUR	LAM					A4 Spiral bound	2	
+Present			"Lamotte, E."	Suramgamasamadhisutra	The Concentration of Heroic Progress	1998	Curzon Press			Mahayana Sutras	MAH TXT	SUR	LAM				0-7007-1024-8	Hardback book	1	
+Present			"Luk, C."	The Surangama Sutra		1966	Rider & Company			Mahayana Sutras	MAH TXT	SUR	LUK					Hardback book	1	
+Present	"Nagarjuna and Pandit, Sakya"		"Olivo, Montse Castella�"	Elegant Sayings	The Staff of Wisdom; A Precious Treasury of Elegant Sayings	1977	Dharma Publishing	United States	1	Madhyamaka and Yogacara	MAH TXT	SW	NAG	tibetan; philosophy; sayings; mah?y?na; mañju?r?	Collection of extracts of sayings from Sakya Pandita and N?g?rjuna		0-913546-13-5	Paperback book	3	
 Present	Maitreya (Arya)		"Fuchs, Rosemarie"	Buddha Nature	The Mahayana Uttaratantra Shastra	2000	Snow Lion Publications			Madhyamaka and Yogacara	MAH TXT	UTS	FUC				1-55939-128-6	Hardback book	1	
-Present			"Lamotte, E."	Vimalakirti Nirdesa	The Teaching of Vimalakirti	1962	Fondation Universitaire de Belgique			Mahayana Sutras	MAH TXT	VKN	LAM					A4 Spiral bound	1	
-Present			"Thurman, R.A.F"	The Holy Teachings of the Vimalakirti	A Mahayana Scripture	2003	Pennsylvania State University Press			Mahayana Sutras	MAH TXT	VKN	THU				0-271-00601-3	Paperback book	1	
-			"Thurman, R.A.F"	The Holy Teachings of Vimalakirti	Purification of the Buddha-field	2003				Mahayana Sutras	MAH TXT	VKN	THU					A4 print out	1	
-Present			"Watson, Burton"	The Vimalakirti Sutra		1997	Columbia University Press			Mahayana Sutras	MAH TXT	VKN	WAT				0-231-10656-4	Book	2	
-Present			"Chatterjee, K.N."	Vijnapti Matratasiddhi		1980	Kishor Vidyaniketan			Mahayana Sutras	MAH TXT	VMS	CHA					Hardback book	1	
+Present	Nagarjuna		"Bhattacharya, K."	The Dialectical Method of Nagarjuna	Vigrahavyavartani	1990	Motilal Banarsidass			Madhyamaka and Yogacara	MAH TXT	VIG	NAG				81-208-0176-8	Hardback book	1	
+Present			"Chatterjee, K.N."	Vijnapti Matratasiddhi		1980	Kishor Vidyaniketan			Mahayana Sutras	MAH TXT	VIJ	CHA					Hardback book	1	
+Present			"Lamotte, E."	Vimalakirti Nirdesa	The Teaching of Vimalakirti	1962	Fondation Universitaire de Belgique			Mahayana Sutras	MAH TXT	VIM	LAM					A4 Spiral bound	1	
+Present			"Thurman, R.A.F"	The Holy Teachings of the Vimalakirti	A Mahayana Scripture	2003	Pennsylvania State University Press			Mahayana Sutras	MAH TXT	VIM	THU				0-271-00601-3	Paperback book	1	
+			"Thurman, R.A.F"	The Holy Teachings of Vimalakirti	Purification of the Buddha-field	2003				Mahayana Sutras	MAH TXT	VIM	THU					A4 print out	1	
+Present			"Watson, Burton"	The Vimalakirti Sutra		1997	Columbia University Press			Mahayana Sutras	MAH TXT	VIM	WAT				0-231-10656-4	Book	2	
 Present			"Hurvitz, L."	Scripture of the Lotus Blossom of the Fine Dharma	The Lotus Sutra	1976	Columbia University Press			Mahayana Sutras	MAH TXT	WLS	HUR				0-231-03920-4	Paperback book	2	
 Present			"Kato, B et al"	An Extract from the White Lotus Sutra		1993				Mahayana Sutras	MAH TXT	WLS	KAT			"A4 print out of Chapters 1-5, 11, 15 and 16"		A4 print out	1	
 Present			"Kato, Bunno et al"	The Threefold Lotus Sutra	The Sutra of Innumerable Meanings; The Sutra of the Lotus Flower of the Wonderful Law; The Sutra of Meditation on the Bodhisattva Universal Virtue	1986	Kosei Publishing Company			Mahayana Sutras	MAH TXT	WLS	KAT				4-333-00208-7	Paperback book	2	
-	"Niwano, Nikkyo"			A Guide to the Threefold Lotus Sutra		1985	Kosei Publishing Company			Mahayana Studies	MAH TXT	WLS	NIW				4-333-01025-x	Paperback book	1	
 Present			"Soothill, W.E."	The Lotus of the Wonderful Law	The Lotus Gospel	1987	Curzon Press			Mahayana Sutras	MAH TXT	WLS	SOO				0-391-03465-0	Paperback book	1	
 			"Watson, Burton"	The Lotus Sutra		1993	Columbia University Press			Mahayana Sutras	MAH TXT	WLS	WAT				0-231-08161-8	Paperback book	1	
-Present			"Hoshino, G."	Jodo Wasan	Ryukoku Translation Series IV	1965	Ryukoku University			Mahayana Sutras	MAH TXT							Paperback book	1	
-Present			"Hoshino, G."	Kyo gyo shin sho	Ryukoku Translation Series V	1983	Ryukoku University			Mahayana Sutras	MAH TXT							Paperback book	1	
-Present			"Fugen, D."	Shoshin Ge	Ryukoku Translation Series I	1984	Ryukoku University			Mahayana Sutras	MAH TXT							Paperback book	1	
-Present	Shinran		"Takemura, S."	The Koso Wasan - Hymns on the Patriarchs	Ryukoku Translation Series VI	1974	Ryukoku University			Mahayana Sutras	MAH TXT							Hardback book	1	
-Present			"Gomez, L.O."	The Land of Bliss	The paradise of the Buddha of Measureless Light; Sanskrit and Chinese Versions of the Sukhavatuvyuha sutra	1996	University of Hawaii Press			Mahayana Sutras	MAH TXT						0-8248-1760-5	Paperback book	1	
-Present			"Yamada, M."	The Sutra of Contemplation of the Buddha of Immeasurable Life		1984	Ryukoku University			Mahayana Sutras	MAH TXT							Softback book	2	
-Present			"Masuyama, K."	The Tanni Sho	Ryukoku Translation Series II	1990	Ryukoku University			Mahayana Sutras	MAH TXT							Paperback book	1	
-Present	"Inagaki, Hisao &  Steward, Harold"			The Three Pure Land Sutras	A Study and Translation from Chinese	1995	Nagata Bunshodo	Kyoto	2	Mahayana Sutras	MAH TXT			pure land; mahayana; amit?bha sam?dhi; bodhisattva	"General survey of Pure Land Buddhism, including the Amit?bha Sam?dhi. Translation of The Larger Sutra on Amit?yus, The Sutra on Contemplation of Amit?yus and The Smaller Sutra on Amit?yus"		4-8162-0201-3	Hardback Book	1	
-Present			"Conze, Edward"	The Diamond Sutra and The Sutra of Hui Neng		1990	Shambhala Publications	"Boston, USA"		Buddhist scriptures; anthologies	MAHT	DS/HN	CON	diamond sutra; sutra of hui neng; zen	Text of the Diamond Sutra and The Sutra of Hui Neng with forewords from W. Y Evans- Wentznd Christmas Humphreys		0-87773-005-9	Book	1	
 			"Conze, Edward"	The Diamond Sutra and The Heart Sutra		1980	George Allen and Unwin Ltd	London	2	Buddhist scriptures; anthologies	MAHT	DS/HS	CON	diamond sutra; heart sutra; praj?aparamita	Translation of the Diamond Sutra and Heart Sutra with commentary from Edward Conze	Book needs re-binding and is marked with some annotation	42940907	Book	1	
 			"Conze, Edward"	The Diamond Sutra and The Heart Sutra		1975	George Allen and Unwin Ltd	London	2	Buddhist scriptures; anthologies	MAHT	DS/HS	CON	diamond sutra; heart sutra; praj?aparamita	Translation of the Diamond Sutra and Heart Sutra with commentary from Edward Conze	Book needs re-binding and is marked with some annotation	42940907	Book	1	
+Present			"Conze, Edward"	The Diamond Sutra and The Sutra of Hui Neng		1990	Shambhala Publications	"Boston, USA"		Buddhist scriptures; anthologies	MAHT	DS/SHN	CON	diamond sutra; sutra of hui neng; zen	Text of the Diamond Sutra and The Sutra of Hui Neng with forewords from W. Y Evans- Wentznd Christmas Humphreys		0-87773-005-9	Book	1	
 Present			"Aung, S.Z."	Points of Controversy	The Katha-vatthu	1993	Pali Text Society			Abhidhamma	PAL	ABH	AUN				0-86013-002-9	Hardback book	1	
 Present			"Law, Bimila Churn"	Human Types		1992	Pali Text Society			Abhidhamma	PAL	ABH	LAW				0-86013-009-6	Hardback book	1	
 Present			"Narada, U."	Conditional Relations Vol I		1992	Pali Text Society			Abhidhamma	PAL	ABH	NAR				0-86013-028-2	Hardback book	1	
@@ -836,8 +831,8 @@ Present	Sangharakshita			Buddha Mind		2001	windhorse			Sangharakshita	SANG	BUD		
 Present	Sangharakshita			Buddhism and the West	The Integration of Buddhism into Western Society	1992				Sangharakshita	SANG	BUD					0-904766-55-1	Booklet	1	
 Present	Sangharakshita			Buddhism for Today & Tomorrow		1996	Windhorse	Birmingham	1	Buddhist scriptures; anthologies	SANG	BUD		personal development; new society; new world; human existence	Introduction to the Triratna/FWBO Buddhist movement and Sangharakshita vision of personal and societal transformation	0-9-04766-83-7		Book	1	
 Present	Sangharakshita			The Buddha's Noble Eightfold Path						Sangharakshita	SANG	BUD						book	1	
-Present	Sangharakshita			The Buddha's Victory		1991				Sangharakshita	SANG	BUD					0-904766-50-5	Book	1	
 Present	Sangharakshita			The Buddha's Victory		1991				Sangharakshita	SANG	BUD					0-904766-50-5	Book	1	1 signed
+Present	Sangharakshita			The Buddha's Victory		1991				Sangharakshita	SANG	BUD					0-904766-50-5	Book	1	
 Present	Sangharakshita			The Call of the Forest and Other Poems		2000				Sangharakshita	SANG	CAL					1-899579-24-9	Book	1	
 Present	Sangharakshita			Complete Poems 1941/1994		1995				Sangharakshita	SANG	COM					0-904766-70-5	Book	1	
 Present	Sangharakshita			Complete Poems 1941/1994		1995				Sangharakshita	SANG	COM					0-904766-70-5	Book	1	
@@ -1267,6 +1262,7 @@ Present	Kalu Rimpoche			The Gem Ornament of Manifold Oral Instructions Which Ben
 Present			"Gyaltsen, Khenpo Könchog"	The Great Kagyu Masters	The Golden Lineage Treasury	1990				Tibetan	TIB TXT	KAY	GYA				0-937938-88-2	Paperback	1	
 Present	"Trungpa, Chogyam"		Nalanda translation Committee	The Rain of Wisdom	The Essence of the Ocean of True Meaning; Bringing the Rain of Wisdom; The Sponatenous Self-Liberation; The Blazing Great Bliss; The Quick Path to Realization of the Supreme Siddhi; The Vajra Songs of the Kagyu Gurus	1980	Shambala		1	Tibetan	TIB TXT	KAY	NTC				0-394-73972-8	Paperback book	1	
 Present	The Twelfth Tai Situpa			Relative World Ultimate Mind		1992	Shambhala Publications			Tibetan	TIB TXT	KIT??	??				0-87773-629-4	Paperback	1	
+Present			"Conze, Edward"	The Buddhas Law Among the Birds		1974	Cassirer			Mahayana Sutras	TIB TXT	LAB	CON				0-85181-033-0	Paperback book	1	
 	Geshe Rabten		"Willson, Martin"	The Essential Nectar	Meditations on the Buddhist Path	1992	Wisdom Publications		2	Tibetan	TIB TXT	LMR	WIL				0-86171-013-4	paperback	1	
 Present	"Nyon, Tsang Heruka"		Nalanda translation Committee	The Life of Marpa The Translator	Seeing Accomplishes All	1982	Pranja Press			Tibetan	TIB TXT	MAR	NTC				0-87773-763-0	Paperback	1	
 Present	"Rabten, Geshe"			Treasury of Dharma	A Tibetan Buddhist Meditation Course	1988	Tharpa			Tibetan	TIB TXT	MED	RAB				0-948006-04-8	paperback	1	
