@@ -936,9 +936,9 @@ Present	Sangharakshita			The Thousand Petalled Lotus 		1976	William Heinemann			
 Present	Sangharakshita			The Three Jewels	The Central Ideals of Buddhism	1998			4	Sangharakshita	SANG	THR							1	
 Present	Sangharakshita			The Three Jewels	An Introduction to Buddhism	1977				Sangharakshita	SANG	THR					0-904766-05-5	Paperback	1	
 Present	Sangharakshita			The Three Jewels	An Introduction to Buddhism	1977				Sangharakshita	SANG	THR					0-904766-05-5	Paperback	1	
-Present	Sanghrakshita			The Threefold Refuge		5-Jun				Sangharakshita	SANG	THR							1	
-Present	Sanghrakshita			The Threefold Refuge		5-Jun				Sangharakshita	SANG	THR							1	
-Present	Sanghrakshita			The Threefold Refuge		5-Jun				Sangharakshita	SANG	THR							1	
+Present	Sanghrakshita			The Threefold Refuge		05-Jun				Sangharakshita	SANG	THR							1	
+Present	Sanghrakshita			The Threefold Refuge		05-Jun				Sangharakshita	SANG	THR							1	
+Present	Sanghrakshita			The Threefold Refuge		05-Jun				Sangharakshita	SANG	THR							1	
 Present	Sanghrakshita			Through Buddhist Eyes		2000				Sangharakshita	SANG	THR								
 Present	Sangharakshita			Tibetan Buddhism	An introduction	1996				Sangharakshita	SANG	TIB					0-904766-86-1	Book	1	
 Present	Sangharakshita			Tibetan Buddhism	An introduction	1996				Sangharakshita	SANG	TIB					0-904766-86-1	Book	1	
@@ -946,8 +946,8 @@ Present	Sangharakshita			Transforming Self & World	Themes from the Sutra of Gold
 Present	Sangharakshita			Travel Letters		1985				Sangharakshita	SANG	TRA					0-904766-17-9	Book	1	
 Present	Sangharakshita			Travel Letters		1985				Sangharakshita	SANG	TRA					0-904766-17-9	Book	1	
 Present	Sangharakshita			Varpauden Maku		1990	Windhorse Publications			Books in other languages	SANG	VAR	Fi				951-96285-1-7	Paperback book	1	
-Present	Sangharakshita			Vision and Transformation	An Introduction to the Buddha's Noble Eightfold Path	5-Jun				Sangharakshita	SANG	VIS					0-904766-44-6	Paperback book	1	
-Present	Sangharakshita			Vision and Transformation	An Introduction to the Buddha's Noble Eightfold Path	5-Jun				Sangharakshita	SANG	VIS					0-904766-44-6	Paperback book	1	
+Present	Sangharakshita			Vision and Transformation	An Introduction to the Buddha's Noble Eightfold Path	05-Jun				Sangharakshita	SANG	VIS					0-904766-44-6	Paperback book	1	
+Present	Sangharakshita			Vision and Transformation	An Introduction to the Buddha's Noble Eightfold Path	05-Jun				Sangharakshita	SANG	VIS					0-904766-44-6	Paperback book	1	
 Present	Sangharakshita			Was the Buddha a Bhikkhu?		1994				Sangharakshita	SANG	WAS					0-904766-71-3	Paperback	1	
 Present	Sangharakshita			Was the Buddha a Bhikkhu?		1994				Sangharakshita	SANG	WAS					0-904766-71-3	Paperback	1	
 Present	Sangharakshita			Was the Buddha a Bhikkhu?		1994				Sangharakshita	SANG	WAS					0-904766-71-3	Paperback	1	
@@ -1404,6 +1404,52 @@ Present	Vessantara			Tales of Freedom	Wisdom from the Buddhist Tradition	2000	Wi
 Present	Vimalasara	"Mason-John, Valerie"		Broken Voices	Untouchable' Women Speak Out					Triratna books	TRI	VIM	BRO				81-8386-07-37	Paperback book	1	
 Present	Vimalasara	"Mason-John, Valerie"		Broken Voices	Untouchable' Women Speak Out					Triratna books	TRI	VIM	BRO				81-8386-07-37	Paperback book	1	
 Present	Vimalabandhu			The Jewel in the Cabbage	Cooking with Metaphors	2009				Triratna cooking	TRI	VIM	JEW	FWBO; triratna; cooking; work;	An exploration of cooking as a  skilful way to practice the dharma and general principles of cooking creatively.			Paperback book	1	
-Present	Vishvapani			Introducing the Friends of the Western Buddhist Order		5-Jun	Windhorse Publications	Birmingham		Triratna books	TRI	VIS	INT	FWBO; triratna;  modern world; spiritual community; society; worldwide; movement; practice; sangharakshita	A history and introduction to the FWBO/Triratna at the turn of the Millenium.		0-904766-98-5	Paperback book	1	
-Present	Vishvapani			Introducing the Friends of the Western Buddhist Order		5-Jun	Windhorse Publications	Birmingham		Triratna books	TRI	VIS	INT	FWBO; triratna;  modern world; spiritual community; society; worldwide; movement; practice; sangharakshita	A history and introduction to the FWBO/Triratna at the turn of the Millenium.		0-904766-98-5	Paperback book	1	
-Present	Vishvapani			Introducing the Friends of the Western Buddhist Order		5-Jun	Windhorse Publications	Birmingham		Triratna books	TRI	VIS	INT	FWBO; triratna;  modern world; spiritual community; society; worldwide; movement; practice; sangharakshita	A history and introduction to the FWBO/Triratna at the turn of the Millenium.		0-904766-98-5	Paperback book	1	
+Present	Vishvapani			Introducing the Friends of the Western Buddhist Order			Windhorse Publications	Birmingham		Triratna books	TRI	VIS	INT	FWBO; triratna;  modern world; spiritual community; society; worldwide; movement; practice; sangharakshita	A history and introduction to the FWBO/Triratna at the turn of the Millenium.		0-904766-98-5	Paperback book	1	
+Present	Vishvapani			Introducing the Friends of the Western Buddhist Order			Windhorse Publications	Birmingham		Triratna books	TRI	VIS	INT	FWBO; triratna;  modern world; spiritual community; society; worldwide; movement; practice; sangharakshita	A history and introduction to the FWBO/Triratna at the turn of the Millenium.		0-904766-98-5	Paperback book	1	
+Present	Vishvapani			Introducing the Friends of the Western Buddhist Order			Windhorse Publications	Birmingham		Triratna books	TRI	VIS	INT	FWBO; triratna;  modern world; spiritual community; society; worldwide; movement; practice; sangharakshita	A history and introduction to the FWBO/Triratna at the turn of the Millenium.		0-904766-98-5	Paperback book	1	
+present			"Jones, JJ"	The Mahavastu volume 1		1987	The Pali Text Society				MAH TXT	MVA	JON				0 86013-041X	HARDBACK	1	
+Present			"Jones, JJ"	The Mahavastu volume 2		1976	The Pali Text Society				MAH TXT	MVA	JON				0-7100-8492-7	HARDBACK	1	
+Present			"Jones, JJ"	The Mahavastu volume 3		1978	The Pali Text Society				MAH TXT	MVA	JON				0-7100-8891-4	hard	1	
+Present			"Luk, Charles"	The Vimalakirti Nirdesa Sutra		1972	shambala				MAH TXT	VIM	LUK				0-8777-035-0	haedback	1	
+Present						1972	sham				MAH TXT	VIM	LUK					paperback	1	
+Present			"lamotte, E & Boin ,S"	The Teaching of Vimalakirti		1976	The Pali Text Society				MAH TXT	VIM	LAM				0-7100-8540-0	HARDBACK	1	
+Present			"Griffiths, P et al"	The Realm of Awakening	A Translation & study of the tenth chapter of Asanga's Mahayanasangraha	1989	Oxford University Press				MAH TXT	RA	GRI				0-19-505731-7	hard	1	
+Present			"Batchelor, Stephen"	A Guide to the Bodhisattva's Way of Life		1979	Library of Tibetan Works & Archives				MAH TXT	BOD	BAT				81-85102-59-7	PAPERBACK	1	
+Present			"Batchelor, Stephen"	A Guide to the Bodhisattva's Way of Life		1979	Library of Tibetan Works & Archives				MAH TXT	BOD	BAT					PAPER	1	
+Present			"Batchelor, Stephen"	A Guide to the Bodhisattva's Way of Life		1979	Library of Tibetan Works & Archives				MAH TXT	BOD	BAT					PAPER	1	
+Present			"Matics, Marion l"	Entering the path of Enlightenment	The Bodhicaryavatara of the Buddhist Poet Santideva	1971	George Allen and Unwin Ltd				MAH TXT	BOD	MAT				0-04-294072-9	ha	1	
+Present			"Crosby, K & Skilton, A"	The Bodhicaryavatara		1995	Oxford University Press				MAH TXT	BOD	CRO				0-19-282979-3	pap	1	
+Present			"Crosby, K & Skilton, A"	The Bodhicaryavatara		1995	Oxford University Press				MAH TXT	BOD	CRO				0-19-282979-3	paper	1	
+Present			PadmaKara translation group	The Way of the Bodhisattva		1997	shambala				MAH TXT	BOD	PTG				1-57062-253-1	paper	1	
+Present			"Suzuki, DT"	The Lankavatara Sutra		1956	Routledge & Kegan Paul				MAH TXT	LAN	SUZ					hard	1	
+Present			"Stcherbatsky, Th"	Madhyanta-Vibhanga Discourse	on Discrimination between the middle and the extremes	1978	Oriental Books Reprint Corporation				MAH TXT	MAD	STC					hard	1	
+Present			"Bendall, C & Rouse, WHD"	Siksa Samuccaya	A Compendium of Buddhist Doctrine	1971	Motilal Banarsidass				MAH TXT	SIK	BEN				81-208-0732-4	hard	1	
+Present			"Vallee Poussin, Louis De La"	Abidharmakosabhasayam vol 1		1988	Asian Humanities Press				MAH TXT	ABI	VAL				0-89581-913-9	hard	1	
+Present				Abidharmakosabhasayam vol 2							MAH TXT	ABI	VAL							
+Present				Abidharmakosabhasayam vol 3							MAH TXT	ABI	VAL							
+Present				Abidharmakosabhasayam vol 4							MAH TXT	ABI	VAL							
+Present	"Lin, Yutang Dr."			Wisdom & Compassion in Limitless-Oneness		1994					MAH  	GEN	LIN					PAPERBACK	2	
+Present	"Burton, David F"			Emptiness Appraised	A Critical Study of Nagarjuna's Philosophy	1999	Curzon Press				MAH	GEN	BUR				0-7007-1066-3	HARD	1	
+Present	Candrogomin		"Tatz, Mark"	Difficult Beginnings	Three works on the Bodhisattv path	1985	Shambala				MAH	GEN	CAN				0-394-54530-3	HARD	1	
+Present	"Cheetham, Eric"			The Main Mahayana Schools		1993	"The Buddhist Society, London"				MAH	GEN	CHE					PAPERBACK	1	
+Present	"Duerlinger, James"			Indian Buddhist Theories of Persons		2003	Routledge Curzon				MAH	GEN	DUE				0-415-40611-0	PAPERBACK	1	
+Present	"Boucher, Daniel"			Bodhisattvas of the Forest & the Formation of the Mahayana	A study & translation of the Rastrapalapariprccha sutra	2008	University of Hawaii press				MAH	GEN	BOU				978-0-8248-2881-3	HARDBACK	1	
+Present	"Stcherbatsky, T"			The Concept of Buddhist Nirvana		1968	Motilal Banarsidass				MAH	GEN	STC				0-89684-033-6	HARDBACK	1	
+Present	IDRBL-S			Les Bases Fondementales Du Bouddhisme Mahayana		1997	The Corporate Body of the Buddha Educational Foundation				MAH	GEN F	IDR					paperback	1	
+Present	"Blofeld, John"			Compassion Yoga	The Mystical Cult of Kuan Yin	1977	Mandala Books				MAH	GEN	BLO				0-04-149045-2	PAPERBACK	1	
+Present	"Kim, Young-Ho"			Tao-Sheng's Commentary on the Lotus Sutra		1990	State University of New York Press				MAH	GEN	KIM				0-7914-0228-2	PAPERBACK	1	
+Present	"Kawamura, Leslie S"			The Bodhisattva Doctrine in Buddhism		1997	Sri Satguru Publications				MAH	GEN	KAW				81-7030-563-2	HARDBACK	1	
+Present	"Chodron, Pema"			No Time To Lose	A Timely Guide to the Way of the Boddhisattva	2005	Shambala				MAH	GEN	CHO				1-59030-135-8	HARDBACK	1	
+Present			"Lamotte, E & Pruden, LM"	Karmasiddhi Prakarana	The Tretise on Action by Vasubandhu	1987	Asian Humanities Press				MAH	GEN	LAM				0-895-81907-4	PAPERBACK	1	
+Present	"Wood, Thomas E"			Nagarjunian Disputations	A Philosophical Journey through an Indian Looking-Glass	1995	Sri Satguru Publications				MAH	GEN	WOO				81-7030-467-9	HARDBACK	1	
+Present	"Tola, Fernando & Dragonetti, Carmen"			On Voidness	A Study of Buddhist Nihilism	1995	Motilal Banarsidass				MAH	GEN	TOL				81-208-1061-9	HARDBACK	1	
+Present	"Walser, |Joseph"			Nagarjuna in context	Mahayana Buddhism & Early Indian Culture	2004	Columbia University Press				MAH	GEN	WAL				0-231-13164x	hardback	1	
+Present	"Singh, Jaideva"			An Introduction to Madhyamaka Philosophy		1976	Motilal Banarsidass				MAH	GEN	SIN				81-208-0326-4	PAPERBACK	1	
+Present	"Santina, Peter Della"			Madhyamak Schools in India		1986	Motilal Banarsidass				MAH	GEN	SAN				81-208-0153-9	HARDBACK	1	
+Present	"Robinson, Richard H"			Early Madhyamika in India & China		1978	Motilal Banarsidass				MAH	GEN	ROB				0-89684-038-7	HARDBACK	1	
+Present	"Padhye, A M"			The Framework of Nagarjuna's Philosophy		1998	Sri Satguru Publications				MAH	GEN	PAD				81-7030-124-6	HARDBACK	1	
+present	"Brown, Brian Edward"			The Buddha Nature	A Study of the Tathagatagarba and Alayavijnana	1991	Motilal Banarsidass				MAH	GEN	BRO				81-208-0631X	HARDBACK	1	
+Present	"Evola, J"			The Doctrine of Awakening	A Study of Buddhist Ascesis	1951	Luzac & Company				GEN	EVO						HARDBACK	1	
+Present	"Chinchore, Mangala R"			Dharmakirti's Theory of Hetu-Centricity of Anumana		1989	Motilal Banarsidass				GEN	CHI					81-208-0623-9	HARDBACK	1	
+Present	"Katz, Nathan"			Buddhist Images of Human Perfection	The Arhant of the Sutta Pitaka compared with the Bodhisattva and the Mahasiddha	1992	Motilal Banarsidass				GEN	KAT					81-208-0647-6	HARDBACK	1	
+Present	"Blofeld, John"			Beyond the Gods	Buddhist & Taoist Mysticism	1974	George Allen and Unwin Ltd				GEN	BLO					0-04-294085-0	paperback	1	
