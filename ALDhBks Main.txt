@@ -701,7 +701,7 @@ book No	Author	Alternate name (i.e.  Order Name)	Translator	Title	Sub-title	Year
 700			"Emmerick, R.E."	The Khotanse Surangamasamadhisutra	London Oriental Series Volume 23	1970	Oxford University Press			Mahayana Sutras	MAH TXT	SUR	EMM				19-713562-5	Hardback book	1	
 701			"Lamotte, E."	Suramgamasamadhisutra	The Concentration of Heroic Progress	1998	Curzon Press			Mahayana Sutras	MAH TXT	SUR	LAM				0-7007-1024-8	Hardback book	1	
 702			"Luk, C."	The Surangama Sutra		1966	Rider & Company			Mahayana Sutras	MAH TXT	SUR	LUK					Hardback book	1	
-703	"Nagarjuna and Pandit, Sakya"		"Olivo, Montse Castella¬"	Elegant Sayings	The Staff of Wisdom; A Precious Treasury of Elegant Sayings	1977	Dharma Publishing	United States	1	Madhyamaka and Yogacara	MAH TXT	SW	NAG	tibetan; philosophy; sayings; mah?y?na; ma??ju?r?	Collection of extracts of sayings from Sakya Pandita and N?g?rjuna		0-913546-13-5	Paperback book	1	
+703	"Nagarjuna and Pandit, Sakya"		"Olivo, Montse Castella¼"	Elegant Sayings	The Staff of Wisdom; A Precious Treasury of Elegant Sayings	1977	Dharma Publishing	United States	1	Madhyamaka and Yogacara	MAH TXT	SW	NAG	tibetan; philosophy; sayings; mah?y?na; ma??ju?r?	Collection of extracts of sayings from Sakya Pandita and N?g?rjuna		0-913546-13-5	Paperback book	1	
 704	Maitreya (Arya)		"Fuchs, Rosemarie"	Buddha Nature	The Mahayana Uttaratantra Shastra	2000	Snow Lion Publications			Madhyamaka and Yogacara	MAH TXT	UTS	FUC				1-55939-128-6	Hardback book	1	
 705	Nagarjuna		"Bhattacharya, K."	The Dialectical Method of Nagarjuna	Vigrahavyavartani	1990	Motilal Banarsidass			Madhyamaka and Yogacara	MAH TXT	VIG	NAG				81-208-0176-8	Hardback book	1	
 706			"Chatterjee, K.N."	Vijnapti Matratasiddhi		1980	Kishor Vidyaniketan			Mahayana Sutras	MAH TXT	VIJ	CHA					Hardback book	1	
@@ -896,7 +896,7 @@ book No	Author	Alternate name (i.e.  Order Name)	Translator	Title	Sub-title	Year
 895	Sangharakshita			"Buddhismus, Weltfrieden and Atomkrieg1984"	Weltfrieden	1984	Windross Publikationen	Essen			SANG	BUD	G				3-929447-01-0	Paperback	1	
 896	Sangharakshita			Budismo para principaintes y maestros		1996	Fundacion Tres Joyas			Books in other languages	SANG	BUD	Sp				84-88768-12-5	Book	1	
 897	Sangharakshita			El Budismo en Occidente		1993	Fundacion Tres Joyas			Books in other languages	SANG	BUD	Sp				84-88768-03-6	Book	1	
-898	Sangharakshita			El Budismo: La ensenanza y su pra¬ctica		1993	Fundacion Tres Joyas			Books in other languages	SANG	BUD	Sp				84-88768-01-x	Paperback book	1	
+898	Sangharakshita			El Budismo: La ensenanza y su pra¼ctica		1993	Fundacion Tres Joyas			Books in other languages	SANG	BUD	Sp				84-88768-01-x	Paperback book	1	
 899	Sangharakshita			Buddha Mind		2001	windhorse			Sangharakshita	SANG	BUD					1-899579-43-5	Book	1	
 900	Sangharakshita			Buddha Mind		2001	windhorse			Sangharakshita	SANG	BUD					1-899579-43-5	Book	1	
 901	Sangharakshita			Buddhism and the West	The Integration of Buddhism into Western Society	1992				Sangharakshita	SANG	BUD					0-904766-55-1	Booklet	1	
@@ -1113,7 +1113,7 @@ book No	Author	Alternate name (i.e.  Order Name)	Translator	Title	Sub-title	Year
 1112	"Dowman, Keith"			The Power-Places of Central Tibet	The Pilgrim's Guide	1988	Routledge & Kegan Paul		First	Tibetan	TIB	GEN	DOW				0-14-019118-6	Paperback	1	
 1113	"Dowman, Keith"			The Flight of the Garuda	The Dzogchen Traditon of Tibetan Buddhism	2003	Wisdom				TIB	GEN	DOW				0-86171-367-2	paperback	1	
 1114	"Dummer, Tom"			Vajrayana Student's Notebook		1998	Paljor Publications			Tibetan	TIB	GEN	DUM				81-86230-16-5	Paperback book	1	
-1115	"Edou, Jerome"		Nuria Martª	Machig Labron and the Foundations of Chod		1996	Snow Lion Publications			Tibetan	TIB	GEN	EDO				1-55939-039-5	Paperback book	1	
+1115	"Edou, Jerome"		Nuria Mart¬	Machig Labron and the Foundations of Chod		1996	Snow Lion Publications			Tibetan	TIB	GEN	EDO				1-55939-039-5	Paperback book	1	
 1116	"Ennals( Rt Hon Lord) & Hyde-Chambers, Fredrick R."			Tibet in China	A Report for International Alert	1988	International Alert			Tibetan	TIB	GEN	ENN					Pamphlet	1	
 1117	"Freke, Timothy"			The Wisdom of the Tibetan Lamas		1999	Godsfield Press Ltd			Tibetan	TIB	GEN	FRE				1-899434-92-5	Hardback book	1	
 1118	"Fremantle, Francesca"			Luminous Emptiness	Understanding the Tibetan Book of the Dead	2001	Shambhala				TIB	GEN	FRE				1-57062-450-x	hardback	1	
@@ -1213,7 +1213,7 @@ book No	Author	Alternate name (i.e.  Order Name)	Translator	Title	Sub-title	Year
 1212	"Mullin, Glenn H"			Death & Dying	The Tbetan Tradition	1986	Arkana				TIB	GEN	MUL				0-14-019013-9	paperback	1	
 1213	"Napper, Elizabeth"			Dependent-Arising and Emptiness		1989	Wisdom Publications			Tibetan	TIB	GEN	NAP				0-86171-057-6	Hardback	1	
 1214	Naropa			The Life and Teaching of Naropa	Translated from the original Tibetan with Philosophical Commentary based on the Oral Transmission	1963	Clarendon Press			Tibetan	TIB	GEN	NAR					Book	1	
-1215	"Nebesky-Wojkowitz, R?óne de"			Oracles and Demons of Tibet	The Cult and Iconography of the Tibetan Protective Deities	1996	Book Faith India			Tibetan	TIB	GEN	NEB				81-7303-039-1	Hardback book	1	
+1215	"Nebesky-Wojkowitz, R?¾ne de"			Oracles and Demons of Tibet	The Cult and Iconography of the Tibetan Protective Deities	1996	Book Faith India			Tibetan	TIB	GEN	NEB				81-7303-039-1	Hardback book	1	
 1216	"Nebesky-Wojkowitz, Rene von"		Bullock. Michael	Where the Gods are Mountains	Three Years among the People of the Himalays	1956	Weidenfeld and Nicolson			Tibetan	TIB	GEN	NEB				None	Hardback	1	
 1217	"Newland, Guy (ed)"			Changing Minds	Contributions to the Study of Buddhism and Tibet. In Honor of Jefferey Hopkins	2001	Snow Lion Publications			Tibetan	TIB	GEN	NEW				1-55939-160-x	Hardback	1	
 1218	"Newland, Guy"			Compassion: A Tibetan Analysis	A Buddhist Monastic Textbook	1984	Wisdom Publications			Tibetan	TIB	GEN	NEW				0-86171-024-x	Paperback	1	
@@ -1535,3 +1535,43 @@ book No	Author	Alternate name (i.e.  Order Name)	Translator	Title	Sub-title	Year
 1534	Vishvapani			Introducing the Friends of the Western Buddhist Order			Windhorse Publications	Birmingham		Triratna books	TRI	VIS	INT	FWBO; triratna;  modern world; spiritual community; society; worldwide; movement; practice; sangharakshita	A history and introduction to the FWBO/Triratna at the turn of the Millenium.		0-904766-98-5	Paperback book	1	
 1535	Vishvapani			Introducing the Friends of the Western Buddhist Order			Windhorse Publications	Birmingham		Triratna books	TRI	VIS	INT	FWBO; triratna;  modern world; spiritual community; society; worldwide; movement; practice; sangharakshita	A history and introduction to the FWBO/Triratna at the turn of the Millenium.		0-904766-98-5	Paperback book	1	
 1536	Vadanya	"Pauling, Chris"	 Shuddhavajra	Iniciacion al Budismo		1993	Tres Joyas				TRI 	VAD	INT Sp				84-88768-02-8	Paperback	1	
+1537	Ratnaguna			The Art of Reflection							TRI	RAT	ART							
+1538	Paramananda			The Body							TRI	PAR	BOD							
+1539	Vessantara			The Breath							TRI	VES	BRE							
+1540	Vaddhaka			The Buddha on Wall Street							TRI	VAD	BUD							
+1541	Subhuti			 Buddhism & Friendship							TRI	SUB	BUD							
+1542	Vajragupta			Buddhism: Tools for Living Your Life.							TRI	VAJ	BUD							
+1543	Kamalashila			Buddhist Meditation							TRI	KAM	BUD							
+1544	Vishvapani (ed)			Challenging Times							TRI	VIS	CHA							
+1545	Vimalasara	"Mason-John, Valerie"		Detox Your Heart							TRI	VIM	DET							
+1546	Vimalasara & Paramabandhu	"Mason-John, Valerie & Paramabandhu Groves"		Eight Step Recovery							TRI	VIM	EIG							
+1547	Nagapriya			Exploring Karma & Rebirth							TRI	NAG	EXP							
+1548	Vessantara			Female Deities in Buddhism							TRI	VES	FEM							
+1549	Ratnaprabha	"Cooper, Robin"		Finding the Mind							TRI	RAT	FIN							
+1550	Vessantara			A Guide to the Boddhisattvas							TRI	VES	GUI							
+1551	Vessantara			A Guide to the Buddhas							TRI	VES	GUI							
+1552	Vessantara			The Heart							TRI	VES	HEA							
+1553	Maitreyabandhu			The Journey & The Guide							TRI	MAI	JOU							
+1554	Maitreyabandhu			Life with Full Attention							TRI	MAI	LIF							
+1555	Sarvananda			Meaning in Life							TRI	SAR	MEA							
+1556	Jinananda			Meditating							TRI	JIN	MED							
+1557	Kamalashila			Meditation: Buddhist Way							TRI	KAM	MED							
+1558	Subhadramati			Not About Being Good							TRI	SUB	NOT							
+1559	Moksananda			Ordination							TRI	MOK	ORD							
+1560	Karunagita	"Burns, Sarah"		A Path for parents							TRI	KAR	PAT							
+1561	Manjusvara			The Poet's Way							TRI	MAN	POE							
+1562	Vajragupta			Sailing the Worldly Winds							TRI	VAJ	SAI							
+1563	Akuppa	"Wigham, John"		Saving the Earth							TRI	AKU	SAV							
+1564	Sarvananda			Solitude & Loneliness							TRI	SAR	SOL							
+1565	"Hookham, Lama Shenpen"			There's More to Dying than Death							TRI	HOO	THE							
+1566	Vajragupta			The Triratna Story							TRI	VAJ	TRI							
+1567	Vessantara			Vajra & Bell							TRI	VES	VAJ							
+1568	Bodhipaksa			Vegetarianism							TRI	BOD	VEG							
+1569	Nagapriya			Visions of Mahayana Buddhism							TRI	NAG	VIS							
+1570	Jinananda			Warrior of Peace							TRI	JIN	WAR							
+1571	Manjusvara			Writing Your Way							TRI	MAN	WRI							
+																				
+																				
+																				
+																				
+																				
