@@ -1037,9 +1037,9 @@ book No	Author	Alternate name (i.e.  Order Name)	Translator	Title	Sub-title	Year
 1036	Sangharakshita			The Three Jewels	The Central Ideals of Buddhism	1998			4	Sangharakshita	SANG	THR							1	
 1037	Sangharakshita			The Three Jewels	An Introduction to Buddhism	1977				Sangharakshita	SANG	THR					0-904766-05-5	Paperback	1	
 1038	Sangharakshita			The Three Jewels	An Introduction to Buddhism	1977				Sangharakshita	SANG	THR					0-904766-05-5	Paperback	1	
-1039	Sanghrakshita			The Threefold Refuge		5-Jun				Sangharakshita	SANG	THR							1	
-1040	Sanghrakshita			The Threefold Refuge		5-Jun				Sangharakshita	SANG	THR							1	
-1041	Sanghrakshita			The Threefold Refuge		5-Jun				Sangharakshita	SANG	THR							1	
+1039	Sanghrakshita			The Threefold Refuge		05-Jun				Sangharakshita	SANG	THR							1	
+1040	Sanghrakshita			The Threefold Refuge		05-Jun				Sangharakshita	SANG	THR							1	
+1041	Sanghrakshita			The Threefold Refuge		05-Jun				Sangharakshita	SANG	THR							1	
 1042	Sanghrakshita			Through Buddhist Eyes		2000				Sangharakshita	SANG	THR							1	
 1043	Sangharakshita		Hans Oberman	Einfuhrung in den tibetischen Buddhismus		2000	Herder	Freiburg			SANG	TIB	G				3 451 04731 4	Paperback	1	
 1044	Sangharakshita			Tibetan Buddhism	An introduction	1996				Sangharakshita	SANG	TIB					0-904766-86-1	Book	1	
@@ -1050,8 +1050,8 @@ book No	Author	Alternate name (i.e.  Order Name)	Translator	Title	Sub-title	Year
 1049	Sangharakshita			Varpauden Maku		1990	Windhorse Publications			Books in other languages	SANG	VAR	Fi				951-96285-1-7	Paperback book	1	
 1050	Sangharakshita		Sarvamitra	Buddhan Jalo Kahdeksanosainen Polku		1994	Lansimaisen buddhalaisen veljeskunnan ystavat	Helsinki			SANG	VIS	Fi				951-96285-3-3	Paperback	1	
 1051	Sangharakshita		"FWBO translation teamSehen,wie die Dinge sind "	"Sehen, wie die Dinge sind"		1995	DO Publikationen   				SANG	VIS	G				9-783929-447026	Paperback	1	
-1052	Sangharakshita			Vision and Transformation	An Introduction to the Buddha's Noble Eightfold Path	5-Jun				Sangharakshita	SANG	VIS					0-904766-44-6	Paperback book	1	
-1053	Sangharakshita			Vision and Transformation	An Introduction to the Buddha's Noble Eightfold Path	5-Jun				Sangharakshita	SANG	VIS					0-904766-44-6	Paperback book	1	
+1052	Sangharakshita			Vision and Transformation	An Introduction to the Buddha's Noble Eightfold Path	05-Jun				Sangharakshita	SANG	VIS					0-904766-44-6	Paperback book	1	
+1053	Sangharakshita			Vision and Transformation	An Introduction to the Buddha's Noble Eightfold Path	05-Jun				Sangharakshita	SANG	VIS					0-904766-44-6	Paperback book	1	
 1054	Sangharakshita			Was the Buddha a Bhikkhu?		1994				Sangharakshita	SANG	WAS					0-904766-71-3	Paperback	1	
 1055	Sangharakshita			Was the Buddha a Bhikkhu?		1994				Sangharakshita	SANG	WAS					0-904766-71-3	Paperback	1	
 1056	Sangharakshita			Was the Buddha a Bhikkhu?		1994				Sangharakshita	SANG	WAS					0-904766-71-3	Paperback	1	
@@ -1209,7 +1209,7 @@ book No	Author	Alternate name (i.e.  Order Name)	Translator	Title	Sub-title	Year
 1212	"Mullin, Glenn H"			Death & Dying	The Tbetan Tradition	1986	Arkana				TIB	GEN	MUL				0-14-019013-9	paperback	1	
 1213	"Napper, Elizabeth"			Dependent-Arising and Emptiness		1989	Wisdom Publications			Tibetan	TIB	GEN	NAP				0-86171-057-6	Hardback	1	
 1214	Naropa			The Life and Teaching of Naropa	Translated from the original Tibetan with Philosophical Commentary based on the Oral Transmission	1963	Clarendon Press			Tibetan	TIB	KAG	NAR					Hardback	1	
-1215	"Nebesky-Wojkowitz, R?Ýne de"			Oracles and Demons of Tibet	The Cult and Iconography of the Tibetan Protective Deities	1996	Book Faith India			Tibetan	TIB	GEN	NEB				81-7303-039-1	Hardback book	1	
+1215	"Nebesky-Wojkowitz, R?¦ne de"			Oracles and Demons of Tibet	The Cult and Iconography of the Tibetan Protective Deities	1996	Book Faith India			Tibetan	TIB	GEN	NEB				81-7303-039-1	Hardback book	1	
 1216	"Nebesky-Wojkowitz, Rene von"		Bullock. Michael	Where the Gods are Mountains	Three Years among the People of the Himalays	1956	Weidenfeld and Nicolson			Tibetan	TIB	GEN	NEB				None	Hardback	1	
 1217	"Newland, Guy (ed)"			Changing Minds	Contributions to the Study of Buddhism and Tibet. In Honor of Jefferey Hopkins	2001	Snow Lion Publications			Tibetan	TIB	GEN	NEW				1-55939-160-x	Hardback	1	
 1218	"Newland, Guy"			Compassion: A Tibetan Analysis	A Buddhist Monastic Textbook	1984	Wisdom Publications			Tibetan	TIB	GEL	NEW				0-86171-024-x	Paperback	1	
@@ -1583,9 +1583,9 @@ book No	Author	Alternate name (i.e.  Order Name)	Translator	Title	Sub-title	Year
 1589	Sangharakshita			From Genesis to the Diamond Sutra		2005	Windhorse				SANG	FRO					1-899579-72-9	paperback	1	
 1590	Kamalashila	Anthony Matthews	FWBO Translations team	Meditation	Der buddhistiche Weg zu Gluck und Erkenntnis	1997	DO Publikationen   				TRI	KAM	MED G				9-783929-447033	Paperback	1	
 1591	"Sjeradzan, Jacek"			Prezkrpczyz Prog Madrosci Polemiki Ciag		1997	Jacek Sieradzan				GEN	SIE	Pl				83-906641-5-1	paperback	1	
-1592	"Malalasekera, G.P."			Dictionary of Pali Proper Names	Volume 1	1997	Pali Text Society	Oxford	1st		REF	PAL					0860133591	Hardback		
-1593	"Malalasekera, G.P."			Dictionary of Pali Proper Names	Volume 2	1997	Pali Text Society	Oxford	1st		REF	PAL					0860133505	Hardback		
-1594	"Malalasekera, G.P."			Dictionary of Pali Proper Names	Volume 3	1997	Pali Text Society	Oxford	1st		REF	PAL					0860133613	Hardback		
+1592	"Malalasekera, G.P."			Dictionary of Pali Proper Names	Volume 1	1997	Pali Text Society	Oxford	1st		REF	PAL					860133591	Hardback		
+1593	"Malalasekera, G.P."			Dictionary of Pali Proper Names	Volume 2	1997	Pali Text Society	Oxford	1st		REF	PAL					860133505	Hardback		
+1594	"Malalasekera, G.P."			Dictionary of Pali Proper Names	Volume 3	1997	Pali Text Society	Oxford	1st		REF	PAL					860133613	Hardback		
 1595	"Sumangala, Suriyagoda Thera"			A Graduated Pali Course	(Part1)	1994	The Buddhist Cultural Centre	Sri Lanka	2nd		REF	PAL					9559219073	Paperback		
 1596	"Sumangala, Suriyagoda Thera"			A Graduated Pali Course	(Part1)	1994	The Buddhist Cultural Centre	Sri Lanka	2nd		REF	PAL					9559219073	Paperback		
 1597	"Sumangala, Suriyagoda Thera"			A Graduated Pali Course	(Part1)	1994	The Buddhist Cultural Centre	Sri Lanka	2nd		REF	PAL					9559219073	Paperback		
@@ -1596,12 +1596,12 @@ book No	Author	Alternate name (i.e.  Order Name)	Translator	Title	Sub-title	Year
 1602	"Buddharakkhita, Ven. Acharya"			Comprehensive Pali Course	Part 2	1996	Buddha Vaccana Trust	Bangalore	1st		REF	PAL						Paperback		
 1603	"Warder, A.K."			Introduction to Pali		1984	Pali Text Society	London	2nd		REF	PAL					071020356x	Paperback		
 1604	"Takakusu, J."			A Pali Chrestomathy	With notes and glossary giving Sanskrit and Chinese equivalents	1900	Kinkodo & Co	Tokyo	1st		REF	PAL						Hardback		
-1605	"Johansson, Rune E A"			Pali Buddhist Texts Explained to the Beginner		1986	Curzon Press Ltd	London and Malmo	3rd		REF	PAL					0700700633	Paperback		
+1605	"Johansson, Rune E A"			Pali Buddhist Texts Explained to the Beginner		1986	Curzon Press Ltd	London and Malmo	3rd		REF	PAL					700700633	Paperback		
 1606	"Webb, Russell (ed)"			An Analysis of the Pali Canon	being the Buddhist Scriptures of the Theravada School	1975	Buddhist Publication Society	Sri Lanka	1st		REF	PAL				Issn- CE0068-3345		Paperback		
 1607	"Webb, Russell (ed)"			An Analysis of the Pali Canon	being the Buddhist Scriptures of the Theravada School	2001	Buddhist Publication Society	Sri Lanka	2ND		REF	PAL					9552400481	Paperback		
 1608	"Webb, Russell (ed)"			An Analysis of the Pali Canon	being the Buddhist Scriptures of the Theravada School	1991	Buddhist Publication Society	Sri Lanka	2ND		REF	PAL					9552400481	Paperback		
 1609	"Webb, Russell (ed)"			An Analysis of the Pali Canon	being the Buddhist Scriptures of the Theravada School	1991	Buddhist Publication Society	Sri Lanka	2ND		REF	PAL					9552400481	Paperback		
-1610	"Keown, Damien & Prebish, Charles S. (eds)"			Encyclopedia of Buddhism		2010	Routledge	Oxon	1st		REF	GEN					9780415556248	Paperback		
+1610	"Keown, Damien & Prebish, Charles S. (eds)"			Encyclopedia of Buddhism		2010	Routledge	Oxon	1st		REF	GEN					9.78042E+12	Paperback		
 1611	"Keown, Damien"			Dictionary of Buddhism		2003	Oxford University Press	Oxford	1st		REF	GEN					0-19-865560-9	Hardback		
 1612	"Keown, Damien"			Dictionary of Buddhism		2004	Oxford University Press	Oxford	1st		REF	GEN					0-19-280062-0	Paperback		
 1613	"Buswell Jr, Robert E. & Lopez Jr, Donald S."			The Princeton Dictionary of Buddhism		2014	Princeton University Press	"Princeton, New Jersey"	1st		REF	GEN					978-0-691-15786-3	Hardback		
@@ -1648,5 +1648,71 @@ book No	Author	Alternate name (i.e.  Order Name)	Translator	Title	Sub-title	Year
 1654	"Soothill, William Edward & Hodous, Lewis"			A dictionary of Chinese Buddhist terms	With Sanskrit and English equivalents and a sanskrit-pali index	1994	Motilal Banarsidass	Delhi	1st		REF	CHI					81-208-0319-1	Hardback		
 1655	"Soothill, William Edward & Hodous, Lewis"			A dictionary of Chinese Buddhist terms	With Sanskrit and English equivalents and a sanskrit-pali index	1969	Ch'eng-wen Publishing Campany	Taipei	1st		REF	CHI						Hardback		
 1656	"Beer, Robert"			The encyclopedia of Tibetan Symbols anf Motifs			Serindia Publications	London	1st		REF	GEN					0-906026-48-2	Hardback		
-																				
-																				
+1657	Nyang Ral Nyima Oser & Sangye Lingpa		Kunsang Erik Pema	Dakini Teachings	Padmasambhava's oral Instructions to Lady Tsogyl	1990	Shambhala	Boston&London	4th		TIB						0-87773-546-8	Paperback		
+1658	Tsultrim Ven.Khenpo Gyamtso Rimpoche		"Hookham, Shenpen"	Progressive Stages of Meditation on Emptiness		1986	Longchen Foundation	Oxford	2nd		TIB						0 9511477 0 6	Paperback		
+1659	Maitreyabandhu			Life with Full Attention	A Practical Course in Mindfulness	2009	Windhorse Publications	Cambridge	2nd		TRI						9781 899579 98 3	Paperback		
+1660	Hui-Neng		"Price A.F, Wong Mou-Lam"	The Diamond Sutra and The Sutra of Hui Neng		2005	Shambhala	Boston	1st		MAH	TXT					1-59030-137-4	Paperback		
+1661	"Dowman, Keith"			The Flight of the Garuda	The Dzogchen Traditon of Tibetan Buddhism	2003	Wisdom Publications	Somerville	1st		TIB						0-86171-367-2	Paperback		
+1662	"Chah, Ajahn"			Food For the Heart	The Collected Teachings of Ajahn Chah	2002	Wisdom Publications	Somerville	1st		GEN						0-86171-323-0	Paperback		
+1663	Vessantara			A Guide to the Deities of the Tantra		2008	Windhorse Publications	Cambridge	1st		TRI						978 1 899579 85 3	Paperback		
+1664	Ratnaguna			The Kosambiya Sutta: the creation of Sangha		1995	Aranya Rep	Cambridge			TRI							Paperback		
+1665	Vajragupta			The Triratna Story	Behind the Scenes of a New Buddhist Movement	2010	Windhorse Publications	Cambridge	1st		TRI						9781 899579 92 1	Paperback		
+1666	"Hanh, Thich Nhat"			Old Path White Clouds	The Life Story of the Buddha	1991	Ryder	"London, Sydney, Auckland, Johannesburg"	1st		LOB						9780712654173	Paperback		
+1667	"Burch, Vidyamala & Penman, Danny"			Mindfulness for Health	"A Practical Guide to Relieving Pain, Reducing Stress and Restoring Wellbeing"	2013	Piatkus	London	1st		TRI						978-0-7499-5924-1	Paperback		
+1668	"Khyentse, Dilgo"			The Heart of Compassion	The Thirty-Seven Verses on the Practice of the Bodhisattva	2007	Shambhala Publications	Boulder	1st		TIB						978-1-59030-457-0	Paperback		
+1669			"Cone, Margaret & Gombrich, Richard F."	The Perfect Generosity of Prince Vessanatara		2011	Pali Text Society	Bristol	2nd		PAL						"10 0 86013 488 1, 13 9780 86013 488 6"	Hardback		
+1670	"Shikpo, Rigdzin"			"Openness, Clarity, Sensitivity"		2000	Longchen Foundation	Oxford	2nd		TIB						0 951147 3 0	Paperback		
+1671			"Willson, Martin"	"In Praise of Tara, Songs of the Saviouress"	Source Text from India and Tibet on Buddhism's Great Goddess	1986	Wisdom Publications	London	1st		MAH	TXT					0 86171 033 9	Paperback		
+1672		Lokabandhu & Cittapala (Ed)		Readings from the Refuge Tree of the Western Buddhist Order		1992					TRI									
+1673	Sanghadevi			Living Together		2003	Windhorse Publications	Birmingham	1st		TRI						1 899579 50 8	Paperback		
+1674	"Pilchick, Terry"			Jai Bhim!	Dispatches from a peaceful Revolution	1988	Windhorse Publications	Glasgow	1st		TRI						0 904766 36 5	Paperback		
+1675	Sangharakshita			Through Buddhist Eyes	Travel Letters	2000	Windhorse Publications	Birmingham	1st		SANG						1 899579 23 0	Paperback		
+1676	Srimala			Breaking Free	Glimpses of a Buddhist Life	1996	Windhorse Publications	Birmingham	1st		TRI						1 899579 03 6	Paperback		
+1677	Kamalashila			Meditation	The Buddhist Way of Tranquility and Insight	1992	Windhorse Publications	Birmingham	2nd		TRI						1-899579-05-2	Paperback		
+1678	"Burbea, Rob"			Seeing That Frees	Meditations on emptiness and dependent arising	2014	Hermes Amara	Devon	1st		GEN						978 0992848 910	Paperback		
+1679	Bodhipaksa		Finnish	Vegetarismi	Minksi Ja Miten Ryhtya Kasvissyojaksi	1999	Like	Helsinki	1dt		TRI						952-471-205-9	Paperback		
+1680	Sangharakshita		Russian	A Guide to the Buddhist Path		1990	Windhorse Publications		1st		SANG						5-87761-019-8	Hardback		
+1681	Saddhaloka		Russian	Encounters with Enlightenment		2001	Windhorse Publications	Cambridge	1st		TRI						978-1-291-2406-7	Paperback		
+1682			Finnish	Mita Buddhalainen Meditaatio on		1994	Lansimaisen buddhalaisen veljeskunnan ystavat	Helsinki	1st		TRI						951-96285-2-5	Paperback		
+1683			Finnish	Mita Buddhalainen Meditaatio on		1994	Lansimaisen buddhalaisen veljeskunnan ystavat	Helsinki	1st		TRI						951-96285-2-5	Paperback		
+1684			Spannish	La Meditacion Y La Transformacion de la Mente		1994	Tres Joyas	Valencia	3rd		TRI						84-88768-06-0	Paperback		
+1685			Spannish	La Meditacion Y La Transformacion de la Mente		1994	Tres Joyas	Valencia	3rd		TRI						84-88768-06-0	Paperback		
+1686	Prakasha		Finnish	Nelja Arkkityyppia		1981	Lansimaisen buddhalaisen veljeskunnan ystavat	Helsinki	1st		TRI						951-96060-4-1	Paperback		
+1687	Sangharakshita		Russian	Vision and Transformation		2006			1st		SANG						5-94121-033-7	Paperback		
+1688	Sangharakshita		Russian	Vision and Transformation		2006			1st		SANG						5-94121-033-7	Paperback		
+1689	Sangharakshita		Russian	Who is the Buddha?		2004			1st		SANG						5-94121-022-1	Paperback		
+1690	Sangharakshita		Russian	Who is the Buddha?		2004			1st		SANG						5-94121-022-1	Paperback		
+1691	Sangharakshita		German	Die Drie Kleinode		1971	Delp Druck 	Bad Winsheim	1st		SANG						3-7689-0077-0	Paperback		
+1692	Analayo			Compassion and Emptiness in Early Buddhist Meditiation		2015	Windhorse Publications	Cambridge	1st		GEN						978 1 909314 55 9	Paperback		
+1693	"Ireland, John D."			An Anthology from the Samyutta Nikaya		1981	Buddhist Publication Society	Candy Ceylon	1st		PAL	ANTH						Hardback		
+1694	Sangharakshita			The Way to Wisdom	An Exploration of the Five Spiritual Faculties	1984	Windhorse	Glasgow	1st		SANG							Paperback		
+1695	Sangharakshita			Buddhism for Today and Tomorrow		1996	Windhorse	Birmingham	1st		SANG						0 904766 83 7	Paperback		
+1696	Sangharakshita			The Eternal Legacy	An Introduction to the Canonical Literature of Buddhism	1985	Tharpa publications	London	1st		SANG						0-948006-02-1	Paperback		
+1697	Sangharakshita			The Yogi's Joy	Songs of Milarepa	2006	Windhorse Publications	Birmingham	1st		SANG						1 899579 66 4	Paperback		
+1698	Sanghadevi			Living Together		2003	Windhorse Publications	Birmingham	1st		TRI						1 899579 50 8	Paperback		
+1699	Sangharakshita			Learning to Walk		1990	Windhorse Publications	Glasgow	1st		SANG						0-904766-45-4	Paperback		
+1700	Sangharakshita			Learning to Walk		1990	Windhorse Publications	Glasgow	1st		SANG						0-904766-45-4	Paperback		
+1701	Sivaraksa Sulak			Loyalty Demands Dissent	Autobiography of an Engaged Buddhist	1998	Parallax Press	Berkeley	1st								1-888375-10-8	Hardback		
+1702	Nimgade Namdeo			In the Tiger's Shadow	The Autobiography an Ambedkarite	2010	Navayana	New Delhi	1st								9788189059309	Paperback		
+1703	"Freeman, James M."			Untouchable	An Indian Life History	1979	George Allen and Unwin Ltd	London	1st											
+1704	"Ambedkar, Dr.B.R"			Writings and Speeches Vol17 Pt 1	Dr B.R.Ambedkar and his Egalitarian Revolution Pt 1-Stuggle for Human Rights	2003	Source Material Publication Committee	Mumbai	1st		AMB						79-905592-33622	Hardback		
+1705	"Ambedkar, Dr.B.R"			Writings and Speeches Vol17 Pt3	Dr B.R.Ambedkar and his Egalitarian Revolution Pt 3-Speeches	2003	Source Material Publication Committee	Mumbai	1st		AMB						79-905592-33622	Hardback		
+1706	"Ambedkar, Dr.B.R"			Writings and Speeches Vol17 pt 2	"Dr B.R.Ambedkar and his Egalitarian revolution pt2-sociopolitical, religious activities"	2003	Source Material Publication Committee	Mumbai	1st		AMB						79-905592-33622	Hardback		
+1707	"Ambedkar, Dr.B.R"			Writings and Speeches Vol2	Dr Ambedkar in the Bombay Legislature with the Simon Commission at the Round Table Conferences	1982	Source Material Publication Committee	Mumbai			AMB							Paperback		
+1708	"Ambedkar, Dr.B.R"			Writings and Sppeches Vol1	Castes in India etc	1979	Source Material Publication Committee	Mumbai	2nd		AMB							Hardback		
+1709	"Ambedkar, Dr.B.R"			Writings and Speeches Vol8	Reprint of Pakistan or the Partition of India	1990	Source Material Publication Committee	Mumbai	1st		AMB							Hardback		
+1710	"Ambedkar, Dr.B.R"			Writings and Speeches Vol7	Reprint of Who were the Shudras? And The Untouchables	1990	Source Material Publication Committee	Mumbai	1st		AMB							Hardback		
+1711	"Ambedkar, Dr.B.R"			Writings and Speeches V10 	Dr Ambedkar as Member of  the Governor General's Executive Council 1942-46	1991	Education Department of the Government of Maharashtra	Bombay			AMB							Hardback		
+1712	"Ambedkar, Dr.B.R"			Writings and Speeches Vol14 pt 1 (sec 1-3)	Dr Ambedkar and the Hindu Code Bill - general discussion on the draft	1995	Education Department of the Government of Maharashtra	Bombay			AMB							Hardback		
+1713	"Ambedkar, Dr.B.R"			Writings and Speeches Vol15	Dr Ambedkar as Free India's First Law Minister and Member of Opposition in Indian Parliament 1947-1956	1997	Education Department of the Government of Maharashtra	Bombay			AMB							Hardback		
+1714	"Ambedkar, Dr.B.R"			Writings and Speeches Vol11	The Buddha and his Dhamma	1992	Education Department of the Government of Maharashtra	Bombay			AMB							Hardback		
+1715	"Ambedkar, Dr.B.R"			Writings and Speeches Vol13	Dr Ambedkar the Principle Architect of the Constitution of India	1994	Education Department of the Government of Maharashtra	Bombay			AMB							Hardback		
+1716	"Ambedkar, Dr.B.R"			Writings and Speeches Vol14 pt 2 (sec 4)	Dr Ambedkar and the Hindu Code Bill (clause by clause discussion)	1995	Education Department of the Government of Maharashtra	Bombay			AMB							Hardback		
+1717	"Ambedkar, Dr.B.R"			Writings and Speeches Vol4	Unpublished Writings - Riddles in Hinduism	1987	Education Department of the Government of Maharashtra	Bombay			AMB							Hardback		
+1718	"Ambedkar, Dr.B.R"			Writings and Speeches Vol5	Unpublished Writings - Untouchables and other essays on Untouchables and Untouchability	1989	Education Department of the Government of Maharashtra	Bombay			AMB							Hardback		
+1719	"Ambedkar, Dr.B.R"			Writings and Speeches Vol11 Supplement	"Pali and other Sources of the Buddha and his Dhamma, with an Index"	1995	Education Department of the Government of Maharashtra	Bombay			AMB							Paperback		
+1720	"Ambedkar, Dr.B.R"			Writings and Speeches Vol6	"OnEconomics, History of Indian Currency and banking Vol1"	1989	Education Department of the Government of Maharashtra	Bombay			AMB							Hardback		
+1721	"Ambedkar, Dr.B.R"			Writings and Speeches Vol9	What Congress and Gandhi have done to the untouchables	1990	Education Department of the Government of Maharashtra	Bombay			AMB							Hardback		
+1722	"Ambedkar, Dr.B.R"			Who Were the Shudras?	How they came to be the fourth Varna in the Indo-Aryan society	1946	Thackers		3rd		AMB							Hardback		
+1723	"Ambedkar, Dr.B.R"			Dr Babasaheb Ambedkar and the Movement of Untouchableas Vol1		1982	Education Department of the Government of Maharashtra	Bombay	1st		AMB							Hardback		
+1724																				
