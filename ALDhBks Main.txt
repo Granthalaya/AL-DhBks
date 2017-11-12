@@ -1209,7 +1209,7 @@ book No	Author	Alternate name (i.e.  Order Name)	Translator	Title	Sub-title	Year
 1212	"Mullin, Glenn H"			Death & Dying	The Tbetan Tradition	1986	Arkana				TIB	GEN	MUL				0-14-019013-9	paperback	1	
 1213	"Napper, Elizabeth"			Dependent-Arising and Emptiness		1989	Wisdom Publications			Tibetan	TIB	GEN	NAP				0-86171-057-6	Hardback	1	
 1214	Naropa			The Life and Teaching of Naropa	Translated from the original Tibetan with Philosophical Commentary based on the Oral Transmission	1963	Clarendon Press			Tibetan	TIB	KAG	NAR					Hardback	1	
-1215	"Nebesky-Wojkowitz, R?¬ne de"			Oracles and Demons of Tibet	The Cult and Iconography of the Tibetan Protective Deities	1996	Book Faith India			Tibetan	TIB	GEN	NEB				81-7303-039-1	Hardback book	1	
+1215  "Nebesky-Wojkowitz, R?Â¬ne de"			Oracles and Demons of Tibet	The Cult and Iconography of the Tibetan Protective Deities	1996	Book Faith India			Tibetan	TIB	GEN	NEB				81-7303-039-1	Hardback book	1	
 1216	"Nebesky-Wojkowitz, Rene von"		Bullock. Michael	Where the Gods are Mountains	Three Years among the People of the Himalays	1956	Weidenfeld and Nicolson			Tibetan	TIB	GEN	NEB				None	Hardback	1	
 1217	"Newland, Guy (ed)"			Changing Minds	Contributions to the Study of Buddhism and Tibet. In Honor of Jefferey Hopkins	2001	Snow Lion Publications			Tibetan	TIB	GEN	NEW				1-55939-160-x	Hardback	1	
 1218	"Newland, Guy"			Compassion: A Tibetan Analysis	A Buddhist Monastic Textbook	1984	Wisdom Publications			Tibetan	TIB	GEL	NEW				0-86171-024-x	Paperback	1	
@@ -1732,3 +1732,4 @@ book No	Author	Alternate name (i.e.  Order Name)	Translator	Title	Sub-title	Year
 1738	Anand Mulk Raj & Zelliot Eleanor (eds)			An Anthology of Dalit Literature	Poems	1992	Gyan Publishing House	New Delhi	1st								81-212-0419-4	Hardback		
 1739	"Mendelsohn, Oliver & Vicziany, Marika"			The Untouchables	"Subordination, Poverty and the State in Modern India"	1998	Cambridge University Press	Cambridge	1st								0 521 55671 6	Paperback		
 1740	"Aryama, Sukhadeo thorat (ed)"			Ambedkar in Retrospect	"Essays on Economics, Politics and Society"	2007	Indian Institute of Dalit Studies	New Delhi	1st								81-316-0047-5	Hardback		
+
